@@ -1,0 +1,31 @@
+name: APIs.io Eligibility
+description: "Who may sign up for each provider's API and where: countries served and excluded, entity types, restricted uses, verification and minimum age, quoted from their own pages."
+image: https://apis.io/assets/branding/apisio-social-card.png
+url: https://apis.io
+node: website
+nav_active: eligibility
+
+keywords:
+  - APIs
+  - Search
+  - Discovery
+  - Eligibility
+  - ISO 3166-1
+
+exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", "scripts"]
+include: [".well-known"]
+
+github_org: api-search
+github_repo: eligibility
+
+collections:
+  eligibility:
+    output: true
+    permalink: /eligibility/:path/
+
+defaults:
+  - scope:
+      path: ""
+      type: eligibility
+    values:
+      layout: eligibility

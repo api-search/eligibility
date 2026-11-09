@@ -1,0 +1,10 @@
+---
+layout: none
+---
+# APIs.io Eligibility
+
+> Who may sign up for each provider's API and where: countries served and excluded, entity types, restricted uses, verification and minimum age. Every statement is quoted word for word from the provider's own page, with the page and the date it was read. Nothing is generated, and APIs.io verifies none of it.
+
+- [Eligibility directory](https://apis.io/eligibility/): every published document
+- [API Commons Eligibility schema](https://github.com/api-commons/eligibility): the format these documents use
+- [ISO 3166-1](https://www.iso.org/iso-3166-country-codes.html): the country codes used wherever a page names countries
