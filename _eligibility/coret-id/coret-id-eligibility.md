@@ -1,0 +1,50 @@
+---
+claim_count: 1
+description: ''
+doc:
+  countries:
+    excluded: []
+    served: []
+    text: null
+  minimum_age:
+    text: null
+    value: null
+  restricted_uses:
+  - summary: Excessive automation
+    text: Menjalankan otomasi berlebihan yang mengganggu kinerja layanan.
+  verification:
+    approval_required: null
+    kyb: null
+    kyc: null
+    text: null
+excluded_countries: []
+layer: eligibility
+layer_version: 0.1.0
+layout: eligibility
+method: harvested
+model: claude-haiku-5-5
+name: coret.id
+provenance_date: '2026-11-09'
+provider_name: coret.id
+provider_slug: coret-id
+slug: coret-id-eligibility
+source_date: '2026-11-09'
+source_filename: coret-id-eligibility.yml
+source_heading: Eligibility
+source_page: https://coret.id/acceptable-use
+source_url: ''
+source_yaml: "# Read from the provider's own page by engine/business/harvest-business.py. Every `text` is quoted verbatim from `url` (or the row's `source`); `unstated` means the page did not say.\neligibility: 0.1.0\nprovider: coret.id\naid: coret-id\nurl: https://coret.id/acceptable-use\nsource_date: '2026-11-09'\nx-apis-io-derivation:\n  synthetic: false\n  method: harvested\n  read: '2026-11-09'\n  tool: engine/business/harvest-business.py\n  model: claude-haiku-5-5\ncountries:\n  served: []\n  excluded: []\n  text: null\nentity_types: []\nrestricted_uses:\n- summary: Excessive automation\n  text: Menjalankan otomasi berlebihan yang mengganggu kinerja layanan.\nverification:\n  kyc: null\n  kyb: null\n  approval_required: null\n  text: null\nminimum_age:\n  value: null\n  text: null\n"
+source_yaml_url: https://artifacts.apis.io/coret-id/eligibility/coret-id-eligibility.yml
+stated_fields:
+- restricted_uses
+summary_line: 1 quoted statement, read from coret.id's own page on 2026-11-09.
+synthetic: false
+tags:
+- Company
+- Mind Mapping
+- Collaboration
+- Productivity
+- AI Agents
+- MCP
+- Indonesia
+---
