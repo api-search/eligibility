@@ -63,7 +63,7 @@ synthetic: false
 tags:
 - Company
 - Contract Management
-- Legal Technology
+- Legal Tech
 - Artificial Intelligence
 - Document Parsing
 - Data Extraction

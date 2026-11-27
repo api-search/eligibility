@@ -48,6 +48,6 @@ tags:
 - Domestic Workers
 - Social Security
 - Switzerland
-- HR
+- Human Resources
 - MCP
 ---

@@ -1,0 +1,287 @@
+---
+api_specs:
+- filename: eth-zurich-bitstreams-api-openapi.yml
+  format: yaml
+  label: ETH Zurich – Swiss Federal Institute of Technology Bitstreams API
+  slug: eth-zurich-bitstreams-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/eth-zurich/openapi/eth-zurich-bitstreams-api-openapi.yml
+- filename: eth-zurich-collections-api-openapi.yml
+  format: yaml
+  label: ETH Zurich – Swiss Federal Institute of Technology Collections API
+  slug: eth-zurich-collections-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/eth-zurich/openapi/eth-zurich-collections-api-openapi.yml
+- filename: eth-zurich-communities-api-openapi.yml
+  format: yaml
+  label: ETH Zurich – Swiss Federal Institute of Technology Communities API
+  slug: eth-zurich-communities-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/eth-zurich/openapi/eth-zurich-communities-api-openapi.yml
+- filename: eth-zurich-content-item-api-openapi.yml
+  format: yaml
+  label: ETH Zurich – Swiss Federal Institute of Technology Content Item API
+  slug: eth-zurich-content-item-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/eth-zurich/openapi/eth-zurich-content-item-api-openapi.yml
+- filename: eth-zurich-contributors-api-openapi.yml
+  format: yaml
+  label: ETH Zurich – Swiss Federal Institute of Technology Contributors API
+  slug: eth-zurich-contributors-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/eth-zurich/openapi/eth-zurich-contributors-api-openapi.yml
+- filename: eth-zurich-core-api-openapi.yml
+  format: yaml
+  label: ETH Zurich – Swiss Federal Institute of Technology Core API
+  slug: eth-zurich-core-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/eth-zurich/openapi/eth-zurich-core-api-openapi.yml
+- filename: eth-zurich-discover-api-openapi.yml
+  format: yaml
+  label: ETH Zurich – Swiss Federal Institute of Technology Discover API
+  slug: eth-zurich-discover-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/eth-zurich/openapi/eth-zurich-discover-api-openapi.yml
+- filename: eth-zurich-dossier-api-openapi.yml
+  format: yaml
+  label: ETH Zurich – Swiss Federal Institute of Technology Dossier API
+  slug: eth-zurich-dossier-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/eth-zurich/openapi/eth-zurich-dossier-api-openapi.yml
+- filename: eth-zurich-dossiers-api-openapi.yml
+  format: yaml
+  label: ETH Zurich – Swiss Federal Institute of Technology Dossiers API
+  slug: eth-zurich-dossiers-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/eth-zurich/openapi/eth-zurich-dossiers-api-openapi.yml
+- filename: eth-zurich-e-maps-api-openapi.yml
+  format: yaml
+  label: ETH Zurich – Swiss Federal Institute of Technology E Maps API
+  slug: eth-zurich-e-maps-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/eth-zurich/openapi/eth-zurich-e-maps-api-openapi.yml
+- filename: eth-zurich-e-pics-items-api-openapi.yml
+  format: yaml
+  label: ETH Zurich – Swiss Federal Institute of Technology E-Pics items API
+  slug: eth-zurich-e-pics-items-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/eth-zurich/openapi/eth-zurich-e-pics-items-api-openapi.yml
+- filename: eth-zurich-e-rara-api-openapi.yml
+  format: yaml
+  label: ETH Zurich – Swiss Federal Institute of Technology E Rara API
+  slug: eth-zurich-e-rara-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/eth-zurich/openapi/eth-zurich-e-rara-api-openapi.yml
+- filename: eth-zurich-eth-research-collection-api-v2-api-openapi.yml
+  format: yaml
+  label: ETH Zurich – Swiss Federal Institute of Technology ETH Research Collection API V2 API
+  slug: eth-zurich-eth-research-collection-api-v2-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/eth-zurich/openapi/eth-zurich-eth-research-collection-api-v2-api-openapi.yml
+- filename: eth-zurich-geo-container-api-openapi.yml
+  format: yaml
+  label: ETH Zurich – Swiss Federal Institute of Technology Geo Container API
+  slug: eth-zurich-geo-container-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/eth-zurich/openapi/eth-zurich-geo-container-api-openapi.yml
+- filename: eth-zurich-geo-topics-api-openapi.yml
+  format: yaml
+  label: ETH Zurich – Swiss Federal Institute of Technology Geo Topics API
+  slug: eth-zurich-geo-topics-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/eth-zurich/openapi/eth-zurich-geo-topics-api-openapi.yml
+- filename: eth-zurich-geodata-api-openapi.yml
+  format: yaml
+  label: ETH Zurich – Swiss Federal Institute of Technology Geodata API
+  slug: eth-zurich-geodata-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/eth-zurich/openapi/eth-zurich-geodata-api-openapi.yml
+- filename: eth-zurich-handle-api-openapi.yml
+  format: yaml
+  label: ETH Zurich – Swiss Federal Institute of Technology Handle API
+  slug: eth-zurich-handle-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/eth-zurich/openapi/eth-zurich-handle-api-openapi.yml
+- filename: eth-zurich-information-about-a-person-api-openapi.yml
+  format: yaml
+  label: ETH Zurich – Swiss Federal Institute of Technology Information about a person API
+  slug: eth-zurich-information-about-a-person-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/eth-zurich/openapi/eth-zurich-information-about-a-person-api-openapi.yml
+- filename: eth-zurich-items-api-openapi.yml
+  format: yaml
+  label: ETH Zurich – Swiss Federal Institute of Technology Items API
+  slug: eth-zurich-items-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/eth-zurich/openapi/eth-zurich-items-api-openapi.yml
+- filename: eth-zurich-list-of-persons-api-openapi.yml
+  format: yaml
+  label: ETH Zurich – Swiss Federal Institute of Technology List of persons API
+  slug: eth-zurich-list-of-persons-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/eth-zurich/openapi/eth-zurich-list-of-persons-api-openapi.yml
+- filename: eth-zurich-locations-api-openapi.yml
+  format: yaml
+  label: ETH Zurich – Swiss Federal Institute of Technology Locations API
+  slug: eth-zurich-locations-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/eth-zurich/openapi/eth-zurich-locations-api-openapi.yml
+- filename: eth-zurich-maps-api-openapi.yml
+  format: yaml
+  label: ETH Zurich – Swiss Federal Institute of Technology Maps API
+  slug: eth-zurich-maps-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/eth-zurich/openapi/eth-zurich-maps-api-openapi.yml
+- filename: eth-zurich-places-api-openapi.yml
+  format: yaml
+  label: ETH Zurich – Swiss Federal Institute of Technology Places API
+  slug: eth-zurich-places-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/eth-zurich/openapi/eth-zurich-places-api-openapi.yml
+- filename: eth-zurich-poi-api-openapi.yml
+  format: yaml
+  label: ETH Zurich – Swiss Federal Institute of Technology Poi API
+  slug: eth-zurich-poi-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/eth-zurich/openapi/eth-zurich-poi-api-openapi.yml
+- filename: eth-zurich-poi-items-api-openapi.yml
+  format: yaml
+  label: ETH Zurich – Swiss Federal Institute of Technology Poi items API
+  slug: eth-zurich-poi-items-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/eth-zurich/openapi/eth-zurich-poi-items-api-openapi.yml
+- filename: eth-zurich-pois-api-openapi.yml
+  format: yaml
+  label: ETH Zurich – Swiss Federal Institute of Technology Pois API
+  slug: eth-zurich-pois-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/eth-zurich/openapi/eth-zurich-pois-api-openapi.yml
+- filename: eth-zurich-provenance-items-api-openapi.yml
+  format: yaml
+  label: ETH Zurich – Swiss Federal Institute of Technology provenance items API
+  slug: eth-zurich-provenance-items-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/eth-zurich/openapi/eth-zurich-provenance-items-api-openapi.yml
+- filename: eth-zurich-publication-places-api-openapi.yml
+  format: yaml
+  label: ETH Zurich – Swiss Federal Institute of Technology Publication places API
+  slug: eth-zurich-publication-places-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/eth-zurich/openapi/eth-zurich-publication-places-api-openapi.yml
+- filename: eth-zurich-route-api-openapi.yml
+  format: yaml
+  label: ETH Zurich – Swiss Federal Institute of Technology Route API
+  slug: eth-zurich-route-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/eth-zurich/openapi/eth-zurich-route-api-openapi.yml
+- filename: eth-zurich-routes-api-openapi.yml
+  format: yaml
+  label: ETH Zurich – Swiss Federal Institute of Technology Routes API
+  slug: eth-zurich-routes-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/eth-zurich/openapi/eth-zurich-routes-api-openapi.yml
+- filename: eth-zurich-search-api-openapi.yml
+  format: yaml
+  label: ETH Zurich – Swiss Federal Institute of Technology Search API
+  slug: eth-zurich-search-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/eth-zurich/openapi/eth-zurich-search-api-openapi.yml
+- filename: eth-zurich-search-portal-resources-api-openapi.yml
+  format: yaml
+  label: ETH Zurich – Swiss Federal Institute of Technology Search Portal resources API
+  slug: eth-zurich-search-portal-resources-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/eth-zurich/openapi/eth-zurich-search-portal-resources-api-openapi.yml
+- filename: eth-zurich-suggestion-api-openapi.yml
+  format: yaml
+  label: ETH Zurich – Swiss Federal Institute of Technology Suggestion API
+  slug: eth-zurich-suggestion-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/eth-zurich/openapi/eth-zurich-suggestion-api-openapi.yml
+- filename: eth-zurich-topics-api-openapi.yml
+  format: yaml
+  label: ETH Zurich – Swiss Federal Institute of Technology Topics API
+  slug: eth-zurich-topics-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/eth-zurich/openapi/eth-zurich-topics-api-openapi.yml
+- filename: eth-zurich-util-api-openapi.yml
+  format: yaml
+  label: ETH Zurich – Swiss Federal Institute of Technology Util API
+  slug: eth-zurich-util-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/eth-zurich/openapi/eth-zurich-util-api-openapi.yml
+- filename: eth-zurich-compute-api-openapi.yml
+  format: yaml
+  label: ETH Zurich – Swiss Federal Institute of Technology Compute API
+  slug: eth-zurich-compute-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/eth-zurich/openapi/eth-zurich-compute-api-openapi.yml
+- filename: eth-zurich-filesystem-api-openapi.yml
+  format: yaml
+  label: ETH Zurich – Swiss Federal Institute of Technology Filesystem API
+  slug: eth-zurich-filesystem-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/eth-zurich/openapi/eth-zurich-filesystem-api-openapi.yml
+- filename: eth-zurich-status-api-openapi.yml
+  format: yaml
+  label: ETH Zurich – Swiss Federal Institute of Technology Status API
+  slug: eth-zurich-status-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/eth-zurich/openapi/eth-zurich-status-api-openapi.yml
+claim_count: 2
+description: ''
+doc:
+  countries:
+    excluded: []
+    served: []
+    text: null
+  minimum_age:
+    text: null
+    value: null
+  restricted_uses:
+  - summary: Illegal or breaching use
+    text: Should there be indications of use that is illegal, or in breach of these provisions, ETH Library may block a user's access to the Portal and all API keys without warning or compensation.
+  verification:
+    approval_required: null
+    kyb: null
+    kyc: null
+    text: The data recipient must register to gain access to the Portal.
+excluded_countries: []
+layer: eligibility
+layer_version: 0.1.0
+layout: eligibility
+method: harvested
+model: claude-haiku-5-5
+name: ETH Zurich – Swiss Federal Institute of Technology
+provenance_date: '2026-11-09'
+provider_name: ETH Zurich – Swiss Federal Institute of Technology
+provider_slug: eth-zurich
+slug: eth-zurich-eligibility
+source_date: '2026-11-09'
+source_filename: eth-zurich-eligibility.yml
+source_heading: Eligibility
+source_page: https://developer.library.ethz.ch/terms
+source_url: ''
+source_yaml: "# Read from the provider's own page by engine/business/harvest-business.py. Every `text` is quoted verbatim from `url` (or the row's `source`); `unstated` means the page did not say.\neligibility: 0.1.0\nprovider: ETH Zurich – Swiss Federal Institute of Technology\naid: eth-zurich\nurl: https://developer.library.ethz.ch/terms\nsource_date: '2026-11-09'\nx-apis-io-derivation:\n  synthetic: false\n  method: harvested\n  read: '2026-11-09'\n  tool: engine/business/harvest-business.py\n  model: claude-haiku-5-5\ncountries:\n  served: []\n  excluded: []\n  text: null\nentity_types: []\nrestricted_uses:\n- summary: Illegal or breaching use\n  text: Should there be indications of use that is illegal, or in breach of these provisions, ETH Library may block\n    a user's access to the Portal and all API keys without warning or compensation.\nverification:\n  kyc: null\n  kyb: null\n  approval_required: null\n  text: The data recipient must register to gain access to the Portal.\nminimum_age:\n\
+  \  value: null\n  text: null\n"
+source_yaml_url: https://artifacts.apis.io/eth-zurich/eligibility/eth-zurich-eligibility.yml
+stated_fields:
+- restricted_uses
+- verification
+summary_line: 2 quoted statements, read from ETH Zurich – Swiss Federal Institute of Technology's own page on 2026-11-09.
+synthetic: false
+tags:
+- University
+- Higher Education
+- Education
+- Switzerland
+- ETH Domain
+- Research
+- Research Data
+- Research Computing
+- High Performance Computing
+- Library
+- Open Data
+- Identity Federation
+- Digital Collections
+---

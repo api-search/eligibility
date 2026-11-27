@@ -1,0 +1,60 @@
+---
+claim_count: 5
+description: ''
+doc:
+  countries:
+    excluded: []
+    served: []
+    text: null
+  entity_types:
+  - text: You need to be 18 years or older to register.
+    type: individual
+  - text: If you use our Services on behalf of another person or entity, you represent and warrant that you're authorized to accept the Agreement on that person's or entity's behalf
+    type: business
+  minimum_age:
+    text: You need to be 18 years or older to register.
+    value: '18'
+  restricted_uses:
+  - summary: Personal, non-commercial use of Virtual Items
+    text: The provision of Virtual Items is strictly for your personal, non-commercial use in connection with your use of the Service.
+  verification:
+    approval_required: null
+    kyb: null
+    kyc: null
+    text: You need to be 18 years or older to register.
+excluded_countries: []
+layer: eligibility
+layer_version: 0.1.0
+layout: eligibility
+method: harvested
+model: claude-haiku-5-5
+name: Carrd
+provenance_date: '2026-11-09'
+provider_name: Carrd
+provider_slug: carrd
+slug: carrd-eligibility
+source_date: '2026-11-09'
+source_filename: carrd-eligibility.yml
+source_heading: Eligibility
+source_page: https://carrd.com/docs/general/terms
+source_url: ''
+source_yaml: "# Read from the provider's own page by engine/business/harvest-business.py. Every `text` is quoted verbatim from `url` (or the row's `source`); `unstated` means the page did not say.\neligibility: 0.1.0\nprovider: Carrd\naid: carrd\nurl: https://carrd.com/docs/general/terms\nsource_date: '2026-11-09'\nx-apis-io-derivation:\n  synthetic: false\n  method: harvested\n  read: '2026-11-09'\n  tool: engine/business/harvest-business.py\n  model: claude-haiku-5-5\ncountries:\n  served: []\n  excluded: []\n  text: null\nentity_types:\n- type: individual\n  text: You need to be 18 years or older to register.\n- type: business\n  text: If you use our Services on behalf of another person or entity, you represent and warrant that you're authorized\n    to accept the Agreement on that person's or entity's behalf\nrestricted_uses:\n- summary: Personal, non-commercial use of Virtual Items\n  text: The provision of Virtual Items is strictly for your personal, non-commercial use in connection\
+  \ with your\n    use of the Service.\nverification:\n  kyc: null\n  kyb: null\n  approval_required: null\n  text: You need to be 18 years or older to register.\nminimum_age:\n  value: '18'\n  text: You need to be 18 years or older to register.\n"
+source_yaml_url: https://artifacts.apis.io/carrd/eligibility/carrd-eligibility.yml
+stated_fields:
+- entity_types
+- restricted_uses
+- verification
+- minimum_age
+summary_line: 5 quoted statements, read from Carrd's own page on 2026-11-09.
+synthetic: false
+tags:
+- Company
+- Website Builder
+- No-Code
+- Landing Pages
+- Web Hosting
+- Site Builder
+- Forms
+- Software-as-a-Service
+---

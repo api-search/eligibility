@@ -1,0 +1,448 @@
+---
+api_specs:
+- filename: amazon-iot-device-management-accept-certificate-transfer-api-openapi.yml
+  format: yaml
+  label: Amazon IoT Device Management Accept Certificate Transfer API
+  slug: amazon-iot-device-management-accept-certificate-transfer-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/amazon-iot-device-management/openapi/amazon-iot-device-management-accept-certificate-transfer-api-openapi.yml
+- filename: amazon-iot-device-management-active-violations-api-openapi.yml
+  format: yaml
+  label: Amazon IoT Device Management Active Violations API
+  slug: amazon-iot-device-management-active-violations-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/amazon-iot-device-management/openapi/amazon-iot-device-management-active-violations-api-openapi.yml
+- filename: amazon-iot-device-management-attached-policies-api-openapi.yml
+  format: yaml
+  label: Amazon IoT Device Management Attached Policies API
+  slug: amazon-iot-device-management-attached-policies-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/amazon-iot-device-management/openapi/amazon-iot-device-management-attached-policies-api-openapi.yml
+- filename: amazon-iot-device-management-audit-api-openapi.yml
+  format: yaml
+  label: Amazon IoT Device Management Audit API
+  slug: amazon-iot-device-management-audit-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/amazon-iot-device-management/openapi/amazon-iot-device-management-audit-api-openapi.yml
+- filename: amazon-iot-device-management-authorizer-api-openapi.yml
+  format: yaml
+  label: Amazon IoT Device Management Authorizer API
+  slug: amazon-iot-device-management-authorizer-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/amazon-iot-device-management/openapi/amazon-iot-device-management-authorizer-api-openapi.yml
+- filename: amazon-iot-device-management-authorizers-api-openapi.yml
+  format: yaml
+  label: Amazon IoT Device Management Authorizers API
+  slug: amazon-iot-device-management-authorizers-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/amazon-iot-device-management/openapi/amazon-iot-device-management-authorizers-api-openapi.yml
+- filename: amazon-iot-device-management-behavior-model-training-api-openapi.yml
+  format: yaml
+  label: Amazon IoT Device Management Behavior Model Training API
+  slug: amazon-iot-device-management-behavior-model-training-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/amazon-iot-device-management/openapi/amazon-iot-device-management-behavior-model-training-api-openapi.yml
+- filename: amazon-iot-device-management-billing-groups-api-openapi.yml
+  format: yaml
+  label: Amazon IoT Device Management Billing Groups API
+  slug: amazon-iot-device-management-billing-groups-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/amazon-iot-device-management/openapi/amazon-iot-device-management-billing-groups-api-openapi.yml
+- filename: amazon-iot-device-management-cacertificate-api-openapi.yml
+  format: yaml
+  label: Amazon IoT Device Management Cacertificate API
+  slug: amazon-iot-device-management-cacertificate-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/amazon-iot-device-management/openapi/amazon-iot-device-management-cacertificate-api-openapi.yml
+- filename: amazon-iot-device-management-cacertificates-api-openapi.yml
+  format: yaml
+  label: Amazon IoT Device Management Cacertificates API
+  slug: amazon-iot-device-management-cacertificates-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/amazon-iot-device-management/openapi/amazon-iot-device-management-cacertificates-api-openapi.yml
+- filename: amazon-iot-device-management-cancel-certificate-transfer-api-openapi.yml
+  format: yaml
+  label: Amazon IoT Device Management Cancel Certificate Transfer API
+  slug: amazon-iot-device-management-cancel-certificate-transfer-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/amazon-iot-device-management/openapi/amazon-iot-device-management-cancel-certificate-transfer-api-openapi.yml
+- filename: amazon-iot-device-management-certificate-api-openapi.yml
+  format: yaml
+  label: Amazon IoT Device Management Certificate API
+  slug: amazon-iot-device-management-certificate-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/amazon-iot-device-management/openapi/amazon-iot-device-management-certificate-api-openapi.yml
+- filename: amazon-iot-device-management-certificates-api-openapi.yml
+  format: yaml
+  label: Amazon IoT Device Management Certificates API
+  slug: amazon-iot-device-management-certificates-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/amazon-iot-device-management/openapi/amazon-iot-device-management-certificates-api-openapi.yml
+- filename: amazon-iot-device-management-certificates-by-ca-api-openapi.yml
+  format: yaml
+  label: Amazon IoT Device Management Certificates By Ca API
+  slug: amazon-iot-device-management-certificates-by-ca-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/amazon-iot-device-management/openapi/amazon-iot-device-management-certificates-by-ca-api-openapi.yml
+- filename: amazon-iot-device-management-certificates-out-going-api-openapi.yml
+  format: yaml
+  label: Amazon IoT Device Management Certificates Out Going API
+  slug: amazon-iot-device-management-certificates-out-going-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/amazon-iot-device-management/openapi/amazon-iot-device-management-certificates-out-going-api-openapi.yml
+- filename: amazon-iot-device-management-confirmdestination-api-openapi.yml
+  format: yaml
+  label: Amazon IoT Device Management Confirmdestination API
+  slug: amazon-iot-device-management-confirmdestination-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/amazon-iot-device-management/openapi/amazon-iot-device-management-confirmdestination-api-openapi.yml
+- filename: amazon-iot-device-management-custom-metric-api-openapi.yml
+  format: yaml
+  label: Amazon IoT Device Management Custom Metric API
+  slug: amazon-iot-device-management-custom-metric-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/amazon-iot-device-management/openapi/amazon-iot-device-management-custom-metric-api-openapi.yml
+- filename: amazon-iot-device-management-custom-metrics-api-openapi.yml
+  format: yaml
+  label: Amazon IoT Device Management Custom Metrics API
+  slug: amazon-iot-device-management-custom-metrics-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/amazon-iot-device-management/openapi/amazon-iot-device-management-custom-metrics-api-openapi.yml
+- filename: amazon-iot-device-management-default-authorizer-api-openapi.yml
+  format: yaml
+  label: Amazon IoT Device Management Default Authorizer API
+  slug: amazon-iot-device-management-default-authorizer-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/amazon-iot-device-management/openapi/amazon-iot-device-management-default-authorizer-api-openapi.yml
+- filename: amazon-iot-device-management-destinations-api-openapi.yml
+  format: yaml
+  label: Amazon IoT Device Management Destinations API
+  slug: amazon-iot-device-management-destinations-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/amazon-iot-device-management/openapi/amazon-iot-device-management-destinations-api-openapi.yml
+- filename: amazon-iot-device-management-detect-api-openapi.yml
+  format: yaml
+  label: Amazon IoT Device Management Detect API
+  slug: amazon-iot-device-management-detect-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/amazon-iot-device-management/openapi/amazon-iot-device-management-detect-api-openapi.yml
+- filename: amazon-iot-device-management-dimensions-api-openapi.yml
+  format: yaml
+  label: Amazon IoT Device Management Dimensions API
+  slug: amazon-iot-device-management-dimensions-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/amazon-iot-device-management/openapi/amazon-iot-device-management-dimensions-api-openapi.yml
+- filename: amazon-iot-device-management-dynamic-thing-groups-api-openapi.yml
+  format: yaml
+  label: Amazon IoT Device Management Dynamic Thing Groups API
+  slug: amazon-iot-device-management-dynamic-thing-groups-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/amazon-iot-device-management/openapi/amazon-iot-device-management-dynamic-thing-groups-api-openapi.yml
+- filename: amazon-iot-device-management-effective-policies-api-openapi.yml
+  format: yaml
+  label: Amazon IoT Device Management Effective Policies API
+  slug: amazon-iot-device-management-effective-policies-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/amazon-iot-device-management/openapi/amazon-iot-device-management-effective-policies-api-openapi.yml
+- filename: amazon-iot-device-management-endpoint-api-openapi.yml
+  format: yaml
+  label: Amazon IoT Device Management Endpoint API
+  slug: amazon-iot-device-management-endpoint-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/amazon-iot-device-management/openapi/amazon-iot-device-management-endpoint-api-openapi.yml
+- filename: amazon-iot-device-management-event-configurations-api-openapi.yml
+  format: yaml
+  label: Amazon IoT Device Management Event Configurations API
+  slug: amazon-iot-device-management-event-configurations-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/amazon-iot-device-management/openapi/amazon-iot-device-management-event-configurations-api-openapi.yml
+- filename: amazon-iot-device-management-fleet-metric-api-openapi.yml
+  format: yaml
+  label: Amazon IoT Device Management Fleet Metric API
+  slug: amazon-iot-device-management-fleet-metric-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/amazon-iot-device-management/openapi/amazon-iot-device-management-fleet-metric-api-openapi.yml
+- filename: amazon-iot-device-management-fleet-metrics-api-openapi.yml
+  format: yaml
+  label: Amazon IoT Device Management Fleet Metrics API
+  slug: amazon-iot-device-management-fleet-metrics-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/amazon-iot-device-management/openapi/amazon-iot-device-management-fleet-metrics-api-openapi.yml
+- filename: amazon-iot-device-management-indexing-api-openapi.yml
+  format: yaml
+  label: Amazon IoT Device Management Indexing API
+  slug: amazon-iot-device-management-indexing-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/amazon-iot-device-management/openapi/amazon-iot-device-management-indexing-api-openapi.yml
+- filename: amazon-iot-device-management-indices-api-openapi.yml
+  format: yaml
+  label: Amazon IoT Device Management Indices API
+  slug: amazon-iot-device-management-indices-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/amazon-iot-device-management/openapi/amazon-iot-device-management-indices-api-openapi.yml
+- filename: amazon-iot-device-management-job-templates-api-openapi.yml
+  format: yaml
+  label: Amazon IoT Device Management Job Templates API
+  slug: amazon-iot-device-management-job-templates-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/amazon-iot-device-management/openapi/amazon-iot-device-management-job-templates-api-openapi.yml
+- filename: amazon-iot-device-management-jobs-api-openapi.yml
+  format: yaml
+  label: Amazon IoT Device Management Jobs API
+  slug: amazon-iot-device-management-jobs-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/amazon-iot-device-management/openapi/amazon-iot-device-management-jobs-api-openapi.yml
+- filename: amazon-iot-device-management-keys-and-certificate-api-openapi.yml
+  format: yaml
+  label: Amazon IoT Device Management Keys And Certificate API
+  slug: amazon-iot-device-management-keys-and-certificate-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/amazon-iot-device-management/openapi/amazon-iot-device-management-keys-and-certificate-api-openapi.yml
+- filename: amazon-iot-device-management-managed-job-templates-api-openapi.yml
+  format: yaml
+  label: Amazon IoT Device Management Managed Job Templates API
+  slug: amazon-iot-device-management-managed-job-templates-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/amazon-iot-device-management/openapi/amazon-iot-device-management-managed-job-templates-api-openapi.yml
+- filename: amazon-iot-device-management-mitigationactions-api-openapi.yml
+  format: yaml
+  label: Amazon IoT Device Management Mitigationactions API
+  slug: amazon-iot-device-management-mitigationactions-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/amazon-iot-device-management/openapi/amazon-iot-device-management-mitigationactions-api-openapi.yml
+- filename: amazon-iot-device-management-policies-api-openapi.yml
+  format: yaml
+  label: Amazon IoT Device Management Policies API
+  slug: amazon-iot-device-management-policies-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/amazon-iot-device-management/openapi/amazon-iot-device-management-policies-api-openapi.yml
+- filename: amazon-iot-device-management-policy-targets-api-openapi.yml
+  format: yaml
+  label: Amazon IoT Device Management Policy Targets API
+  slug: amazon-iot-device-management-policy-targets-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/amazon-iot-device-management/openapi/amazon-iot-device-management-policy-targets-api-openapi.yml
+- filename: amazon-iot-device-management-principal-policies-api-openapi.yml
+  format: yaml
+  label: Amazon IoT Device Management Principal Policies API
+  slug: amazon-iot-device-management-principal-policies-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/amazon-iot-device-management/openapi/amazon-iot-device-management-principal-policies-api-openapi.yml
+- filename: amazon-iot-device-management-principals-api-openapi.yml
+  format: yaml
+  label: Amazon IoT Device Management Principals API
+  slug: amazon-iot-device-management-principals-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/amazon-iot-device-management/openapi/amazon-iot-device-management-principals-api-openapi.yml
+- filename: amazon-iot-device-management-provisioning-templates-api-openapi.yml
+  format: yaml
+  label: Amazon IoT Device Management Provisioning Templates API
+  slug: amazon-iot-device-management-provisioning-templates-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/amazon-iot-device-management/openapi/amazon-iot-device-management-provisioning-templates-api-openapi.yml
+- filename: amazon-iot-device-management-registrationcode-api-openapi.yml
+  format: yaml
+  label: Amazon IoT Device Management Registrationcode API
+  slug: amazon-iot-device-management-registrationcode-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/amazon-iot-device-management/openapi/amazon-iot-device-management-registrationcode-api-openapi.yml
+- filename: amazon-iot-device-management-reject-certificate-transfer-api-openapi.yml
+  format: yaml
+  label: Amazon IoT Device Management Reject Certificate Transfer API
+  slug: amazon-iot-device-management-reject-certificate-transfer-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/amazon-iot-device-management/openapi/amazon-iot-device-management-reject-certificate-transfer-api-openapi.yml
+- filename: amazon-iot-device-management-role-aliases-api-openapi.yml
+  format: yaml
+  label: Amazon IoT Device Management Role Aliases API
+  slug: amazon-iot-device-management-role-aliases-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/amazon-iot-device-management/openapi/amazon-iot-device-management-role-aliases-api-openapi.yml
+- filename: amazon-iot-device-management-rules-api-openapi.yml
+  format: yaml
+  label: Amazon IoT Device Management Rules API
+  slug: amazon-iot-device-management-rules-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/amazon-iot-device-management/openapi/amazon-iot-device-management-rules-api-openapi.yml
+- filename: amazon-iot-device-management-security-profile-behaviors-api-openapi.yml
+  format: yaml
+  label: Amazon IoT Device Management Security Profile Behaviors API
+  slug: amazon-iot-device-management-security-profile-behaviors-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/amazon-iot-device-management/openapi/amazon-iot-device-management-security-profile-behaviors-api-openapi.yml
+- filename: amazon-iot-device-management-security-profiles-api-openapi.yml
+  format: yaml
+  label: Amazon IoT Device Management Security Profiles API
+  slug: amazon-iot-device-management-security-profiles-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/amazon-iot-device-management/openapi/amazon-iot-device-management-security-profiles-api-openapi.yml
+- filename: amazon-iot-device-management-streams-api-openapi.yml
+  format: yaml
+  label: Amazon IoT Device Management Streams API
+  slug: amazon-iot-device-management-streams-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/amazon-iot-device-management/openapi/amazon-iot-device-management-streams-api-openapi.yml
+- filename: amazon-iot-device-management-tags-api-openapi.yml
+  format: yaml
+  label: Amazon IoT Device Management Tags API
+  slug: amazon-iot-device-management-tags-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/amazon-iot-device-management/openapi/amazon-iot-device-management-tags-api-openapi.yml
+- filename: amazon-iot-device-management-target-policies-api-openapi.yml
+  format: yaml
+  label: Amazon IoT Device Management Target Policies API
+  slug: amazon-iot-device-management-target-policies-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/amazon-iot-device-management/openapi/amazon-iot-device-management-target-policies-api-openapi.yml
+- filename: amazon-iot-device-management-test-authorization-api-openapi.yml
+  format: yaml
+  label: Amazon IoT Device Management Test Authorization API
+  slug: amazon-iot-device-management-test-authorization-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/amazon-iot-device-management/openapi/amazon-iot-device-management-test-authorization-api-openapi.yml
+- filename: amazon-iot-device-management-thing-groups-api-openapi.yml
+  format: yaml
+  label: Amazon IoT Device Management Thing Groups API
+  slug: amazon-iot-device-management-thing-groups-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/amazon-iot-device-management/openapi/amazon-iot-device-management-thing-groups-api-openapi.yml
+- filename: amazon-iot-device-management-thing-registration-tasks-api-openapi.yml
+  format: yaml
+  label: Amazon IoT Device Management Thing Registration Tasks API
+  slug: amazon-iot-device-management-thing-registration-tasks-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/amazon-iot-device-management/openapi/amazon-iot-device-management-thing-registration-tasks-api-openapi.yml
+- filename: amazon-iot-device-management-thing-types-api-openapi.yml
+  format: yaml
+  label: Amazon IoT Device Management Thing Types API
+  slug: amazon-iot-device-management-thing-types-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/amazon-iot-device-management/openapi/amazon-iot-device-management-thing-types-api-openapi.yml
+- filename: amazon-iot-device-management-things-api-openapi.yml
+  format: yaml
+  label: Amazon IoT Device Management Things API
+  slug: amazon-iot-device-management-things-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/amazon-iot-device-management/openapi/amazon-iot-device-management-things-api-openapi.yml
+- filename: amazon-iot-device-management-transfer-certificate-api-openapi.yml
+  format: yaml
+  label: Amazon IoT Device Management Transfer Certificate API
+  slug: amazon-iot-device-management-transfer-certificate-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/amazon-iot-device-management/openapi/amazon-iot-device-management-transfer-certificate-api-openapi.yml
+- filename: amazon-iot-device-management-untag-api-openapi.yml
+  format: yaml
+  label: Amazon IoT Device Management Untag API
+  slug: amazon-iot-device-management-untag-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/amazon-iot-device-management/openapi/amazon-iot-device-management-untag-api-openapi.yml
+- filename: amazon-iot-device-management-violations-api-openapi.yml
+  format: yaml
+  label: Amazon IoT Device Management Violations API
+  slug: amazon-iot-device-management-violations-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/amazon-iot-device-management/openapi/amazon-iot-device-management-violations-api-openapi.yml
+- filename: amazon-iot-device-management-metric-values-api-openapi.yml
+  format: yaml
+  label: Amazon IoT Device Management Metric Values API
+  slug: amazon-iot-device-management-metric-values-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/amazon-iot-device-management/openapi/amazon-iot-device-management-metric-values-api-openapi.yml
+- filename: amazon-iot-device-management-policy-principals-api-openapi.yml
+  format: yaml
+  label: Amazon IoT Device Management Policy Principals API
+  slug: amazon-iot-device-management-policy-principals-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/amazon-iot-device-management/openapi/amazon-iot-device-management-policy-principals-api-openapi.yml
+- filename: amazon-iot-device-management-security-profiles-for-target-api-openapi.yml
+  format: yaml
+  label: Amazon IoT Device Management Security Profiles For Target API
+  slug: amazon-iot-device-management-security-profiles-for-target-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/amazon-iot-device-management/openapi/amazon-iot-device-management-security-profiles-for-target-api-openapi.yml
+- filename: amazon-iot-device-management-violation-events-api-openapi.yml
+  format: yaml
+  label: Amazon IoT Device Management Violation Events API
+  slug: amazon-iot-device-management-violation-events-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/amazon-iot-device-management/openapi/amazon-iot-device-management-violation-events-api-openapi.yml
+- filename: amazon-iot-device-management-domain-configurations-api-openapi.yml
+  format: yaml
+  label: Amazon IoT Device Management Domain Configurations API
+  slug: amazon-iot-device-management-domain-configurations-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/amazon-iot-device-management/openapi/amazon-iot-device-management-domain-configurations-api-openapi.yml
+- filename: amazon-iot-device-management-logging-options-api-openapi.yml
+  format: yaml
+  label: Amazon IoT Device Management Logging Options API
+  slug: amazon-iot-device-management-logging-options-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/amazon-iot-device-management/openapi/amazon-iot-device-management-logging-options-api-openapi.yml
+- filename: amazon-iot-device-management-ota-updates-api-openapi.yml
+  format: yaml
+  label: Amazon IoT Device Management OTA Updates API
+  slug: amazon-iot-device-management-ota-updates-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/amazon-iot-device-management/openapi/amazon-iot-device-management-ota-updates-api-openapi.yml
+- filename: amazon-iot-device-management-v2-logging-level-api-openapi.yml
+  format: yaml
+  label: Amazon IoT Device Management V2 Logging Level API
+  slug: amazon-iot-device-management-v2-logging-level-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/amazon-iot-device-management/openapi/amazon-iot-device-management-v2-logging-level-api-openapi.yml
+- filename: amazon-iot-device-management-v2-logging-options-api-openapi.yml
+  format: yaml
+  label: Amazon IoT Device Management V2 Logging Options API
+  slug: amazon-iot-device-management-v2-logging-options-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/amazon-iot-device-management/openapi/amazon-iot-device-management-v2-logging-options-api-openapi.yml
+claim_count: 2
+description: ''
+doc:
+  countries:
+    excluded: []
+    served: []
+    text: null
+  minimum_age:
+    text: null
+    value: null
+  restricted_uses:
+  - summary: Spend limits not for critical systems
+    text: Spend limits are not intended for accounts or projects used in, or in association with, the operation of any hazardous environments or critical systems
+  - summary: Beta services not for sensitive data
+    text: any Beta Service or Beta Region made available to You is provided for evaluation purposes and should not be used for processing sensitive data.
+  verification:
+    approval_required: null
+    kyb: null
+    kyc: null
+    text: null
+excluded_countries: []
+layer: eligibility
+layer_version: 0.1.0
+layout: eligibility
+method: harvested
+model: claude-haiku-5-5
+name: Amazon IoT Device Management
+provenance_date: '2026-11-09'
+provider_name: Amazon IoT Device Management
+provider_slug: amazon-iot-device-management
+slug: amazon-iot-device-management-eligibility
+source_date: '2026-11-09'
+source_filename: amazon-iot-device-management-eligibility.yml
+source_heading: Eligibility
+source_page: https://aws.amazon.com/service-terms/
+source_url: ''
+source_yaml: "# Read from the provider's own page by engine/business/harvest-business.py. Every `text` is quoted verbatim from `url` (or the row's `source`); `unstated` means the page did not say.\neligibility: 0.1.0\nprovider: Amazon IoT Device Management\naid: amazon-iot-device-management\nurl: https://aws.amazon.com/service-terms/\nsource_date: '2026-11-09'\nx-apis-io-derivation:\n  synthetic: false\n  method: harvested\n  read: '2026-11-09'\n  tool: engine/business/harvest-business.py\n  model: claude-haiku-5-5\n  truncated: true\ncountries:\n  served: []\n  excluded: []\n  text: null\nentity_types: []\nrestricted_uses:\n- summary: Spend limits not for critical systems\n  text: Spend limits are not intended for accounts or projects used in, or in association with, the operation of\n    any hazardous environments or critical systems\n- summary: Beta services not for sensitive data\n  text: any Beta Service or Beta Region made available to You is provided for evaluation purposes and should\
+  \ not\n    be used for processing sensitive data.\nverification:\n  kyc: null\n  kyb: null\n  approval_required: null\n  text: null\nminimum_age:\n  value: null\n  text: null\n"
+source_yaml_url: https://artifacts.apis.io/amazon-iot-device-management/eligibility/amazon-iot-device-management-eligibility.yml
+stated_fields:
+- restricted_uses
+summary_line: 2 quoted statements, read from Amazon IoT Device Management's own page on 2026-11-09.
+synthetic: false
+tags:
+- Amazon Web Services
+- Device Management
+- Fleet Management
+- IoT
+- OTA Updates
+---

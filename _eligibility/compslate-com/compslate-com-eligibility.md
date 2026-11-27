@@ -53,6 +53,6 @@ tags:
 - Sales Commissions
 - Revenue Operations
 - MCP
-- AI Assistants
-- SaaS
+- AI Assistant
+- Software-as-a-Service
 ---

@@ -170,7 +170,7 @@ tags:
 - Company
 - Error Monitoring
 - Observability
-- AI
+- Artificial Intelligence
 - Developer Tools
 - OpenTelemetry
 - MCP

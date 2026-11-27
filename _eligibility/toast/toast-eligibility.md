@@ -1,0 +1,378 @@
+---
+api_specs:
+- filename: toast-authentication-api-openapi.yml
+  format: yaml
+  label: Toast Authentication API
+  slug: toast-authentication-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/toast/openapi/toast-authentication-api-openapi.yml
+- filename: toast-connectedrestaurants-api-openapi.yml
+  format: yaml
+  label: Toast ConnectedRestaurants API
+  slug: toast-connectedrestaurants-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/toast/openapi/toast-connectedrestaurants-api-openapi.yml
+- filename: toast-discounts-api-openapi.yml
+  format: yaml
+  label: Toast Discounts API
+  slug: toast-discounts-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/toast/openapi/toast-discounts-api-openapi.yml
+- filename: toast-employees-api-openapi.yml
+  format: yaml
+  label: Toast Employees API
+  slug: toast-employees-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/toast/openapi/toast-employees-api-openapi.yml
+- filename: toast-groups-api-openapi.yml
+  format: yaml
+  label: Toast Groups API
+  slug: toast-groups-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/toast/openapi/toast-groups-api-openapi.yml
+- filename: toast-jobs-api-openapi.yml
+  format: yaml
+  label: Toast Jobs API
+  slug: toast-jobs-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/toast/openapi/toast-jobs-api-openapi.yml
+- filename: toast-menus-api-openapi.yml
+  format: yaml
+  label: Toast Menus API
+  slug: toast-menus-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/toast/openapi/toast-menus-api-openapi.yml
+- filename: toast-metadata-api-openapi.yml
+  format: yaml
+  label: Toast Metadata API
+  slug: toast-metadata-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/toast/openapi/toast-metadata-api-openapi.yml
+- filename: toast-orders-api-openapi.yml
+  format: yaml
+  label: Toast Orders API
+  slug: toast-orders-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/toast/openapi/toast-orders-api-openapi.yml
+- filename: toast-payments-api-openapi.yml
+  format: yaml
+  label: Toast Payments API
+  slug: toast-payments-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/toast/openapi/toast-payments-api-openapi.yml
+- filename: toast-restaurants-api-openapi.yml
+  format: yaml
+  label: Toast Restaurants API
+  slug: toast-restaurants-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/toast/openapi/toast-restaurants-api-openapi.yml
+- filename: toast-shifts-api-openapi.yml
+  format: yaml
+  label: Toast Shifts API
+  slug: toast-shifts-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/toast/openapi/toast-shifts-api-openapi.yml
+- filename: toast-stock-api-openapi.yml
+  format: yaml
+  label: Toast Stock API
+  slug: toast-stock-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/toast/openapi/toast-stock-api-openapi.yml
+- filename: toast-time-entries-api-openapi.yml
+  format: yaml
+  label: Toast Time entries API
+  slug: toast-time-entries-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/toast/openapi/toast-time-entries-api-openapi.yml
+- filename: toast-aggregated-sales-api-openapi.yml
+  format: yaml
+  label: Toast Aggregated sales API
+  slug: toast-aggregated-sales-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/toast/openapi/toast-aggregated-sales-api-openapi.yml
+- filename: toast-alternate-payment-types-api-openapi.yml
+  format: yaml
+  label: Toast Alternate Payment Types API
+  slug: toast-alternate-payment-types-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/toast/openapi/toast-alternate-payment-types-api-openapi.yml
+- filename: toast-availability-api-openapi.yml
+  format: yaml
+  label: Toast Availability API
+  slug: toast-availability-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/toast/openapi/toast-availability-api-openapi.yml
+- filename: toast-break-types-api-openapi.yml
+  format: yaml
+  label: Toast Break Types API
+  slug: toast-break-types-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/toast/openapi/toast-break-types-api-openapi.yml
+- filename: toast-cash-drawers-api-openapi.yml
+  format: yaml
+  label: Toast Cash Drawers API
+  slug: toast-cash-drawers-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/toast/openapi/toast-cash-drawers-api-openapi.yml
+- filename: toast-check-api-openapi.yml
+  format: yaml
+  label: Toast Check API
+  slug: toast-check-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/toast/openapi/toast-check-api-openapi.yml
+- filename: toast-deposits-api-openapi.yml
+  format: yaml
+  label: Toast Deposits API
+  slug: toast-deposits-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/toast/openapi/toast-deposits-api-openapi.yml
+- filename: toast-device-details-api-openapi.yml
+  format: yaml
+  label: Toast Device details API
+  slug: toast-device-details-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/toast/openapi/toast-device-details-api-openapi.yml
+- filename: toast-dining-options-api-openapi.yml
+  format: yaml
+  label: Toast Dining Options API
+  slug: toast-dining-options-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/toast/openapi/toast-dining-options-api-openapi.yml
+- filename: toast-entries-api-openapi.yml
+  format: yaml
+  label: Toast Entries API
+  slug: toast-entries-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/toast/openapi/toast-entries-api-openapi.yml
+- filename: toast-export-api-openapi.yml
+  format: yaml
+  label: Toast Export API
+  slug: toast-export-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/toast/openapi/toast-export-api-openapi.yml
+- filename: toast-guest-api-openapi.yml
+  format: yaml
+  label: Toast Guest API
+  slug: toast-guest-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/toast/openapi/toast-guest-api-openapi.yml
+- filename: toast-labor-api-openapi.yml
+  format: yaml
+  label: Toast Labor API
+  slug: toast-labor-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/toast/openapi/toast-labor-api-openapi.yml
+- filename: toast-menu-api-openapi.yml
+  format: yaml
+  label: Toast Menu API
+  slug: toast-menu-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/toast/openapi/toast-menu-api-openapi.yml
+- filename: toast-menu-groups-api-openapi.yml
+  format: yaml
+  label: Toast Menu Groups API
+  slug: toast-menu-groups-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/toast/openapi/toast-menu-groups-api-openapi.yml
+- filename: toast-menu-items-api-openapi.yml
+  format: yaml
+  label: Toast Menu Items API
+  slug: toast-menu-items-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/toast/openapi/toast-menu-items-api-openapi.yml
+- filename: toast-merchants-api-openapi.yml
+  format: yaml
+  label: Toast Merchants API
+  slug: toast-merchants-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/toast/openapi/toast-merchants-api-openapi.yml
+- filename: toast-modifier-groups-api-openapi.yml
+  format: yaml
+  label: Toast Modifier Groups API
+  slug: toast-modifier-groups-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/toast/openapi/toast-modifier-groups-api-openapi.yml
+- filename: toast-no-sale-reasons-api-openapi.yml
+  format: yaml
+  label: Toast No Sale Reasons API
+  slug: toast-no-sale-reasons-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/toast/openapi/toast-no-sale-reasons-api-openapi.yml
+- filename: toast-ordering-schedule-api-openapi.yml
+  format: yaml
+  label: Toast Ordering Schedule API
+  slug: toast-ordering-schedule-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/toast/openapi/toast-ordering-schedule-api-openapi.yml
+- filename: toast-payout-by-payments-api-openapi.yml
+  format: yaml
+  label: Toast Payout by payments API
+  slug: toast-payout-by-payments-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/toast/openapi/toast-payout-by-payments-api-openapi.yml
+- filename: toast-payout-by-sales-date-api-openapi.yml
+  format: yaml
+  label: Toast Payout by sales date API
+  slug: toast-payout-by-sales-date-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/toast/openapi/toast-payout-by-sales-date-api-openapi.yml
+- filename: toast-payout-by-settled-date-api-openapi.yml
+  format: yaml
+  label: Toast Payout by settled date API
+  slug: toast-payout-by-settled-date-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/toast/openapi/toast-payout-by-settled-date-api-openapi.yml
+- filename: toast-payout-reasons-api-openapi.yml
+  format: yaml
+  label: Toast Payout Reasons API
+  slug: toast-payout-reasons-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/toast/openapi/toast-payout-reasons-api-openapi.yml
+- filename: toast-pre-modifier-groups-api-openapi.yml
+  format: yaml
+  label: Toast Pre Modifier Groups API
+  slug: toast-pre-modifier-groups-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/toast/openapi/toast-pre-modifier-groups-api-openapi.yml
+- filename: toast-pre-modifiers-api-openapi.yml
+  format: yaml
+  label: Toast Pre Modifiers API
+  slug: toast-pre-modifiers-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/toast/openapi/toast-pre-modifiers-api-openapi.yml
+- filename: toast-price-groups-api-openapi.yml
+  format: yaml
+  label: Toast Price Groups API
+  slug: toast-price-groups-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/toast/openapi/toast-price-groups-api-openapi.yml
+- filename: toast-printers-api-openapi.yml
+  format: yaml
+  label: Toast Printers API
+  slug: toast-printers-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/toast/openapi/toast-printers-api-openapi.yml
+- filename: toast-published-api-openapi.yml
+  format: yaml
+  label: Toast Published API
+  slug: toast-published-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/toast/openapi/toast-published-api-openapi.yml
+- filename: toast-restaurant-services-api-openapi.yml
+  format: yaml
+  label: Toast Restaurant Services API
+  slug: toast-restaurant-services-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/toast/openapi/toast-restaurant-services-api-openapi.yml
+- filename: toast-restaurants-information-api-openapi.yml
+  format: yaml
+  label: Toast Restaurants information API
+  slug: toast-restaurants-information-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/toast/openapi/toast-restaurants-information-api-openapi.yml
+- filename: toast-revenue-centers-api-openapi.yml
+  format: yaml
+  label: Toast Revenue Centers API
+  slug: toast-revenue-centers-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/toast/openapi/toast-revenue-centers-api-openapi.yml
+- filename: toast-sales-categories-api-openapi.yml
+  format: yaml
+  label: Toast Sales Categories API
+  slug: toast-sales-categories-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/toast/openapi/toast-sales-categories-api-openapi.yml
+- filename: toast-service-areas-api-openapi.yml
+  format: yaml
+  label: Toast Service Areas API
+  slug: toast-service-areas-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/toast/openapi/toast-service-areas-api-openapi.yml
+- filename: toast-service-charges-api-openapi.yml
+  format: yaml
+  label: Toast Service Charges API
+  slug: toast-service-charges-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/toast/openapi/toast-service-charges-api-openapi.yml
+- filename: toast-tables-api-openapi.yml
+  format: yaml
+  label: Toast Tables API
+  slug: toast-tables-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/toast/openapi/toast-tables-api-openapi.yml
+- filename: toast-tax-rates-api-openapi.yml
+  format: yaml
+  label: Toast Tax Rates API
+  slug: toast-tax-rates-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/toast/openapi/toast-tax-rates-api-openapi.yml
+- filename: toast-tip-withholding-api-openapi.yml
+  format: yaml
+  label: Toast Tip Withholding API
+  slug: toast-tip-withholding-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/toast/openapi/toast-tip-withholding-api-openapi.yml
+- filename: toast-void-reasons-api-openapi.yml
+  format: yaml
+  label: Toast Void Reasons API
+  slug: toast-void-reasons-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/toast/openapi/toast-void-reasons-api-openapi.yml
+- filename: toast-yourendpointname-api-openapi.yml
+  format: yaml
+  label: Toast Yourendpointname API
+  slug: toast-yourendpointname-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/toast/openapi/toast-yourendpointname-api-openapi.yml
+claim_count: 3
+description: ''
+doc:
+  countries:
+    excluded: []
+    served: []
+    text: null
+  entity_types:
+  - text: If You are entering into this Agreement on behalf of a company or other legal entity, You represent that You have the authority to bind such entity to this Agreement
+    type: business
+  minimum_age:
+    text: null
+    value: null
+  restricted_uses:
+  - summary: Sanctioned persons
+    text: You represent and warrant that neither You nor any of Your subsidiaries, directors, officers, or employees engaged with Toast are a Sanctioned Person
+  verification:
+    approval_required: true
+    kyb: null
+    kyc: null
+    text: Following the submission of Your written request to utilize the applicable Toast API(s) and receipt of Toast’s subsequent approval
+excluded_countries: []
+layer: eligibility
+layer_version: 0.1.0
+layout: eligibility
+method: harvested
+model: claude-haiku-5-5
+name: Toast
+provenance_date: '2026-11-10'
+provider_name: Toast
+provider_slug: toast
+slug: toast-eligibility
+source_date: '2026-11-10'
+source_filename: toast-eligibility.yml
+source_heading: Eligibility
+source_page: https://pos.toasttab.com/api-terms-of-use
+source_url: ''
+source_yaml: "# Read from the provider's own page by engine/business/harvest-business.py. Every `text` is quoted verbatim from `url` (or the row's `source`); `unstated` means the page did not say.\neligibility: 0.1.0\nprovider: Toast\naid: toast\nurl: https://pos.toasttab.com/api-terms-of-use\nsource_date: '2026-11-10'\nx-apis-io-derivation:\n  synthetic: false\n  method: harvested\n  read: '2026-11-10'\n  tool: engine/business/harvest-business.py\n  model: claude-haiku-5-5\n  truncated: true\ncountries:\n  served: []\n  excluded: []\n  text: null\nentity_types:\n- type: business\n  text: If You are entering into this Agreement on behalf of a company or other legal entity, You represent that\n    You have the authority to bind such entity to this Agreement\nrestricted_uses:\n- summary: Sanctioned persons\n  text: You represent and warrant that neither You nor any of Your subsidiaries, directors, officers, or employees\n    engaged with Toast are a Sanctioned Person\nverification:\n  kyc:\
+  \ null\n  kyb: null\n  approval_required: true\n  text: Following the submission of Your written request to utilize the applicable Toast API(s) and receipt of Toast’s\n    subsequent approval\nminimum_age:\n  value: null\n  text: null\n"
+source_yaml_url: https://artifacts.apis.io/toast/eligibility/toast-eligibility.yml
+stated_fields:
+- entity_types
+- restricted_uses
+- verification
+summary_line: 3 quoted statements, read from Toast's own page on 2026-11-10.
+synthetic: false
+tags:
+- Food Service
+- Point-of-Sale
+- Restaurant
+- Hospitality
+---

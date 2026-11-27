@@ -1,0 +1,146 @@
+---
+api_specs:
+- filename: contactout-api-usage-stats-api-openapi.yml
+  format: yaml
+  label: ContactOut API Usage Stats API
+  slug: contactout-api-usage-stats-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/contactout/openapi/contactout-api-usage-stats-api-openapi.yml
+- filename: contactout-campaigns-api-api-openapi.yml
+  format: yaml
+  label: ContactOut Campaigns API
+  slug: contactout-campaigns-api-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/contactout/openapi/contactout-campaigns-api-api-openapi.yml
+- filename: contactout-company-information-from-domains-api-openapi.yml
+  format: yaml
+  label: ContactOut Company information from domains API
+  slug: contactout-company-information-from-domains-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/contactout/openapi/contactout-company-information-from-domains-api-openapi.yml
+- filename: contactout-company-search-api-api-openapi.yml
+  format: yaml
+  label: ContactOut Company Search API
+  slug: contactout-company-search-api-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/contactout/openapi/contactout-company-search-api-api-openapi.yml
+- filename: contactout-contact-checker-api-api-openapi.yml
+  format: yaml
+  label: ContactOut Contact Checker API
+  slug: contactout-contact-checker-api-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/contactout/openapi/contactout-contact-checker-api-api-openapi.yml
+- filename: contactout-contact-info-api-bulk-api-openapi.yml
+  format: yaml
+  label: ContactOut Contact Info API - Bulk API
+  slug: contactout-contact-info-api-bulk-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/contactout/openapi/contactout-contact-info-api-bulk-api-openapi.yml
+- filename: contactout-contact-info-api-single-api-openapi.yml
+  format: yaml
+  label: ContactOut Contact Info API - Single API
+  slug: contactout-contact-info-api-single-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/contactout/openapi/contactout-contact-info-api-single-api-openapi.yml
+- filename: contactout-decision-makers-api-api-openapi.yml
+  format: yaml
+  label: ContactOut Decision Makers API
+  slug: contactout-decision-makers-api-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/contactout/openapi/contactout-decision-makers-api-api-openapi.yml
+- filename: contactout-email-to-linkedin-api-api-openapi.yml
+  format: yaml
+  label: ContactOut Email to LinkedIn API
+  slug: contactout-email-to-linkedin-api-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/contactout/openapi/contactout-email-to-linkedin-api-api-openapi.yml
+- filename: contactout-email-verifier-api-api-openapi.yml
+  format: yaml
+  label: ContactOut Email Verifier API
+  slug: contactout-email-verifier-api-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/contactout/openapi/contactout-email-verifier-api-api-openapi.yml
+- filename: contactout-hashed-email-api-api-openapi.yml
+  format: yaml
+  label: ContactOut Hashed Email API
+  slug: contactout-hashed-email-api-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/contactout/openapi/contactout-hashed-email-api-api-openapi.yml
+- filename: contactout-linkedin-profile-api-api-openapi.yml
+  format: yaml
+  label: ContactOut LinkedIn Profile API
+  slug: contactout-linkedin-profile-api-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/contactout/openapi/contactout-linkedin-profile-api-api-openapi.yml
+- filename: contactout-people-count-api-api-openapi.yml
+  format: yaml
+  label: ContactOut People Count API
+  slug: contactout-people-count-api-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/contactout/openapi/contactout-people-count-api-api-openapi.yml
+- filename: contactout-people-enrich-api-api-openapi.yml
+  format: yaml
+  label: ContactOut People Enrich API
+  slug: contactout-people-enrich-api-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/contactout/openapi/contactout-people-enrich-api-api-openapi.yml
+- filename: contactout-people-search-api-api-openapi.yml
+  format: yaml
+  label: ContactOut People Search API
+  slug: contactout-people-search-api-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/contactout/openapi/contactout-people-search-api-api-openapi.yml
+claim_count: 2
+description: ''
+doc:
+  countries:
+    excluded: []
+    served: []
+    text: null
+  minimum_age:
+    text: null
+    value: null
+  restricted_uses:
+  - summary: Submitting GLBA-covered client lists
+    text: you agree not to provide us with Submitted Data consisting of a list of clients of an entity covered by the GLBA
+  - summary: Submitting HIPAA-covered patient data
+    text: providing the Submitted Data to us does not violate the U.S. HIPAA law
+  verification:
+    approval_required: null
+    kyb: null
+    kyc: null
+    text: null
+excluded_countries: []
+layer: eligibility
+layer_version: 0.1.0
+layout: eligibility
+method: harvested
+model: claude-haiku-5-5
+name: ContactOut
+provenance_date: '2026-11-09'
+provider_name: ContactOut
+provider_slug: contactout
+slug: contactout-eligibility
+source_date: '2026-11-09'
+source_filename: contactout-eligibility.yml
+source_heading: Eligibility
+source_page: https://contactout.com/terms
+source_url: ''
+source_yaml: "# Read from the provider's own page by engine/business/harvest-business.py. Every `text` is quoted verbatim from `url` (or the row's `source`); `unstated` means the page did not say.\neligibility: 0.1.0\nprovider: ContactOut\naid: contactout\nurl: https://contactout.com/terms\nsource_date: '2026-11-09'\nx-apis-io-derivation:\n  synthetic: false\n  method: harvested\n  read: '2026-11-09'\n  tool: engine/business/harvest-business.py\n  model: claude-haiku-5-5\ncountries:\n  served: []\n  excluded: []\n  text: null\nentity_types: []\nrestricted_uses:\n- summary: Submitting GLBA-covered client lists\n  text: you agree not to provide us with Submitted Data consisting of a list of clients of an entity covered by\n    the GLBA\n- summary: Submitting HIPAA-covered patient data\n  text: providing the Submitted Data to us does not violate the U.S. HIPAA law\nverification:\n  kyc: null\n  kyb: null\n  approval_required: null\n  text: null\nminimum_age:\n  value: null\n  text: null\n"
+source_yaml_url: https://artifacts.apis.io/contactout/eligibility/contactout-eligibility.yml
+stated_fields:
+- restricted_uses
+summary_line: 2 quoted statements, read from ContactOut's own page on 2026-11-09.
+synthetic: false
+tags:
+- Company
+- Contact Data
+- Email Finder
+- Data Enrichment
+- People Search
+- Company Search
+- Email Verification
+- Sales Intelligence
+- Recruiting
+- B2B Data
+---

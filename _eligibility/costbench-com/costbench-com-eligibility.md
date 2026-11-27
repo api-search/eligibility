@@ -91,7 +91,7 @@ synthetic: false
 tags:
 - Company
 - Software Pricing
-- SaaS
+- Software-as-a-Service
 - Procurement
 - Cost Intelligence
 - Price Comparison

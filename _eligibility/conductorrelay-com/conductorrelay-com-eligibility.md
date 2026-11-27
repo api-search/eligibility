@@ -150,5 +150,5 @@ tags:
 - Agent Certification
 - A2A
 - MCP
-- Agent Commerce
+- Agentic Commerce
 ---

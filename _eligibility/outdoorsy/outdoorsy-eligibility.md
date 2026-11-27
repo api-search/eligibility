@@ -1,0 +1,432 @@
+---
+api_specs:
+- filename: outdoorsy-admin-api-openapi.yml
+  format: yaml
+  label: Outdoorsy Admin API
+  slug: outdoorsy-admin-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/outdoorsy/openapi/outdoorsy-admin-api-openapi.yml
+- filename: outdoorsy-amenities-api-openapi.yml
+  format: yaml
+  label: Outdoorsy Amenities API
+  slug: outdoorsy-amenities-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/outdoorsy/openapi/outdoorsy-amenities-api-openapi.yml
+- filename: outdoorsy-announcements-api-openapi.yml
+  format: yaml
+  label: Outdoorsy Announcements API
+  slug: outdoorsy-announcements-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/outdoorsy/openapi/outdoorsy-announcements-api-openapi.yml
+- filename: outdoorsy-auth-api-openapi.yml
+  format: yaml
+  label: Outdoorsy Auth API
+  slug: outdoorsy-auth-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/outdoorsy/openapi/outdoorsy-auth-api-openapi.yml
+- filename: outdoorsy-banks-api-openapi.yml
+  format: yaml
+  label: Outdoorsy Banks API
+  slug: outdoorsy-banks-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/outdoorsy/openapi/outdoorsy-banks-api-openapi.yml
+- filename: outdoorsy-bookingbundles-api-openapi.yml
+  format: yaml
+  label: Outdoorsy Booking Bundles API
+  slug: outdoorsy-bookingbundles-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/outdoorsy/openapi/outdoorsy-bookingbundles-api-openapi.yml
+- filename: outdoorsy-bookingitems-api-openapi.yml
+  format: yaml
+  label: Outdoorsy Booking Items API
+  slug: outdoorsy-bookingitems-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/outdoorsy/openapi/outdoorsy-bookingitems-api-openapi.yml
+- filename: outdoorsy-bookingproposals-api-openapi.yml
+  format: yaml
+  label: Outdoorsy Booking Proposals API
+  slug: outdoorsy-bookingproposals-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/outdoorsy/openapi/outdoorsy-bookingproposals-api-openapi.yml
+- filename: outdoorsy-bookings-api-openapi.yml
+  format: yaml
+  label: Outdoorsy Bookings API
+  slug: outdoorsy-bookings-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/outdoorsy/openapi/outdoorsy-bookings-api-openapi.yml
+- filename: outdoorsy-bookingtransactions-api-openapi.yml
+  format: yaml
+  label: Outdoorsy Booking Transactions API
+  slug: outdoorsy-bookingtransactions-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/outdoorsy/openapi/outdoorsy-bookingtransactions-api-openapi.yml
+- filename: outdoorsy-breadcrumbs-api-openapi.yml
+  format: yaml
+  label: Outdoorsy Breadcrumbs API
+  slug: outdoorsy-breadcrumbs-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/outdoorsy/openapi/outdoorsy-breadcrumbs-api-openapi.yml
+- filename: outdoorsy-bundlefeatures-api-openapi.yml
+  format: yaml
+  label: Outdoorsy Bundle Features API
+  slug: outdoorsy-bundlefeatures-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/outdoorsy/openapi/outdoorsy-bundlefeatures-api-openapi.yml
+- filename: outdoorsy-bundlerules-api-openapi.yml
+  format: yaml
+  label: Outdoorsy Bundle Rules API
+  slug: outdoorsy-bundlerules-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/outdoorsy/openapi/outdoorsy-bundlerules-api-openapi.yml
+- filename: outdoorsy-bundles-api-openapi.yml
+  format: yaml
+  label: Outdoorsy Bundles API
+  slug: outdoorsy-bundles-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/outdoorsy/openapi/outdoorsy-bundles-api-openapi.yml
+- filename: outdoorsy-campgrounds-api-openapi.yml
+  format: yaml
+  label: Outdoorsy Campgrounds API
+  slug: outdoorsy-campgrounds-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/outdoorsy/openapi/outdoorsy-campgrounds-api-openapi.yml
+- filename: outdoorsy-checkoutsteps-api-openapi.yml
+  format: yaml
+  label: Outdoorsy Checkout Steps API
+  slug: outdoorsy-checkoutsteps-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/outdoorsy/openapi/outdoorsy-checkoutsteps-api-openapi.yml
+- filename: outdoorsy-conversations-api-openapi.yml
+  format: yaml
+  label: Outdoorsy Conversations API
+  slug: outdoorsy-conversations-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/outdoorsy/openapi/outdoorsy-conversations-api-openapi.yml
+- filename: outdoorsy-convert-currency-api-openapi.yml
+  format: yaml
+  label: Outdoorsy Convert Currency API
+  slug: outdoorsy-convert-currency-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/outdoorsy/openapi/outdoorsy-convert-currency-api-openapi.yml
+- filename: outdoorsy-externalcampgrounds-api-openapi.yml
+  format: yaml
+  label: Outdoorsy External Campgrounds API
+  slug: outdoorsy-externalcampgrounds-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/outdoorsy/openapi/outdoorsy-externalcampgrounds-api-openapi.yml
+- filename: outdoorsy-favorites-api-openapi.yml
+  format: yaml
+  label: Outdoorsy Favorites API
+  slug: outdoorsy-favorites-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/outdoorsy/openapi/outdoorsy-favorites-api-openapi.yml
+- filename: outdoorsy-files-api-openapi.yml
+  format: yaml
+  label: Outdoorsy Files API
+  slug: outdoorsy-files-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/outdoorsy/openapi/outdoorsy-files-api-openapi.yml
+- filename: outdoorsy-funds-api-openapi.yml
+  format: yaml
+  label: Outdoorsy Funds API
+  slug: outdoorsy-funds-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/outdoorsy/openapi/outdoorsy-funds-api-openapi.yml
+- filename: outdoorsy-gateways-api-openapi.yml
+  format: yaml
+  label: Outdoorsy Gateways API
+  slug: outdoorsy-gateways-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/outdoorsy/openapi/outdoorsy-gateways-api-openapi.yml
+- filename: outdoorsy-geodata-api-openapi.yml
+  format: yaml
+  label: Outdoorsy Geodata API
+  slug: outdoorsy-geodata-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/outdoorsy/openapi/outdoorsy-geodata-api-openapi.yml
+- filename: outdoorsy-gethomepageparks-api-openapi.yml
+  format: yaml
+  label: Outdoorsy Get Homepage Parks API
+  slug: outdoorsy-gethomepageparks-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/outdoorsy/openapi/outdoorsy-gethomepageparks-api-openapi.yml
+- filename: outdoorsy-ics-calendars-api-openapi.yml
+  format: yaml
+  label: Outdoorsy Ics Calendars API
+  slug: outdoorsy-ics-calendars-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/outdoorsy/openapi/outdoorsy-ics-calendars-api-openapi.yml
+- filename: outdoorsy-instamatch-api-openapi.yml
+  format: yaml
+  label: Outdoorsy Instamatch API
+  slug: outdoorsy-instamatch-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/outdoorsy/openapi/outdoorsy-instamatch-api-openapi.yml
+- filename: outdoorsy-localities-api-openapi.yml
+  format: yaml
+  label: Outdoorsy Localities API
+  slug: outdoorsy-localities-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/outdoorsy/openapi/outdoorsy-localities-api-openapi.yml
+- filename: outdoorsy-locations-api-openapi.yml
+  format: yaml
+  label: Outdoorsy Locations API
+  slug: outdoorsy-locations-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/outdoorsy/openapi/outdoorsy-locations-api-openapi.yml
+- filename: outdoorsy-messages-api-openapi.yml
+  format: yaml
+  label: Outdoorsy Messages API
+  slug: outdoorsy-messages-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/outdoorsy/openapi/outdoorsy-messages-api-openapi.yml
+- filename: outdoorsy-notes-to-renters-api-openapi.yml
+  format: yaml
+  label: Outdoorsy Notes To Renters API
+  slug: outdoorsy-notes-to-renters-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/outdoorsy/openapi/outdoorsy-notes-to-renters-api-openapi.yml
+- filename: outdoorsy-notices-api-openapi.yml
+  format: yaml
+  label: Outdoorsy Notices API
+  slug: outdoorsy-notices-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/outdoorsy/openapi/outdoorsy-notices-api-openapi.yml
+- filename: outdoorsy-parks-api-openapi.yml
+  format: yaml
+  label: Outdoorsy Parks API
+  slug: outdoorsy-parks-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/outdoorsy/openapi/outdoorsy-parks-api-openapi.yml
+- filename: outdoorsy-payouts-api-openapi.yml
+  format: yaml
+  label: Outdoorsy Payouts API
+  slug: outdoorsy-payouts-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/outdoorsy/openapi/outdoorsy-payouts-api-openapi.yml
+- filename: outdoorsy-pricing-api-openapi.yml
+  format: yaml
+  label: Outdoorsy Pricing API
+  slug: outdoorsy-pricing-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/outdoorsy/openapi/outdoorsy-pricing-api-openapi.yml
+- filename: outdoorsy-quote-api-openapi.yml
+  format: yaml
+  label: Outdoorsy Quote API
+  slug: outdoorsy-quote-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/outdoorsy/openapi/outdoorsy-quote-api-openapi.yml
+- filename: outdoorsy-quotes-api-openapi.yml
+  format: yaml
+  label: Outdoorsy Quotes API
+  slug: outdoorsy-quotes-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/outdoorsy/openapi/outdoorsy-quotes-api-openapi.yml
+- filename: outdoorsy-referrals-api-openapi.yml
+  format: yaml
+  label: Outdoorsy Referrals API
+  slug: outdoorsy-referrals-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/outdoorsy/openapi/outdoorsy-referrals-api-openapi.yml
+- filename: outdoorsy-rentalimages-api-openapi.yml
+  format: yaml
+  label: Outdoorsy Rental Images API
+  slug: outdoorsy-rentalimages-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/outdoorsy/openapi/outdoorsy-rentalimages-api-openapi.yml
+- filename: outdoorsy-rentalitems-api-openapi.yml
+  format: yaml
+  label: Outdoorsy Rental Items API
+  slug: outdoorsy-rentalitems-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/outdoorsy/openapi/outdoorsy-rentalitems-api-openapi.yml
+- filename: outdoorsy-rentalitemscategories-api-openapi.yml
+  format: yaml
+  label: Outdoorsy Rental Items Categories API
+  slug: outdoorsy-rentalitemscategories-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/outdoorsy/openapi/outdoorsy-rentalitemscategories-api-openapi.yml
+- filename: outdoorsy-rentals-api-openapi.yml
+  format: yaml
+  label: Outdoorsy Rentals API
+  slug: outdoorsy-rentals-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/outdoorsy/openapi/outdoorsy-rentals-api-openapi.yml
+- filename: outdoorsy-reports-api-openapi.yml
+  format: yaml
+  label: Outdoorsy Reports API
+  slug: outdoorsy-reports-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/outdoorsy/openapi/outdoorsy-reports-api-openapi.yml
+- filename: outdoorsy-reviews-api-openapi.yml
+  format: yaml
+  label: Outdoorsy Reviews API
+  slug: outdoorsy-reviews-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/outdoorsy/openapi/outdoorsy-reviews-api-openapi.yml
+- filename: outdoorsy-search-api-openapi.yml
+  format: yaml
+  label: Outdoorsy Search API
+  slug: outdoorsy-search-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/outdoorsy/openapi/outdoorsy-search-api-openapi.yml
+- filename: outdoorsy-specialhours-api-openapi.yml
+  format: yaml
+  label: Outdoorsy Special Hours API
+  slug: outdoorsy-specialhours-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/outdoorsy/openapi/outdoorsy-specialhours-api-openapi.yml
+- filename: outdoorsy-systememails-api-openapi.yml
+  format: yaml
+  label: Outdoorsy System Emails API
+  slug: outdoorsy-systememails-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/outdoorsy/openapi/outdoorsy-systememails-api-openapi.yml
+- filename: outdoorsy-toweable-api-openapi.yml
+  format: yaml
+  label: Outdoorsy Toweable API
+  slug: outdoorsy-toweable-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/outdoorsy/openapi/outdoorsy-toweable-api-openapi.yml
+- filename: outdoorsy-towinginfo-api-openapi.yml
+  format: yaml
+  label: Outdoorsy Towing Info API
+  slug: outdoorsy-towinginfo-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/outdoorsy/openapi/outdoorsy-towinginfo-api-openapi.yml
+- filename: outdoorsy-transactions-api-openapi.yml
+  format: yaml
+  label: Outdoorsy Transactions API
+  slug: outdoorsy-transactions-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/outdoorsy/openapi/outdoorsy-transactions-api-openapi.yml
+- filename: outdoorsy-usagebaseditems-api-openapi.yml
+  format: yaml
+  label: Outdoorsy Usage Based Items API
+  slug: outdoorsy-usagebaseditems-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/outdoorsy/openapi/outdoorsy-usagebaseditems-api-openapi.yml
+- filename: outdoorsy-usagebaseditemtiers-api-openapi.yml
+  format: yaml
+  label: Outdoorsy Usage Based Item Tiers API
+  slug: outdoorsy-usagebaseditemtiers-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/outdoorsy/openapi/outdoorsy-usagebaseditemtiers-api-openapi.yml
+- filename: outdoorsy-usercards-api-openapi.yml
+  format: yaml
+  label: Outdoorsy User Cards API
+  slug: outdoorsy-usercards-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/outdoorsy/openapi/outdoorsy-usercards-api-openapi.yml
+- filename: outdoorsy-usernoticeevents-api-openapi.yml
+  format: yaml
+  label: Outdoorsy User Notice Events API
+  slug: outdoorsy-usernoticeevents-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/outdoorsy/openapi/outdoorsy-usernoticeevents-api-openapi.yml
+- filename: outdoorsy-users-api-openapi.yml
+  format: yaml
+  label: Outdoorsy Users API
+  slug: outdoorsy-users-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/outdoorsy/openapi/outdoorsy-users-api-openapi.yml
+- filename: outdoorsy-vacationpackages-api-openapi.yml
+  format: yaml
+  label: Outdoorsy Vacation Packages API
+  slug: outdoorsy-vacationpackages-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/outdoorsy/openapi/outdoorsy-vacationpackages-api-openapi.yml
+- filename: outdoorsy-validations-api-openapi.yml
+  format: yaml
+  label: Outdoorsy Validations API
+  slug: outdoorsy-validations-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/outdoorsy/openapi/outdoorsy-validations-api-openapi.yml
+- filename: outdoorsy-wishlists-api-openapi.yml
+  format: yaml
+  label: Outdoorsy Wishlists API
+  slug: outdoorsy-wishlists-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/outdoorsy/openapi/outdoorsy-wishlists-api-openapi.yml
+- filename: outdoorsy-booking-services-api-openapi.yml
+  format: yaml
+  label: Outdoorsy Booking services API
+  slug: outdoorsy-booking-services-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/outdoorsy/openapi/outdoorsy-booking-services-api-openapi.yml
+- filename: outdoorsy-gift-cards-api-openapi.yml
+  format: yaml
+  label: Outdoorsy Gift Cards API
+  slug: outdoorsy-gift-cards-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/outdoorsy/openapi/outdoorsy-gift-cards-api-openapi.yml
+- filename: outdoorsy-message-templates-api-openapi.yml
+  format: yaml
+  label: Outdoorsy Message Templates API
+  slug: outdoorsy-message-templates-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/outdoorsy/openapi/outdoorsy-message-templates-api-openapi.yml
+- filename: outdoorsy-two-factor-auth-api-openapi.yml
+  format: yaml
+  label: Outdoorsy Two Factor Auth API
+  slug: outdoorsy-two-factor-auth-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/outdoorsy/openapi/outdoorsy-two-factor-auth-api-openapi.yml
+claim_count: 2
+description: ''
+doc:
+  countries:
+    excluded: []
+    served: []
+    text: null
+  entity_types:
+  - text: If you accept these Terms on behalf of a company or other legal entity, you represent and warrant that you have the authority to bind that company or other legal entity to these Terms
+    type: business
+  minimum_age:
+    text: null
+    value: null
+  restricted_uses:
+  - summary: Commercial use of rented vehicle
+    text: the Guest must ensure that only Verified Drivers operate the Vehicle, and must use the Vehicle only for personal use and not for any commercial purposes
+  verification:
+    approval_required: null
+    kyb: null
+    kyc: null
+    text: null
+excluded_countries: []
+layer: eligibility
+layer_version: 0.1.0
+layout: eligibility
+method: harvested
+model: claude-haiku-5-5
+name: Outdoorsy
+provenance_date: '2026-11-10'
+provider_name: Outdoorsy
+provider_slug: outdoorsy
+slug: outdoorsy-eligibility
+source_date: '2026-11-10'
+source_filename: outdoorsy-eligibility.yml
+source_heading: Eligibility
+source_page: https://support.outdoorsy.com/hc/en-us/articles/37422344026779-Outdoorsy-Terms-of-Service
+source_url: ''
+source_yaml: "# Read from the provider's own page by engine/business/harvest-business.py. Every `text` is quoted verbatim from `url` (or the row's `source`); `unstated` means the page did not say.\neligibility: 0.1.0\nprovider: Outdoorsy\naid: outdoorsy\nurl: https://support.outdoorsy.com/hc/en-us/articles/37422344026779-Outdoorsy-Terms-of-Service\nsource_date: '2026-11-10'\nx-apis-io-derivation:\n  synthetic: false\n  method: harvested\n  read: '2026-11-10'\n  tool: engine/business/harvest-business.py\n  model: claude-haiku-5-5\n  truncated: true\ncountries:\n  served: []\n  excluded: []\n  text: null\nentity_types:\n- type: business\n  text: If you accept these Terms on behalf of a company or other legal entity, you represent and warrant that you\n    have the authority to bind that company or other legal entity to these Terms\nrestricted_uses:\n- summary: Commercial use of rented vehicle\n  text: the Guest must ensure that only Verified Drivers operate the Vehicle, and must use the Vehicle\
+  \ only for\n    personal use and not for any commercial purposes\nverification:\n  kyc: null\n  kyb: null\n  approval_required: null\n  text: null\nminimum_age:\n  value: null\n  text: null\n"
+source_yaml_url: https://artifacts.apis.io/outdoorsy/eligibility/outdoorsy-eligibility.yml
+stated_fields:
+- entity_types
+- restricted_uses
+summary_line: 2 quoted statements, read from Outdoorsy's own page on 2026-11-10.
+synthetic: false
+tags:
+- Company
+- Travel
+- Marketplace
+- Rentals
+- Recreational Vehicles
+- Booking
+- Search
+- Payments
+- Insurance
+- Camping
+- Tourism
+---

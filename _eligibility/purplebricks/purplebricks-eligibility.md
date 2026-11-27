@@ -1,0 +1,417 @@
+---
+api_specs:
+- filename: purplebricks-accessdetails-api-openapi.yml
+  format: yaml
+  label: Purplebricks Access Details API
+  slug: purplebricks-accessdetails-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/purplebricks/openapi/purplebricks-accessdetails-api-openapi.yml
+- filename: purplebricks-activeproperty-api-openapi.yml
+  format: yaml
+  label: Purplebricks Active Property API
+  slug: purplebricks-activeproperty-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/purplebricks/openapi/purplebricks-activeproperty-api-openapi.yml
+- filename: purplebricks-activitydashboard-api-openapi.yml
+  format: yaml
+  label: Purplebricks Activity Dashboard API
+  slug: purplebricks-activitydashboard-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/purplebricks/openapi/purplebricks-activitydashboard-api-openapi.yml
+- filename: purplebricks-address-api-openapi.yml
+  format: yaml
+  label: Purplebricks Address API
+  slug: purplebricks-address-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/purplebricks/openapi/purplebricks-address-api-openapi.yml
+- filename: purplebricks-agentoutlooksync-api-openapi.yml
+  format: yaml
+  label: Purplebricks Agent Outlook Sync API
+  slug: purplebricks-agentoutlooksync-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/purplebricks/openapi/purplebricks-agentoutlooksync-api-openapi.yml
+- filename: purplebricks-appointments-api-openapi.yml
+  format: yaml
+  label: Purplebricks Appointments API
+  slug: purplebricks-appointments-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/purplebricks/openapi/purplebricks-appointments-api-openapi.yml
+- filename: purplebricks-auth-api-openapi.yml
+  format: yaml
+  label: Purplebricks Auth API
+  slug: purplebricks-auth-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/purplebricks/openapi/purplebricks-auth-api-openapi.yml
+- filename: purplebricks-bland-api-openapi.yml
+  format: yaml
+  label: Purplebricks Bland API
+  slug: purplebricks-bland-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/purplebricks/openapi/purplebricks-bland-api-openapi.yml
+- filename: purplebricks-conveyancingquote-api-openapi.yml
+  format: yaml
+  label: Purplebricks Conveyancing Quote API
+  slug: purplebricks-conveyancingquote-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/purplebricks/openapi/purplebricks-conveyancingquote-api-openapi.yml
+- filename: purplebricks-countrywide-api-openapi.yml
+  format: yaml
+  label: Purplebricks Countrywide API
+  slug: purplebricks-countrywide-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/purplebricks/openapi/purplebricks-countrywide-api-openapi.yml
+- filename: purplebricks-customeremails-api-openapi.yml
+  format: yaml
+  label: Purplebricks Customer Emails API
+  slug: purplebricks-customeremails-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/purplebricks/openapi/purplebricks-customeremails-api-openapi.yml
+- filename: purplebricks-dashboard-api-openapi.yml
+  format: yaml
+  label: Purplebricks Dashboard API
+  slug: purplebricks-dashboard-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/purplebricks/openapi/purplebricks-dashboard-api-openapi.yml
+- filename: purplebricks-emailconfirmation-api-openapi.yml
+  format: yaml
+  label: Purplebricks Email Confirmation API
+  slug: purplebricks-emailconfirmation-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/purplebricks/openapi/purplebricks-emailconfirmation-api-openapi.yml
+- filename: purplebricks-enquiries-api-openapi.yml
+  format: yaml
+  label: Purplebricks Enquiries API
+  slug: purplebricks-enquiries-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/purplebricks/openapi/purplebricks-enquiries-api-openapi.yml
+- filename: purplebricks-expertcreated-api-openapi.yml
+  format: yaml
+  label: Purplebricks Expert Created API
+  slug: purplebricks-expertcreated-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/purplebricks/openapi/purplebricks-expertcreated-api-openapi.yml
+- filename: purplebricks-exposurereport-api-openapi.yml
+  format: yaml
+  label: Purplebricks Exposure Report API
+  slug: purplebricks-exposurereport-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/purplebricks/openapi/purplebricks-exposurereport-api-openapi.yml
+- filename: purplebricks-followup-api-openapi.yml
+  format: yaml
+  label: Purplebricks Follow Up API
+  slug: purplebricks-followup-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/purplebricks/openapi/purplebricks-followup-api-openapi.yml
+- filename: purplebricks-gotomarket-api-openapi.yml
+  format: yaml
+  label: Purplebricks Go To Market API
+  slug: purplebricks-gotomarket-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/purplebricks/openapi/purplebricks-gotomarket-api-openapi.yml
+- filename: purplebricks-inactiveproperty-api-openapi.yml
+  format: yaml
+  label: Purplebricks Inactive Property API
+  slug: purplebricks-inactiveproperty-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/purplebricks/openapi/purplebricks-inactiveproperty-api-openapi.yml
+- filename: purplebricks-instantinstruct-api-openapi.yml
+  format: yaml
+  label: Purplebricks Instant Instruct API
+  slug: purplebricks-instantinstruct-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/purplebricks/openapi/purplebricks-instantinstruct-api-openapi.yml
+- filename: purplebricks-internalperformancereport-api-openapi.yml
+  format: yaml
+  label: Purplebricks Internal Performance Report API
+  slug: purplebricks-internalperformancereport-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/purplebricks/openapi/purplebricks-internalperformancereport-api-openapi.yml
+- filename: purplebricks-isinstructavailable-api-openapi.yml
+  format: yaml
+  label: Purplebricks Is Instruct Available API
+  slug: purplebricks-isinstructavailable-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/purplebricks/openapi/purplebricks-isinstructavailable-api-openapi.yml
+- filename: purplebricks-landregistry-api-openapi.yml
+  format: yaml
+  label: Purplebricks Land Registry API
+  slug: purplebricks-landregistry-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/purplebricks/openapi/purplebricks-landregistry-api-openapi.yml
+- filename: purplebricks-leadcapture-api-openapi.yml
+  format: yaml
+  label: Purplebricks Lead Capture API
+  slug: purplebricks-leadcapture-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/purplebricks/openapi/purplebricks-leadcapture-api-openapi.yml
+- filename: purplebricks-managefeedback-api-openapi.yml
+  format: yaml
+  label: Purplebricks Manage Feedback API
+  slug: purplebricks-managefeedback-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/purplebricks/openapi/purplebricks-managefeedback-api-openapi.yml
+- filename: purplebricks-marketingpreferences-api-openapi.yml
+  format: yaml
+  label: Purplebricks Marketing Preferences API
+  slug: purplebricks-marketingpreferences-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/purplebricks/openapi/purplebricks-marketingpreferences-api-openapi.yml
+- filename: purplebricks-messages-api-openapi.yml
+  format: yaml
+  label: Purplebricks Messages API
+  slug: purplebricks-messages-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/purplebricks/openapi/purplebricks-messages-api-openapi.yml
+- filename: purplebricks-onthemarketbranch-api-openapi.yml
+  format: yaml
+  label: Purplebricks On The Market Branch API
+  slug: purplebricks-onthemarketbranch-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/purplebricks/openapi/purplebricks-onthemarketbranch-api-openapi.yml
+- filename: purplebricks-opendays-api-openapi.yml
+  format: yaml
+  label: Purplebricks Open Days API
+  slug: purplebricks-opendays-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/purplebricks/openapi/purplebricks-opendays-api-openapi.yml
+- filename: purplebricks-owners-api-openapi.yml
+  format: yaml
+  label: Purplebricks Owners API
+  slug: purplebricks-owners-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/purplebricks/openapi/purplebricks-owners-api-openapi.yml
+- filename: purplebricks-phoneverification-api-openapi.yml
+  format: yaml
+  label: Purplebricks Phone Verification API
+  slug: purplebricks-phoneverification-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/purplebricks/openapi/purplebricks-phoneverification-api-openapi.yml
+- filename: purplebricks-preactive-api-openapi.yml
+  format: yaml
+  label: Purplebricks Preactive API
+  slug: purplebricks-preactive-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/purplebricks/openapi/purplebricks-preactive-api-openapi.yml
+- filename: purplebricks-preinstruct-api-openapi.yml
+  format: yaml
+  label: Purplebricks Pre Instruct API
+  slug: purplebricks-preinstruct-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/purplebricks/openapi/purplebricks-preinstruct-api-openapi.yml
+- filename: purplebricks-properties-api-openapi.yml
+  format: yaml
+  label: Purplebricks Properties API
+  slug: purplebricks-properties-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/purplebricks/openapi/purplebricks-properties-api-openapi.yml
+- filename: purplebricks-property-api-openapi.yml
+  format: yaml
+  label: Purplebricks Property API
+  slug: purplebricks-property-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/purplebricks/openapi/purplebricks-property-api-openapi.yml
+- filename: purplebricks-propertybox-api-openapi.yml
+  format: yaml
+  label: Purplebricks Property Box API
+  slug: purplebricks-propertybox-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/purplebricks/openapi/purplebricks-propertybox-api-openapi.yml
+- filename: purplebricks-propertyquestionnaireform-api-openapi.yml
+  format: yaml
+  label: Purplebricks Property Questionnaire Form API
+  slug: purplebricks-propertyquestionnaireform-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/purplebricks/openapi/purplebricks-propertyquestionnaireform-api-openapi.yml
+- filename: purplebricks-propertysearchhits-api-openapi.yml
+  format: yaml
+  label: Purplebricks Property Search Hits API
+  slug: purplebricks-propertysearchhits-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/purplebricks/openapi/purplebricks-propertysearchhits-api-openapi.yml
+- filename: purplebricks-railwaystations-api-openapi.yml
+  format: yaml
+  label: Purplebricks Railway Stations API
+  slug: purplebricks-railwaystations-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/purplebricks/openapi/purplebricks-railwaystations-api-openapi.yml
+- filename: purplebricks-rightmovebranch-api-openapi.yml
+  format: yaml
+  label: Purplebricks Rightmove Branch API
+  slug: purplebricks-rightmovebranch-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/purplebricks/openapi/purplebricks-rightmovebranch-api-openapi.yml
+- filename: purplebricks-salesforcediarypilot-api-openapi.yml
+  format: yaml
+  label: Purplebricks Salesforce Diary Pilot API
+  slug: purplebricks-salesforcediarypilot-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/purplebricks/openapi/purplebricks-salesforcediarypilot-api-openapi.yml
+- filename: purplebricks-step-api-openapi.yml
+  format: yaml
+  label: Purplebricks Step API
+  slug: purplebricks-step-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/purplebricks/openapi/purplebricks-step-api-openapi.yml
+- filename: purplebricks-streetwebhooks-api-openapi.yml
+  format: yaml
+  label: Purplebricks Street Webhooks API
+  slug: purplebricks-streetwebhooks-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/purplebricks/openapi/purplebricks-streetwebhooks-api-openapi.yml
+- filename: purplebricks-team-api-openapi.yml
+  format: yaml
+  label: Purplebricks Team API
+  slug: purplebricks-team-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/purplebricks/openapi/purplebricks-team-api-openapi.yml
+- filename: purplebricks-tecletpostcode-api-openapi.yml
+  format: yaml
+  label: Purplebricks Teclet Postcode API
+  slug: purplebricks-tecletpostcode-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/purplebricks/openapi/purplebricks-tecletpostcode-api-openapi.yml
+- filename: purplebricks-threads-api-openapi.yml
+  format: yaml
+  label: Purplebricks Threads API
+  slug: purplebricks-threads-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/purplebricks/openapi/purplebricks-threads-api-openapi.yml
+- filename: purplebricks-tps-api-openapi.yml
+  format: yaml
+  label: Purplebricks Tps API
+  slug: purplebricks-tps-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/purplebricks/openapi/purplebricks-tps-api-openapi.yml
+- filename: purplebricks-trackedproperties-api-openapi.yml
+  format: yaml
+  label: Purplebricks Tracked Properties API
+  slug: purplebricks-trackedproperties-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/purplebricks/openapi/purplebricks-trackedproperties-api-openapi.yml
+- filename: purplebricks-user-api-openapi.yml
+  format: yaml
+  label: Purplebricks User API
+  slug: purplebricks-user-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/purplebricks/openapi/purplebricks-user-api-openapi.yml
+- filename: purplebricks-users-api-openapi.yml
+  format: yaml
+  label: Purplebricks Users API
+  slug: purplebricks-users-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/purplebricks/openapi/purplebricks-users-api-openapi.yml
+- filename: purplebricks-valuation-api-openapi.yml
+  format: yaml
+  label: Purplebricks Valuation API
+  slug: purplebricks-valuation-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/purplebricks/openapi/purplebricks-valuation-api-openapi.yml
+- filename: purplebricks-valuationintent-api-openapi.yml
+  format: yaml
+  label: Purplebricks Valuation Intent API
+  slug: purplebricks-valuationintent-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/purplebricks/openapi/purplebricks-valuationintent-api-openapi.yml
+- filename: purplebricks-valuationreport-api-openapi.yml
+  format: yaml
+  label: Purplebricks Valuation Report API
+  slug: purplebricks-valuationreport-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/purplebricks/openapi/purplebricks-valuationreport-api-openapi.yml
+- filename: purplebricks-withdraw-api-openapi.yml
+  format: yaml
+  label: Purplebricks Withdraw API
+  slug: purplebricks-withdraw-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/purplebricks/openapi/purplebricks-withdraw-api-openapi.yml
+- filename: purplebricks-zooplabranch-api-openapi.yml
+  format: yaml
+  label: Purplebricks Zoopla Branch API
+  slug: purplebricks-zooplabranch-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/purplebricks/openapi/purplebricks-zooplabranch-api-openapi.yml
+- filename: purplebricks-contact-us-api-openapi.yml
+  format: yaml
+  label: Purplebricks Contact Us API
+  slug: purplebricks-contact-us-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/purplebricks/openapi/purplebricks-contact-us-api-openapi.yml
+- filename: purplebricks-performance-report-api-openapi.yml
+  format: yaml
+  label: Purplebricks Performance Report API
+  slug: purplebricks-performance-report-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/purplebricks/openapi/purplebricks-performance-report-api-openapi.yml
+- filename: purplebricks-post-code-api-openapi.yml
+  format: yaml
+  label: Purplebricks Post Code API
+  slug: purplebricks-post-code-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/purplebricks/openapi/purplebricks-post-code-api-openapi.yml
+claim_count: 5
+description: ''
+doc:
+  countries:
+    excluded: []
+    served:
+    - GB
+    text: Our sites are only for users in the UK
+  entity_types:
+  - text: 'If you are a consumer user: Please note that we only provide our sites for domestic and private use.'
+    type: individual
+  - text: 'If you are a business user: We exclude all implied conditions, warranties, representations or other terms that may apply to our sites or any content on it.'
+    type: business
+  minimum_age:
+    text: null
+    value: null
+  restricted_uses:
+  - summary: No commercial or business use by consumers
+    text: You agree not to use our sites for any commercial or business purposes
+  - summary: No commercial use of content
+    text: You must not use any part of the content on our sites for commercial purposes without obtaining a licence to do so from us or our licensors.
+  verification:
+    approval_required: null
+    kyb: null
+    kyc: null
+    text: null
+excluded_countries: []
+layer: eligibility
+layer_version: 0.1.0
+layout: eligibility
+method: harvested
+model: claude-haiku-5-5
+name: Purplebricks
+provenance_date: '2026-11-10'
+provider_name: Purplebricks
+provider_slug: purplebricks
+slug: purplebricks-eligibility
+source_date: '2026-11-10'
+source_filename: purplebricks-eligibility.yml
+source_heading: Eligibility
+source_page: https://www.purplebricks.co.uk/terms-and-conditions/terms-of-use
+source_url: ''
+source_yaml: "# Read from the provider's own page by engine/business/harvest-business.py. Every `text` is quoted verbatim from `url` (or the row's `source`); `unstated` means the page did not say.\neligibility: 0.1.0\nprovider: Purplebricks\naid: purplebricks\nurl: https://www.purplebricks.co.uk/terms-and-conditions/terms-of-use\nsource_date: '2026-11-10'\nx-apis-io-derivation:\n  synthetic: false\n  method: harvested\n  read: '2026-11-10'\n  tool: engine/business/harvest-business.py\n  model: claude-haiku-5-5\ncountries:\n  served:\n  - GB\n  excluded: []\n  text: Our sites are only for users in the UK\nentity_types:\n- type: individual\n  text: 'If you are a consumer user: Please note that we only provide our sites for domestic and private use.'\n- type: business\n  text: 'If you are a business user: We exclude all implied conditions, warranties, representations or other terms\n    that may apply to our sites or any content on it.'\nrestricted_uses:\n- summary: No commercial or business\
+  \ use by consumers\n  text: You agree not to use our sites for any commercial or business purposes\n- summary: No commercial use of content\n  text: You must not use any part of the content on our sites for commercial purposes without obtaining a licence\n    to do so from us or our licensors.\nverification:\n  kyc: null\n  kyb: null\n  approval_required: null\n  text: null\nminimum_age:\n  value: null\n  text: null\n"
+source_yaml_url: https://artifacts.apis.io/purplebricks/eligibility/purplebricks-eligibility.yml
+stated_fields:
+- countries
+- entity_types
+- restricted_uses
+summary_line: 5 quoted statements, read from Purplebricks's own page on 2026-11-10.
+synthetic: false
+tags:
+- Real Estate
+- United Kingdom
+- Property Listings
+- Online Estate Agency
+- Rentals
+- Lettings
+- PropTech
+- Mortgage
+- Conveyancing
+- Land Registry
+- OpenAPI
+- Microservices
+- Swagger
+- Microsoft Azure
+---

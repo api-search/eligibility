@@ -65,6 +65,6 @@ tags:
 - Phone Numbers
 - Verification Codes
 - Two-Factor Authentication
-- Webhooks
+- Webhook
 - Telephony
 ---

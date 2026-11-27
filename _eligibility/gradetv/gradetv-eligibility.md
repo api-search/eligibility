@@ -1,0 +1,382 @@
+---
+api_specs:
+- filename: gradetv-admin-api-openapi.yml
+  format: yaml
+  label: Grade Admin API
+  slug: gradetv-admin-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/gradetv/openapi/gradetv-admin-api-openapi.yml
+- filename: gradetv-apis-json-api-openapi.yml
+  format: yaml
+  label: Grade Apis.json API
+  slug: gradetv-apis-json-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/gradetv/openapi/gradetv-apis-json-api-openapi.yml
+- filename: gradetv-auth-api-openapi.yml
+  format: yaml
+  label: Grade Auth API
+  slug: gradetv-auth-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/gradetv/openapi/gradetv-auth-api-openapi.yml
+- filename: gradetv-billing-api-openapi.yml
+  format: yaml
+  label: Grade Billing API
+  slug: gradetv-billing-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/gradetv/openapi/gradetv-billing-api-openapi.yml
+- filename: gradetv-categories-api-openapi.yml
+  format: yaml
+  label: Grade Categories API
+  slug: gradetv-categories-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/gradetv/openapi/gradetv-categories-api-openapi.yml
+- filename: gradetv-channels-api-openapi.yml
+  format: yaml
+  label: Grade Channels API
+  slug: gradetv-channels-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/gradetv/openapi/gradetv-channels-api-openapi.yml
+- filename: gradetv-chat-api-openapi.yml
+  format: yaml
+  label: Grade Chat API
+  slug: gradetv-chat-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/gradetv/openapi/gradetv-chat-api-openapi.yml
+- filename: gradetv-cities-api-openapi.yml
+  format: yaml
+  label: Grade Cities API
+  slug: gradetv-cities-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/gradetv/openapi/gradetv-cities-api-openapi.yml
+- filename: gradetv-comments-api-openapi.yml
+  format: yaml
+  label: Grade Comments API
+  slug: gradetv-comments-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/gradetv/openapi/gradetv-comments-api-openapi.yml
+- filename: gradetv-contact-api-openapi.yml
+  format: yaml
+  label: Grade Contact API
+  slug: gradetv-contact-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/gradetv/openapi/gradetv-contact-api-openapi.yml
+- filename: gradetv-countries-api-openapi.yml
+  format: yaml
+  label: Grade Countries API
+  slug: gradetv-countries-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/gradetv/openapi/gradetv-countries-api-openapi.yml
+- filename: gradetv-credito-api-openapi.yml
+  format: yaml
+  label: Grade Credito API
+  slug: gradetv-credito-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/gradetv/openapi/gradetv-credito-api-openapi.yml
+- filename: gradetv-f-api-openapi.yml
+  format: yaml
+  label: Grade F API
+  slug: gradetv-f-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/gradetv/openapi/gradetv-f-api-openapi.yml
+- filename: gradetv-favorites-api-openapi.yml
+  format: yaml
+  label: Grade Favorites API
+  slug: gradetv-favorites-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/gradetv/openapi/gradetv-favorites-api-openapi.yml
+- filename: gradetv-geo-api-openapi.yml
+  format: yaml
+  label: Grade Geo API
+  slug: gradetv-geo-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/gradetv/openapi/gradetv-geo-api-openapi.yml
+- filename: gradetv-grade-api-openapi.yml
+  format: yaml
+  label: Grade Grade API
+  slug: gradetv-grade-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/gradetv/openapi/gradetv-grade-api-openapi.yml
+- filename: gradetv-groups-api-openapi.yml
+  format: yaml
+  label: Grade Groups API
+  slug: gradetv-groups-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/gradetv/openapi/gradetv-groups-api-openapi.yml
+- filename: gradetv-guest-api-openapi.yml
+  format: yaml
+  label: Grade Guest API
+  slug: gradetv-guest-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/gradetv/openapi/gradetv-guest-api-openapi.yml
+- filename: gradetv-health-api-openapi.yml
+  format: yaml
+  label: Grade Health API
+  slug: gradetv-health-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/gradetv/openapi/gradetv-health-api-openapi.yml
+- filename: gradetv-history-api-openapi.yml
+  format: yaml
+  label: Grade History API
+  slug: gradetv-history-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/gradetv/openapi/gradetv-history-api-openapi.yml
+- filename: gradetv-items-api-openapi.yml
+  format: yaml
+  label: Grade Items API
+  slug: gradetv-items-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/gradetv/openapi/gradetv-items-api-openapi.yml
+- filename: gradetv-keys-api-openapi.yml
+  format: yaml
+  label: Grade Keys API
+  slug: gradetv-keys-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/gradetv/openapi/gradetv-keys-api-openapi.yml
+- filename: gradetv-languages-api-openapi.yml
+  format: yaml
+  label: Grade Languages API
+  slug: gradetv-languages-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/gradetv/openapi/gradetv-languages-api-openapi.yml
+- filename: gradetv-library-api-openapi.yml
+  format: yaml
+  label: Grade Library API
+  slug: gradetv-library-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/gradetv/openapi/gradetv-library-api-openapi.yml
+- filename: gradetv-logos-api-openapi.yml
+  format: yaml
+  label: Grade Logos API
+  slug: gradetv-logos-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/gradetv/openapi/gradetv-logos-api-openapi.yml
+- filename: gradetv-m-api-openapi.yml
+  format: yaml
+  label: Grade M API
+  slug: gradetv-m-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/gradetv/openapi/gradetv-m-api-openapi.yml
+- filename: gradetv-mcp-api-openapi.yml
+  format: yaml
+  label: Grade MCP API
+  slug: gradetv-mcp-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/gradetv/openapi/gradetv-mcp-api-openapi.yml
+- filename: gradetv-me-api-openapi.yml
+  format: yaml
+  label: Grade Me API
+  slug: gradetv-me-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/gradetv/openapi/gradetv-me-api-openapi.yml
+- filename: gradetv-metrics-api-openapi.yml
+  format: yaml
+  label: Grade Metrics API
+  slug: gradetv-metrics-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/gradetv/openapi/gradetv-metrics-api-openapi.yml
+- filename: gradetv-networks-api-openapi.yml
+  format: yaml
+  label: Grade Networks API
+  slug: gradetv-networks-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/gradetv/openapi/gradetv-networks-api-openapi.yml
+- filename: gradetv-nsfw-api-openapi.yml
+  format: yaml
+  label: Grade Nsfw API
+  slug: gradetv-nsfw-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/gradetv/openapi/gradetv-nsfw-api-openapi.yml
+- filename: gradetv-nsfw-consent-api-openapi.yml
+  format: yaml
+  label: Grade Nsfw Consent API
+  slug: gradetv-nsfw-consent-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/gradetv/openapi/gradetv-nsfw-consent-api-openapi.yml
+- filename: gradetv-okf-api-openapi.yml
+  format: yaml
+  label: Grade Okf API
+  slug: gradetv-okf-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/gradetv/openapi/gradetv-okf-api-openapi.yml
+- filename: gradetv-play-report-api-openapi.yml
+  format: yaml
+  label: Grade Play Report API
+  slug: gradetv-play-report-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/gradetv/openapi/gradetv-play-report-api-openapi.yml
+- filename: gradetv-play-reports-api-openapi.yml
+  format: yaml
+  label: Grade Play Reports API
+  slug: gradetv-play-reports-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/gradetv/openapi/gradetv-play-reports-api-openapi.yml
+- filename: gradetv-producers-api-openapi.yml
+  format: yaml
+  label: Grade Producers API
+  slug: gradetv-producers-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/gradetv/openapi/gradetv-producers-api-openapi.yml
+- filename: gradetv-qualities-api-openapi.yml
+  format: yaml
+  label: Grade Qualities API
+  slug: gradetv-qualities-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/gradetv/openapi/gradetv-qualities-api-openapi.yml
+- filename: gradetv-s-api-openapi.yml
+  format: yaml
+  label: Grade S API
+  slug: gradetv-s-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/gradetv/openapi/gradetv-s-api-openapi.yml
+- filename: gradetv-subdivisions-api-openapi.yml
+  format: yaml
+  label: Grade Subdivisions API
+  slug: gradetv-subdivisions-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/gradetv/openapi/gradetv-subdivisions-api-openapi.yml
+- filename: gradetv-tags-api-openapi.yml
+  format: yaml
+  label: Grade Tags API
+  slug: gradetv-tags-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/gradetv/openapi/gradetv-tags-api-openapi.yml
+- filename: gradetv-visit-api-openapi.yml
+  format: yaml
+  label: Grade Visit API
+  slug: gradetv-visit-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/gradetv/openapi/gradetv-visit-api-openapi.yml
+- filename: gradetv-well-known-api-openapi.yml
+  format: yaml
+  label: Grade .well Known API
+  slug: gradetv-well-known-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/gradetv/openapi/gradetv-well-known-api-openapi.yml
+- filename: gradetv-account-api-openapi.yml
+  format: yaml
+  label: Grade Account API
+  slug: gradetv-account-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/gradetv/openapi/gradetv-account-api-openapi.yml
+- filename: gradetv-agent-json-api-openapi.yml
+  format: yaml
+  label: Grade Agent.json API
+  slug: gradetv-agent-json-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/gradetv/openapi/gradetv-agent-json-api-openapi.yml
+- filename: gradetv-erro-cliente-api-openapi.yml
+  format: yaml
+  label: Grade Erro Cliente API
+  slug: gradetv-erro-cliente-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/gradetv/openapi/gradetv-erro-cliente-api-openapi.yml
+- filename: gradetv-funil-api-openapi.yml
+  format: yaml
+  label: Grade Funil API
+  slug: gradetv-funil-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/gradetv/openapi/gradetv-funil-api-openapi.yml
+- filename: gradetv-legacy-api-openapi.yml
+  format: yaml
+  label: Grade Legacy API
+  slug: gradetv-legacy-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/gradetv/openapi/gradetv-legacy-api-openapi.yml
+- filename: gradetv-pagamento-api-openapi.yml
+  format: yaml
+  label: Grade Pagamento API
+  slug: gradetv-pagamento-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/gradetv/openapi/gradetv-pagamento-api-openapi.yml
+- filename: gradetv-partners-api-openapi.yml
+  format: yaml
+  label: Grade Partners API
+  slug: gradetv-partners-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/gradetv/openapi/gradetv-partners-api-openapi.yml
+- filename: gradetv-pay-api-openapi.yml
+  format: yaml
+  label: Grade Pay API
+  slug: gradetv-pay-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/gradetv/openapi/gradetv-pay-api-openapi.yml
+- filename: gradetv-pricing-api-openapi.yml
+  format: yaml
+  label: Grade Pricing API
+  slug: gradetv-pricing-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/gradetv/openapi/gradetv-pricing-api-openapi.yml
+- filename: gradetv-programacao-api-openapi.yml
+  format: yaml
+  label: Grade Programacao API
+  slug: gradetv-programacao-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/gradetv/openapi/gradetv-programacao-api-openapi.yml
+- filename: gradetv-tv-api-openapi.yml
+  format: yaml
+  label: Grade TV API
+  slug: gradetv-tv-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/gradetv/openapi/gradetv-tv-api-openapi.yml
+- filename: gradetv-vitrine-api-openapi.yml
+  format: yaml
+  label: Grade Vitrine API
+  slug: gradetv-vitrine-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/gradetv/openapi/gradetv-vitrine-api-openapi.yml
+claim_count: 1
+description: ''
+doc:
+  countries:
+    excluded: []
+    served: []
+    text: null
+  minimum_age:
+    text: null
+    value: null
+  restricted_uses:
+  - summary: Illegal activity, harassment, impersonation
+    text: Não use o serviço para atividade ilegal, para assediar ou para se passar por outra pessoa.
+  verification:
+    approval_required: null
+    kyb: null
+    kyc: null
+    text: null
+excluded_countries: []
+layer: eligibility
+layer_version: 0.1.0
+layout: eligibility
+method: harvested
+model: claude-haiku-5-5
+name: Grade
+provenance_date: '2026-11-09'
+provider_name: Grade
+provider_slug: gradetv
+slug: gradetv-eligibility
+source_date: '2026-11-09'
+source_filename: gradetv-eligibility.yml
+source_heading: Eligibility
+source_page: https://gradetv.net/termos
+source_url: ''
+source_yaml: "# Read from the provider's own page by engine/business/harvest-business.py. Every `text` is quoted verbatim from `url` (or the row's `source`); `unstated` means the page did not say.\neligibility: 0.1.0\nprovider: Grade\naid: gradetv\nurl: https://gradetv.net/termos\nsource_date: '2026-11-09'\nx-apis-io-derivation:\n  synthetic: false\n  method: harvested\n  read: '2026-11-09'\n  tool: engine/business/harvest-business.py\n  model: claude-haiku-5-5\ncountries:\n  served: []\n  excluded: []\n  text: null\nentity_types: []\nrestricted_uses:\n- summary: Illegal activity, harassment, impersonation\n  text: Não use o serviço para atividade ilegal, para assediar ou para se passar por outra pessoa.\nverification:\n  kyc: null\n  kyb: null\n  approval_required: null\n  text: null\nminimum_age:\n  value: null\n  text: null\n"
+source_yaml_url: https://artifacts.apis.io/gradetv/eligibility/gradetv-eligibility.yml
+stated_fields:
+- restricted_uses
+summary_line: 1 quoted statement, read from Grade's own page on 2026-11-09.
+synthetic: false
+tags:
+- IPTV
+- Streaming
+- Live TV
+- Live Radio
+- Media Catalog
+- Broadcast Metadata
+- EPG
+- TV Guide
+- Content Aggregation
+- Agent-Native
+- MCP
+- x402
+- Micropayments
+- Brazil
+---

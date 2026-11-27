@@ -45,6 +45,6 @@ tags:
 - Kanban
 - Collaboration
 - AI Agents
-- Model Context Protocol
+- MCP
 - Productivity
 ---

@@ -1,0 +1,54 @@
+---
+claim_count: 4
+description: ''
+doc:
+  countries:
+    excluded: []
+    served: []
+    text: We make no representation that the Services are appropriate for use outside Canada, or available outside of Canada and the U.S.
+  minimum_age:
+    text: You must be at least 18 years old to register to use the Services.
+    value: '18'
+  restricted_uses:
+  - summary: Unauthorized commercial scraping/copying
+    text: Use any manual process to monitor or copy any of the material on the Services or for any other unauthorized purpose without our prior written consent
+  verification:
+    approval_required: null
+    kyb: null
+    kyc: null
+    text: We make no attempt to confirm, and do not confirm, any user's purported identity.
+excluded_countries: []
+layer: eligibility
+layer_version: 0.1.0
+layout: eligibility
+method: harvested
+model: claude-haiku-5-5
+name: Set Scouter
+provenance_date: '2026-11-10'
+provider_name: Set Scouter
+provider_slug: set-scouter
+slug: set-scouter-eligibility
+source_date: '2026-11-10'
+source_filename: set-scouter-eligibility.yml
+source_heading: Eligibility
+source_page: https://www.setscouter.com/terms
+source_url: ''
+source_yaml: "# Read from the provider's own page by engine/business/harvest-business.py. Every `text` is quoted verbatim from `url` (or the row's `source`); `unstated` means the page did not say.\neligibility: 0.1.0\nprovider: Set Scouter\naid: set-scouter\nurl: https://www.setscouter.com/terms\nsource_date: '2026-11-10'\nx-apis-io-derivation:\n  synthetic: false\n  method: harvested\n  read: '2026-11-10'\n  tool: engine/business/harvest-business.py\n  model: claude-haiku-5-5\ncountries:\n  served: []\n  excluded: []\n  text: We make no representation that the Services are appropriate for use outside Canada, or available outside\n    of Canada and the U.S.\nentity_types: []\nrestricted_uses:\n- summary: Unauthorized commercial scraping/copying\n  text: Use any manual process to monitor or copy any of the material on the Services or for any other unauthorized\n    purpose without our prior written consent\nverification:\n  kyc: null\n  kyb: null\n  approval_required: null\n  text: We make\
+  \ no attempt to confirm, and do not confirm, any user's purported identity.\nminimum_age:\n  value: '18'\n  text: You must be at least 18 years old to register to use the Services.\n"
+source_yaml_url: https://artifacts.apis.io/set-scouter/eligibility/set-scouter-eligibility.yml
+stated_fields:
+- countries
+- restricted_uses
+- verification
+- minimum_age
+summary_line: 4 quoted statements, read from Set Scouter's own page on 2026-11-10.
+synthetic: false
+tags:
+- Company
+- Location Scouting
+- Film Production
+- Marketplace
+- Media and Entertainment
+- Booking
+- Real Estate
+---

@@ -1,0 +1,88 @@
+---
+api_specs:
+- filename: traefik-health-api-openapi.yml
+  format: yaml
+  label: Traefik Labs Health API
+  slug: traefik-health-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/traefik/openapi/traefik-health-api-openapi.yml
+- filename: traefik-http-api-openapi.yml
+  format: yaml
+  label: Traefik Labs HTTP API
+  slug: traefik-http-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/traefik/openapi/traefik-http-api-openapi.yml
+- filename: traefik-overview-api-openapi.yml
+  format: yaml
+  label: Traefik Labs Overview API
+  slug: traefik-overview-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/traefik/openapi/traefik-overview-api-openapi.yml
+- filename: traefik-tcp-api-openapi.yml
+  format: yaml
+  label: Traefik Labs TCP API
+  slug: traefik-tcp-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/traefik/openapi/traefik-tcp-api-openapi.yml
+- filename: traefik-udp-api-openapi.yml
+  format: yaml
+  label: Traefik Labs UDP API
+  slug: traefik-udp-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/traefik/openapi/traefik-udp-api-openapi.yml
+- filename: traefik-entry-points-api-openapi.yml
+  format: yaml
+  label: Traefik Labs Entry Points API
+  slug: traefik-entry-points-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/traefik/openapi/traefik-entry-points-api-openapi.yml
+claim_count: 1
+description: ''
+doc:
+  countries:
+    excluded: []
+    served: []
+    text: null
+  minimum_age:
+    text: Our Sites and Services are not designed for children under 13 (or in the case of the European Union a child under 16).
+    value: '13'
+  verification:
+    approval_required: null
+    kyb: null
+    kyc: null
+    text: null
+excluded_countries: []
+layer: eligibility
+layer_version: 0.1.0
+layout: eligibility
+method: harvested
+model: claude-haiku-5-5
+name: Traefik Labs
+provenance_date: '2026-11-10'
+provider_name: Traefik Labs
+provider_slug: traefik
+slug: traefik-eligibility
+source_date: '2026-11-10'
+source_filename: traefik-eligibility.yml
+source_heading: Eligibility
+source_page: https://traefik.io/legal/terms-of-services-20190401
+source_url: ''
+source_yaml: "# Read from the provider's own page by engine/business/harvest-business.py. Every `text` is quoted verbatim from `url` (or the row's `source`); `unstated` means the page did not say.\neligibility: 0.1.0\nprovider: Traefik Labs\naid: traefik\nurl: https://traefik.io/legal/terms-of-services-20190401\nsource_date: '2026-11-10'\nx-apis-io-derivation:\n  synthetic: false\n  method: harvested\n  read: '2026-11-10'\n  tool: engine/business/harvest-business.py\n  model: claude-haiku-5-5\ncountries:\n  served: []\n  excluded: []\n  text: null\nentity_types: []\nrestricted_uses: []\nverification:\n  kyc: null\n  kyb: null\n  approval_required: null\n  text: null\nminimum_age:\n  value: '13'\n  text: Our Sites and Services are not designed for children under 13 (or in the case of the European Union a child\n    under 16).\n"
+source_yaml_url: https://artifacts.apis.io/traefik/eligibility/traefik-eligibility.yml
+stated_fields:
+- minimum_age
+summary_line: 1 quoted statement, read from Traefik Labs's own page on 2026-11-10.
+synthetic: false
+tags:
+- AI Gateway
+- API Gateway
+- API Management
+- Developer Portal
+- GitOps
+- Kubernetes
+- Load Balancer
+- MCP Gateway
+- Open Source
+- Reverse Proxy
+- WAF
+---

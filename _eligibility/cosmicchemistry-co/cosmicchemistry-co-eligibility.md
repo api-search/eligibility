@@ -48,8 +48,8 @@ tags:
 - Company
 - Astrology
 - Vedic Astrology
-- Birth Chart
+- BirthChart
 - Calculators
-- Model Context Protocol
-- AI Assistants
+- MCP
+- AI Assistant
 ---

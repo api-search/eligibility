@@ -50,7 +50,7 @@ tags:
 - Artificial Intelligence
 - AI Agents
 - Personal Assistant
-- Model Context Protocol
+- MCP
 - Knowledge Graph
 - Productivity
 ---

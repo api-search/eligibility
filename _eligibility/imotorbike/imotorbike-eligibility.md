@@ -1,0 +1,58 @@
+---
+claim_count: 2
+description: ''
+doc:
+  countries:
+    excluded: []
+    served: []
+    text: null
+  entity_types:
+  - text: you are a registered company under Malaysia Law, if you are placing the Advertisement/Listing in your capacity as iM’s customer
+    type: business
+  minimum_age:
+    text: null
+    value: null
+  restricted_uses:
+  - summary: No official or commercial use of research data
+    text: The iM Research Data should not be used for any official or commercial purpose or as a substitute for professional advice.
+  verification:
+    approval_required: null
+    kyb: null
+    kyc: null
+    text: null
+excluded_countries: []
+layer: eligibility
+layer_version: 0.1.0
+layout: eligibility
+method: harvested
+model: claude-haiku-5-5
+name: iMotorbike
+provenance_date: '2026-11-09'
+provider_name: iMotorbike
+provider_slug: imotorbike
+slug: imotorbike-eligibility
+source_date: '2026-11-09'
+source_filename: imotorbike-eligibility.yml
+source_heading: Eligibility
+source_page: https://imotorbike.com/my/en/terms-and-conditions/
+source_url: ''
+source_yaml: "# Read from the provider's own page by engine/business/harvest-business.py. Every `text` is quoted verbatim from `url` (or the row's `source`); `unstated` means the page did not say.\neligibility: 0.1.0\nprovider: iMotorbike\naid: imotorbike\nurl: https://imotorbike.com/my/en/terms-and-conditions/\nsource_date: '2026-11-09'\nx-apis-io-derivation:\n  synthetic: false\n  method: harvested\n  read: '2026-11-09'\n  tool: engine/business/harvest-business.py\n  model: claude-haiku-5-5\ncountries:\n  served: []\n  excluded: []\n  text: null\nentity_types:\n- type: business\n  text: you are a registered company under Malaysia Law, if you are placing the Advertisement/Listing in your capacity\n    as iM’s customer\nrestricted_uses:\n- summary: No official or commercial use of research data\n  text: The iM Research Data should not be used for any official or commercial purpose or as a substitute for professional\n    advice.\nverification:\n  kyc: null\n  kyb: null\n  approval_required:\
+  \ null\n  text: null\nminimum_age:\n  value: null\n  text: null\n"
+source_yaml_url: https://artifacts.apis.io/imotorbike/eligibility/imotorbike-eligibility.yml
+stated_fields:
+- entity_types
+- restricted_uses
+summary_line: 2 quoted statements, read from iMotorbike's own page on 2026-11-09.
+synthetic: false
+tags:
+- Company
+- Marketplace
+- Motorcycles
+- Automotive
+- E-Commerce
+- Southeast Asia
+- Malaysia
+- Vietnam
+- Used Vehicles
+- Inspection
+---

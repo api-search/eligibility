@@ -42,10 +42,10 @@ synthetic: false
 tags:
 - Company
 - AI Agents
-- Customer Support
+- Customer Service
 - Chatbots
 - Messaging
 - WhatsApp
-- Model Context Protocol
+- MCP
 - Conversational AI
 ---

@@ -49,11 +49,11 @@ summary_line: 4 quoted statements, read from CodeStringers's own page on 2026-11
 synthetic: false
 tags:
 - Company
-- Agentic AI
+- AI Agents
 - Business Systems Integration
 - Custom Software Development
 - Consulting
 - Zoho
-- Model Context Protocol
-- Managed Services
+- MCP
+- Managed Service
 ---

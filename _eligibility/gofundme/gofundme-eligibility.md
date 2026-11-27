@@ -1,0 +1,486 @@
+---
+api_specs:
+- filename: gofundme-acknowledgement-api-openapi.yml
+  format: yaml
+  label: GoFundMe Acknowledgement API
+  slug: gofundme-acknowledgement-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/gofundme/openapi/gofundme-acknowledgement-api-openapi.yml
+- filename: gofundme-activity-api-openapi.yml
+  format: yaml
+  label: GoFundMe Activity API
+  slug: gofundme-activity-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/gofundme/openapi/gofundme-activity-api-openapi.yml
+- filename: gofundme-annual-summary-api-openapi.yml
+  format: yaml
+  label: GoFundMe Annual Summary API
+  slug: gofundme-annual-summary-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/gofundme/openapi/gofundme-annual-summary-api-openapi.yml
+- filename: gofundme-answer-api-openapi.yml
+  format: yaml
+  label: GoFundMe Answer API
+  slug: gofundme-answer-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/gofundme/openapi/gofundme-answer-api-openapi.yml
+- filename: gofundme-api-app-api-openapi.yml
+  format: yaml
+  label: GoFundMe API App API
+  slug: gofundme-api-app-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/gofundme/openapi/gofundme-api-app-api-openapi.yml
+- filename: gofundme-appeal-set-api-openapi.yml
+  format: yaml
+  label: GoFundMe Appeal Set API
+  slug: gofundme-appeal-set-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/gofundme/openapi/gofundme-appeal-set-api-openapi.yml
+- filename: gofundme-branding-api-openapi.yml
+  format: yaml
+  label: GoFundMe Branding API
+  slug: gofundme-branding-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/gofundme/openapi/gofundme-branding-api-openapi.yml
+- filename: gofundme-brandkit-api-openapi.yml
+  format: yaml
+  label: GoFundMe Brandkit API
+  slug: gofundme-brandkit-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/gofundme/openapi/gofundme-brandkit-api-openapi.yml
+- filename: gofundme-campaign-api-openapi.yml
+  format: yaml
+  label: GoFundMe Campaign API
+  slug: gofundme-campaign-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/gofundme/openapi/gofundme-campaign-api-openapi.yml
+- filename: gofundme-campaign-channel-api-openapi.yml
+  format: yaml
+  label: GoFundMe Campaign Channel API
+  slug: gofundme-campaign-channel-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/gofundme/openapi/gofundme-campaign-channel-api-openapi.yml
+- filename: gofundme-campaign-credential-set-api-openapi.yml
+  format: yaml
+  label: GoFundMe Campaign Credential Set API
+  slug: gofundme-campaign-credential-set-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/gofundme/openapi/gofundme-campaign-credential-set-api-openapi.yml
+- filename: gofundme-campaign-series-api-openapi.yml
+  format: yaml
+  label: GoFundMe Campaign Series API
+  slug: gofundme-campaign-series-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/gofundme/openapi/gofundme-campaign-series-api-openapi.yml
+- filename: gofundme-campaign-series-iteration-api-openapi.yml
+  format: yaml
+  label: GoFundMe Campaign Series Iteration API
+  slug: gofundme-campaign-series-iteration-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/gofundme/openapi/gofundme-campaign-series-iteration-api-openapi.yml
+- filename: gofundme-campaign-studio-api-openapi.yml
+  format: yaml
+  label: GoFundMe Campaign Studio API
+  slug: gofundme-campaign-studio-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/gofundme/openapi/gofundme-campaign-studio-api-openapi.yml
+- filename: gofundme-channel-fundraising-entity-api-openapi.yml
+  format: yaml
+  label: GoFundMe Channel Fundraising Entity API
+  slug: gofundme-channel-fundraising-entity-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/gofundme/openapi/gofundme-channel-fundraising-entity-api-openapi.yml
+- filename: gofundme-chariot-api-openapi.yml
+  format: yaml
+  label: GoFundMe Chariot API
+  slug: gofundme-chariot-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/gofundme/openapi/gofundme-chariot-api-openapi.yml
+- filename: gofundme-classy-subscription-plan-api-openapi.yml
+  format: yaml
+  label: GoFundMe Classy Subscription Plan API
+  slug: gofundme-classy-subscription-plan-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/gofundme/openapi/gofundme-classy-subscription-plan-api-openapi.yml
+- filename: gofundme-comment-api-openapi.yml
+  format: yaml
+  label: GoFundMe Comment API
+  slug: gofundme-comment-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/gofundme/openapi/gofundme-comment-api-openapi.yml
+- filename: gofundme-credit-adjustment-api-openapi.yml
+  format: yaml
+  label: GoFundMe Credit Adjustment API
+  slug: gofundme-credit-adjustment-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/gofundme/openapi/gofundme-credit-adjustment-api-openapi.yml
+- filename: gofundme-dedication-api-openapi.yml
+  format: yaml
+  label: GoFundMe Dedication API
+  slug: gofundme-dedication-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/gofundme/openapi/gofundme-dedication-api-openapi.yml
+- filename: gofundme-designation-api-openapi.yml
+  format: yaml
+  label: GoFundMe Designation API
+  slug: gofundme-designation-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/gofundme/openapi/gofundme-designation-api-openapi.yml
+- filename: gofundme-domain-slug-api-openapi.yml
+  format: yaml
+  label: GoFundMe Domain Slug API
+  slug: gofundme-domain-slug-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/gofundme/openapi/gofundme-domain-slug-api-openapi.yml
+- filename: gofundme-donation-matching-plan-api-openapi.yml
+  format: yaml
+  label: GoFundMe Donation Matching Plan API
+  slug: gofundme-donation-matching-plan-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/gofundme/openapi/gofundme-donation-matching-plan-api-openapi.yml
+- filename: gofundme-double-the-donation-api-openapi.yml
+  format: yaml
+  label: GoFundMe Double the Donation API
+  slug: gofundme-double-the-donation-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/gofundme/openapi/gofundme-double-the-donation-api-openapi.yml
+- filename: gofundme-ecard-api-openapi.yml
+  format: yaml
+  label: GoFundMe E Card API
+  slug: gofundme-ecard-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/gofundme/openapi/gofundme-ecard-api-openapi.yml
+- filename: gofundme-engagement-settings-api-openapi.yml
+  format: yaml
+  label: GoFundMe Engagement Settings API
+  slug: gofundme-engagement-settings-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/gofundme/openapi/gofundme-engagement-settings-api-openapi.yml
+- filename: gofundme-faq-api-openapi.yml
+  format: yaml
+  label: GoFundMe FAQ API
+  slug: gofundme-faq-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/gofundme/openapi/gofundme-faq-api-openapi.yml
+- filename: gofundme-feed-item-api-openapi.yml
+  format: yaml
+  label: GoFundMe Feed Item API
+  slug: gofundme-feed-item-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/gofundme/openapi/gofundme-feed-item-api-openapi.yml
+- filename: gofundme-fundraising-page-api-openapi.yml
+  format: yaml
+  label: GoFundMe Fundraising Page API
+  slug: gofundme-fundraising-page-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/gofundme/openapi/gofundme-fundraising-page-api-openapi.yml
+- filename: gofundme-fundraising-page-transfer-api-openapi.yml
+  format: yaml
+  label: GoFundMe Fundraising Page Transfer API
+  slug: gofundme-fundraising-page-transfer-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/gofundme/openapi/gofundme-fundraising-page-transfer-api-openapi.yml
+- filename: gofundme-fundraising-team-api-openapi.yml
+  format: yaml
+  label: GoFundMe Fundraising Team API
+  slug: gofundme-fundraising-team-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/gofundme/openapi/gofundme-fundraising-team-api-openapi.yml
+- filename: gofundme-fundraising-team-policy-api-openapi.yml
+  format: yaml
+  label: GoFundMe Fundraising Team Policy API
+  slug: gofundme-fundraising-team-policy-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/gofundme/openapi/gofundme-fundraising-team-policy-api-openapi.yml
+- filename: gofundme-fundraising-team-transfer-api-openapi.yml
+  format: yaml
+  label: GoFundMe Fundraising Team Transfer API
+  slug: gofundme-fundraising-team-transfer-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/gofundme/openapi/gofundme-fundraising-team-transfer-api-openapi.yml
+- filename: gofundme-gfm-npo-page-api-openapi.yml
+  format: yaml
+  label: GoFundMe GFM NPO Page API
+  slug: gofundme-gfm-npo-page-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/gofundme/openapi/gofundme-gfm-npo-page-api-openapi.yml
+- filename: gofundme-hard-credit-transfer-api-openapi.yml
+  format: yaml
+  label: GoFundMe Hard Credit Transfer API
+  slug: gofundme-hard-credit-transfer-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/gofundme/openapi/gofundme-hard-credit-transfer-api-openapi.yml
+- filename: gofundme-like-api-openapi.yml
+  format: yaml
+  label: GoFundMe Like API
+  slug: gofundme-like-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/gofundme/openapi/gofundme-like-api-openapi.yml
+- filename: gofundme-matched-transaction-api-openapi.yml
+  format: yaml
+  label: GoFundMe Matched Transaction API
+  slug: gofundme-matched-transaction-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/gofundme/openapi/gofundme-matched-transaction-api-openapi.yml
+- filename: gofundme-member-api-openapi.yml
+  format: yaml
+  label: GoFundMe Member API
+  slug: gofundme-member-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/gofundme/openapi/gofundme-member-api-openapi.yml
+- filename: gofundme-organization-api-openapi.yml
+  format: yaml
+  label: GoFundMe Organization API
+  slug: gofundme-organization-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/gofundme/openapi/gofundme-organization-api-openapi.yml
+- filename: gofundme-organization-channel-api-openapi.yml
+  format: yaml
+  label: GoFundMe Organization Channel API
+  slug: gofundme-organization-channel-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/gofundme/openapi/gofundme-organization-channel-api-openapi.yml
+- filename: gofundme-organization-consumer-mappings-api-openapi.yml
+  format: yaml
+  label: GoFundMe Organization Consumer Mappings API
+  slug: gofundme-organization-consumer-mappings-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/gofundme/openapi/gofundme-organization-consumer-mappings-api-openapi.yml
+- filename: gofundme-organization-credential-set-api-openapi.yml
+  format: yaml
+  label: GoFundMe Organization Credential Set API
+  slug: gofundme-organization-credential-set-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/gofundme/openapi/gofundme-organization-credential-set-api-openapi.yml
+- filename: gofundme-organization-notification-api-openapi.yml
+  format: yaml
+  label: GoFundMe Organization Notification API
+  slug: gofundme-organization-notification-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/gofundme/openapi/gofundme-organization-notification-api-openapi.yml
+- filename: gofundme-organizations-api-openapi.yml
+  format: yaml
+  label: GoFundMe Organizations API
+  slug: gofundme-organizations-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/gofundme/openapi/gofundme-organizations-api-openapi.yml
+- filename: gofundme-payouts-api-openapi.yml
+  format: yaml
+  label: GoFundMe Payouts API
+  slug: gofundme-payouts-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/gofundme/openapi/gofundme-payouts-api-openapi.yml
+- filename: gofundme-promo-code-api-openapi.yml
+  format: yaml
+  label: GoFundMe Promo Code API
+  slug: gofundme-promo-code-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/gofundme/openapi/gofundme-promo-code-api-openapi.yml
+- filename: gofundme-promo-code-configuration-api-openapi.yml
+  format: yaml
+  label: GoFundMe Promo Code Configuration API
+  slug: gofundme-promo-code-configuration-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/gofundme/openapi/gofundme-promo-code-configuration-api-openapi.yml
+- filename: gofundme-question-api-openapi.yml
+  format: yaml
+  label: GoFundMe Question API
+  slug: gofundme-question-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/gofundme/openapi/gofundme-question-api-openapi.yml
+- filename: gofundme-recurring-donation-plan-api-openapi.yml
+  format: yaml
+  label: GoFundMe Recurring Donation Plan API
+  slug: gofundme-recurring-donation-plan-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/gofundme/openapi/gofundme-recurring-donation-plan-api-openapi.yml
+- filename: gofundme-recurring-donation-plan-history-api-openapi.yml
+  format: yaml
+  label: GoFundMe Recurring Donation Plan History API
+  slug: gofundme-recurring-donation-plan-history-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/gofundme/openapi/gofundme-recurring-donation-plan-history-api-openapi.yml
+- filename: gofundme-registration-api-openapi.yml
+  format: yaml
+  label: GoFundMe Registration API
+  slug: gofundme-registration-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/gofundme/openapi/gofundme-registration-api-openapi.yml
+- filename: gofundme-reports-api-openapi.yml
+  format: yaml
+  label: GoFundMe Reports API
+  slug: gofundme-reports-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/gofundme/openapi/gofundme-reports-api-openapi.yml
+- filename: gofundme-restricted-country-api-openapi.yml
+  format: yaml
+  label: GoFundMe Restricted Country API
+  slug: gofundme-restricted-country-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/gofundme/openapi/gofundme-restricted-country-api-openapi.yml
+- filename: gofundme-role-api-openapi.yml
+  format: yaml
+  label: GoFundMe Role API
+  slug: gofundme-role-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/gofundme/openapi/gofundme-role-api-openapi.yml
+- filename: gofundme-social-video-api-openapi.yml
+  format: yaml
+  label: GoFundMe Social Video API
+  slug: gofundme-social-video-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/gofundme/openapi/gofundme-social-video-api-openapi.yml
+- filename: gofundme-softcredit-api-openapi.yml
+  format: yaml
+  label: GoFundMe Soft Credit API
+  slug: gofundme-softcredit-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/gofundme/openapi/gofundme-softcredit-api-openapi.yml
+- filename: gofundme-source-tracking-codes-api-openapi.yml
+  format: yaml
+  label: GoFundMe Source Tracking Codes API
+  slug: gofundme-source-tracking-codes-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/gofundme/openapi/gofundme-source-tracking-codes-api-openapi.yml
+- filename: gofundme-staff-notification-setting-api-openapi.yml
+  format: yaml
+  label: GoFundMe Staff Notification Setting API
+  slug: gofundme-staff-notification-setting-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/gofundme/openapi/gofundme-staff-notification-setting-api-openapi.yml
+- filename: gofundme-story-api-openapi.yml
+  format: yaml
+  label: GoFundMe Story API
+  slug: gofundme-story-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/gofundme/openapi/gofundme-story-api-openapi.yml
+- filename: gofundme-studio-campaign-api-openapi.yml
+  format: yaml
+  label: GoFundMe Studio Campaign API
+  slug: gofundme-studio-campaign-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/gofundme/openapi/gofundme-studio-campaign-api-openapi.yml
+- filename: gofundme-supporter-api-openapi.yml
+  format: yaml
+  label: GoFundMe Supporter API
+  slug: gofundme-supporter-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/gofundme/openapi/gofundme-supporter-api-openapi.yml
+- filename: gofundme-supporters-api-openapi.yml
+  format: yaml
+  label: GoFundMe Supporters API
+  slug: gofundme-supporters-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/gofundme/openapi/gofundme-supporters-api-openapi.yml
+- filename: gofundme-theme-api-openapi.yml
+  format: yaml
+  label: GoFundMe Theme API
+  slug: gofundme-theme-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/gofundme/openapi/gofundme-theme-api-openapi.yml
+- filename: gofundme-ticket-type-api-openapi.yml
+  format: yaml
+  label: GoFundMe Ticket Type API
+  slug: gofundme-ticket-type-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/gofundme/openapi/gofundme-ticket-type-api-openapi.yml
+- filename: gofundme-transaction-api-openapi.yml
+  format: yaml
+  label: GoFundMe Transaction API
+  slug: gofundme-transaction-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/gofundme/openapi/gofundme-transaction-api-openapi.yml
+- filename: gofundme-transaction-item-api-openapi.yml
+  format: yaml
+  label: GoFundMe Transaction Item API
+  slug: gofundme-transaction-item-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/gofundme/openapi/gofundme-transaction-item-api-openapi.yml
+- filename: gofundme-transaction-receipt-api-openapi.yml
+  format: yaml
+  label: GoFundMe Transaction Receipt API
+  slug: gofundme-transaction-receipt-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/gofundme/openapi/gofundme-transaction-receipt-api-openapi.yml
+- filename: gofundme-update-api-openapi.yml
+  format: yaml
+  label: GoFundMe Update API
+  slug: gofundme-update-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/gofundme/openapi/gofundme-update-api-openapi.yml
+- filename: gofundme-whitelisted-currency-api-openapi.yml
+  format: yaml
+  label: GoFundMe Whitelisted Currency API
+  slug: gofundme-whitelisted-currency-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/gofundme/openapi/gofundme-whitelisted-currency-api-openapi.yml
+- filename: gofundme-magic-link-api-openapi.yml
+  format: yaml
+  label: GoFundMe Magic Link API
+  slug: gofundme-magic-link-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/gofundme/openapi/gofundme-magic-link-api-openapi.yml
+claim_count: 4
+description: ''
+doc:
+  countries:
+    excluded: []
+    served:
+    - US
+    - AU
+    - CA
+    - GB
+    - IE
+    text: If you’re using GoFundMe in the United States, Australia or Canada, you need to know about our arbitration agreement.
+  minimum_age:
+    text: If you are under 18, you are prohibited from using our Platform or Services.
+    value: '18'
+  restricted_uses:
+  - summary: Gambling and prize activities
+    text: gambling, gaming or any other activity with an entry fee and a prize including, but not limited to raffles, casino games, sports betting
+  - summary: Electoral fundraising
+    text: electoral fundraising, including fundraisers for electoral campaigns, campaign committees, political parties
+  verification:
+    approval_required: null
+    kyb: null
+    kyc: null
+    text: null
+excluded_countries: []
+layer: eligibility
+layer_version: 0.1.0
+layout: eligibility
+method: harvested
+model: claude-haiku-5-5
+name: GoFundMe
+provenance_date: '2026-11-09'
+provider_name: GoFundMe
+provider_slug: gofundme
+slug: gofundme-eligibility
+source_date: '2026-11-09'
+source_filename: gofundme-eligibility.yml
+source_heading: Eligibility
+source_page: https://pro.gofundme.com/c/legal/terms/
+source_url: ''
+source_yaml: "# Read from the provider's own page by engine/business/harvest-business.py. Every `text` is quoted verbatim from `url` (or the row's `source`); `unstated` means the page did not say.\neligibility: 0.1.0\nprovider: GoFundMe\naid: gofundme\nurl: https://pro.gofundme.com/c/legal/terms/\nsource_date: '2026-11-09'\nx-apis-io-derivation:\n  synthetic: false\n  method: harvested\n  read: '2026-11-09'\n  tool: engine/business/harvest-business.py\n  model: claude-haiku-5-5\n  truncated: true\ncountries:\n  served:\n  - US\n  - AU\n  - CA\n  - GB\n  - IE\n  excluded: []\n  text: If you’re using GoFundMe in the United States, Australia or Canada, you need to know about our arbitration\n    agreement.\nentity_types: []\nrestricted_uses:\n- summary: Gambling and prize activities\n  text: gambling, gaming or any other activity with an entry fee and a prize including, but not limited to raffles,\n    casino games, sports betting\n- summary: Electoral fundraising\n  text: electoral fundraising,\
+  \ including fundraisers for electoral campaigns, campaign committees, political parties\nverification:\n  kyc: null\n  kyb: null\n  approval_required: null\n  text: null\nminimum_age:\n  value: '18'\n  text: If you are under 18, you are prohibited from using our Platform or Services.\n"
+source_yaml_url: https://artifacts.apis.io/gofundme/eligibility/gofundme-eligibility.yml
+stated_fields:
+- countries
+- restricted_uses
+- minimum_age
+summary_line: 4 quoted statements, read from GoFundMe's own page on 2026-11-09.
+synthetic: false
+tags:
+- Fundraising
+- Non-Profit
+- Crowdfunding
+- Donations
+- Payments
+- Peer-to-Peer Fundraising
+- Recurring Giving
+- Event
+- Philanthropy
+- Social Impact
+- CRM
+- Webhook
+---

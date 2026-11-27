@@ -193,13 +193,13 @@ summary_line: 2 quoted statements, read from ComingUp Today's own page on 2026-1
 synthetic: false
 tags:
 - Company
-- Calendars
+- Calendar
 - Family Organization
-- Lists
+- List
 - Notes
 - Recipes
 - Contacts
 - MCP
-- AI Assistants
+- AI Assistant
 - Productivity
 ---

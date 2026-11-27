@@ -106,7 +106,7 @@ tags:
 - Company
 - QR Codes
 - Short Links
-- URL Shortener
+- URL Shorteners
 - Link Management
 - Analytics
 - Marketing

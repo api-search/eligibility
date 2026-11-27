@@ -1,0 +1,53 @@
+---
+claim_count: 1
+description: ''
+doc:
+  countries:
+    excluded: []
+    served: []
+    text: null
+  minimum_age:
+    text: null
+    value: null
+  restricted_uses:
+  - summary: Commercial or bulk use of the service
+    text: Unauthorised commercial or bulk use may slow down the speed of the service we can provide for our customers.
+  verification:
+    approval_required: null
+    kyb: null
+    kyc: null
+    text: null
+excluded_countries: []
+layer: eligibility
+layer_version: 0.1.0
+layout: eligibility
+method: harvested
+model: claude-haiku-5-5
+name: Urban Jungle
+provenance_date: '2026-11-10'
+provider_name: Urban Jungle
+provider_slug: urban-jungle
+slug: urban-jungle-eligibility
+source_date: '2026-11-10'
+source_filename: urban-jungle-eligibility.yml
+source_heading: Eligibility
+source_page: https://myurbanjungle.com/legal/tac
+source_url: ''
+source_yaml: "# Read from the provider's own page by engine/business/harvest-business.py. Every `text` is quoted verbatim from `url` (or the row's `source`); `unstated` means the page did not say.\neligibility: 0.1.0\nprovider: Urban Jungle\naid: urban-jungle\nurl: https://myurbanjungle.com/legal/tac\nsource_date: '2026-11-10'\nx-apis-io-derivation:\n  synthetic: false\n  method: harvested\n  read: '2026-11-10'\n  tool: engine/business/harvest-business.py\n  model: claude-haiku-5-5\ncountries:\n  served: []\n  excluded: []\n  text: null\nentity_types: []\nrestricted_uses:\n- summary: Commercial or bulk use of the service\n  text: Unauthorised commercial or bulk use may slow down the speed of the service we can provide for our customers.\nverification:\n  kyc: null\n  kyb: null\n  approval_required: null\n  text: null\nminimum_age:\n  value: null\n  text: null\n"
+source_yaml_url: https://artifacts.apis.io/urban-jungle/eligibility/urban-jungle-eligibility.yml
+stated_fields:
+- restricted_uses
+summary_line: 1 quoted statement, read from Urban Jungle's own page on 2026-11-10.
+synthetic: false
+tags:
+- Insurance
+- United Kingdom
+- Insurtech
+- Property and Casualty
+- Home Insurance
+- Renters Insurance
+- Embedded Insurance
+- Underwriting
+- Brokerage
+- Direct to Consumer
+---

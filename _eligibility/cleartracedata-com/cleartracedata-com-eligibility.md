@@ -74,7 +74,7 @@ tags:
 - Company
 - Blockchain
 - DeFi
-- DEX
+- Decentralized Exchange
 - Analytics
 - On-Chain Data
 - MEV

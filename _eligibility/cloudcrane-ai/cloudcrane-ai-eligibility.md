@@ -41,9 +41,9 @@ summary_line: 1 quoted statement, read from CloudCrane's own page on 2026-11-09.
 synthetic: false
 tags:
 - Company
-- AI Assistants
+- AI Assistant
 - MCP
-- Mobile Apps
+- Mobile App
 - No-Code
 - App Builder
 - Progressive Web Apps

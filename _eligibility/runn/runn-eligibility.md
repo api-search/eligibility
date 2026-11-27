@@ -1,0 +1,246 @@
+---
+api_specs:
+- filename: runn-activity-log-api-openapi.yml
+  format: yaml
+  label: Runn Activity Log API
+  slug: runn-activity-log-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/runn/openapi/runn-activity-log-api-openapi.yml
+- filename: runn-actuals-api-openapi.yml
+  format: yaml
+  label: Runn Actuals API
+  slug: runn-actuals-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/runn/openapi/runn-actuals-api-openapi.yml
+- filename: runn-assignments-api-openapi.yml
+  format: yaml
+  label: Runn Assignments API
+  slug: runn-assignments-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/runn/openapi/runn-assignments-api-openapi.yml
+- filename: runn-budget-roles-api-openapi.yml
+  format: yaml
+  label: Runn Budget Roles API
+  slug: runn-budget-roles-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/runn/openapi/runn-budget-roles-api-openapi.yml
+- filename: runn-clients-api-openapi.yml
+  format: yaml
+  label: Runn Clients API
+  slug: runn-clients-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/runn/openapi/runn-clients-api-openapi.yml
+- filename: runn-contracts-api-openapi.yml
+  format: yaml
+  label: Runn Contracts API
+  slug: runn-contracts-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/runn/openapi/runn-contracts-api-openapi.yml
+- filename: runn-custom-fields-api-openapi.yml
+  format: yaml
+  label: Runn Custom Fields API
+  slug: runn-custom-fields-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/runn/openapi/runn-custom-fields-api-openapi.yml
+- filename: runn-holiday-groups-api-openapi.yml
+  format: yaml
+  label: Runn Holiday Groups API
+  slug: runn-holiday-groups-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/runn/openapi/runn-holiday-groups-api-openapi.yml
+- filename: runn-invitations-api-openapi.yml
+  format: yaml
+  label: Runn Invitations API
+  slug: runn-invitations-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/runn/openapi/runn-invitations-api-openapi.yml
+- filename: runn-legacy-id-api-openapi.yml
+  format: yaml
+  label: Runn Legacy Id API
+  slug: runn-legacy-id-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/runn/openapi/runn-legacy-id-api-openapi.yml
+- filename: runn-me-api-openapi.yml
+  format: yaml
+  label: Runn Me API
+  slug: runn-me-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/runn/openapi/runn-me-api-openapi.yml
+- filename: runn-milestones-api-openapi.yml
+  format: yaml
+  label: Runn Milestones API
+  slug: runn-milestones-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/runn/openapi/runn-milestones-api-openapi.yml
+- filename: runn-other-expenses-api-openapi.yml
+  format: yaml
+  label: Runn Other Expenses API
+  slug: runn-other-expenses-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/runn/openapi/runn-other-expenses-api-openapi.yml
+- filename: runn-people-api-openapi.yml
+  format: yaml
+  label: Runn People API
+  slug: runn-people-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/runn/openapi/runn-people-api-openapi.yml
+- filename: runn-people-tags-api-openapi.yml
+  format: yaml
+  label: Runn People Tags API
+  slug: runn-people-tags-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/runn/openapi/runn-people-tags-api-openapi.yml
+- filename: runn-person-requests-api-openapi.yml
+  format: yaml
+  label: Runn Person Requests API
+  slug: runn-person-requests-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/runn/openapi/runn-person-requests-api-openapi.yml
+- filename: runn-phases-api-openapi.yml
+  format: yaml
+  label: Runn Phases API
+  slug: runn-phases-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/runn/openapi/runn-phases-api-openapi.yml
+- filename: runn-placeholders-api-openapi.yml
+  format: yaml
+  label: Runn Placeholders API
+  slug: runn-placeholders-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/runn/openapi/runn-placeholders-api-openapi.yml
+- filename: runn-project-members-api-openapi.yml
+  format: yaml
+  label: Runn Project Members API
+  slug: runn-project-members-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/runn/openapi/runn-project-members-api-openapi.yml
+- filename: runn-project-notes-api-openapi.yml
+  format: yaml
+  label: Runn Project Notes API
+  slug: runn-project-notes-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/runn/openapi/runn-project-notes-api-openapi.yml
+- filename: runn-project-rates-api-openapi.yml
+  format: yaml
+  label: Runn Project Rates API
+  slug: runn-project-rates-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/runn/openapi/runn-project-rates-api-openapi.yml
+- filename: runn-project-tags-api-openapi.yml
+  format: yaml
+  label: Runn Project Tags API
+  slug: runn-project-tags-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/runn/openapi/runn-project-tags-api-openapi.yml
+- filename: runn-project-workstreams-api-openapi.yml
+  format: yaml
+  label: Runn Project Workstreams API
+  slug: runn-project-workstreams-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/runn/openapi/runn-project-workstreams-api-openapi.yml
+- filename: runn-projects-api-openapi.yml
+  format: yaml
+  label: Runn Projects API
+  slug: runn-projects-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/runn/openapi/runn-projects-api-openapi.yml
+- filename: runn-rate-cards-api-openapi.yml
+  format: yaml
+  label: Runn Rate Cards API
+  slug: runn-rate-cards-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/runn/openapi/runn-rate-cards-api-openapi.yml
+- filename: runn-reports-api-openapi.yml
+  format: yaml
+  label: Runn Reports API
+  slug: runn-reports-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/runn/openapi/runn-reports-api-openapi.yml
+- filename: runn-roles-api-openapi.yml
+  format: yaml
+  label: Runn Roles API
+  slug: runn-roles-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/runn/openapi/runn-roles-api-openapi.yml
+- filename: runn-skills-api-openapi.yml
+  format: yaml
+  label: Runn Skills API
+  slug: runn-skills-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/runn/openapi/runn-skills-api-openapi.yml
+- filename: runn-teams-api-openapi.yml
+  format: yaml
+  label: Runn Teams API
+  slug: runn-teams-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/runn/openapi/runn-teams-api-openapi.yml
+- filename: runn-time-offs-api-openapi.yml
+  format: yaml
+  label: Runn Time Offs API
+  slug: runn-time-offs-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/runn/openapi/runn-time-offs-api-openapi.yml
+- filename: runn-users-api-openapi.yml
+  format: yaml
+  label: Runn Users API
+  slug: runn-users-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/runn/openapi/runn-users-api-openapi.yml
+- filename: runn-views-api-openapi.yml
+  format: yaml
+  label: Runn Views API
+  slug: runn-views-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/runn/openapi/runn-views-api-openapi.yml
+- filename: runn-workstreams-api-openapi.yml
+  format: yaml
+  label: Runn Workstreams API
+  slug: runn-workstreams-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/runn/openapi/runn-workstreams-api-openapi.yml
+claim_count: 1
+description: ''
+doc:
+  countries:
+    excluded: []
+    served: []
+    text: null
+  minimum_age:
+    text: null
+    value: null
+  restricted_uses:
+  - summary: Russia-connected businesses
+    text: at the sole discretion of Runn, any business we deem to connected to, or materially operating from Russia
+  verification:
+    approval_required: null
+    kyb: null
+    kyc: null
+    text: null
+excluded_countries: []
+layer: eligibility
+layer_version: 0.1.0
+layout: eligibility
+method: harvested
+model: claude-haiku-5-5
+name: Runn
+provenance_date: '2026-11-10'
+provider_name: Runn
+provider_slug: runn
+slug: runn-eligibility
+source_date: '2026-11-10'
+source_filename: runn-eligibility.yml
+source_heading: Eligibility
+source_page: https://www.runn.io/terms
+source_url: ''
+source_yaml: "# Read from the provider's own page by engine/business/harvest-business.py. Every `text` is quoted verbatim from `url` (or the row's `source`); `unstated` means the page did not say.\neligibility: 0.1.0\nprovider: Runn\naid: runn\nurl: https://www.runn.io/terms\nsource_date: '2026-11-10'\nx-apis-io-derivation:\n  synthetic: false\n  method: harvested\n  read: '2026-11-10'\n  tool: engine/business/harvest-business.py\n  model: claude-haiku-5-5\ncountries:\n  served: []\n  excluded: []\n  text: null\nentity_types: []\nrestricted_uses:\n- summary: Russia-connected businesses\n  text: at the sole discretion of Runn, any business we deem to connected to, or materially operating from Russia\nverification:\n  kyc: null\n  kyb: null\n  approval_required: null\n  text: null\nminimum_age:\n  value: null\n  text: null\n"
+source_yaml_url: https://artifacts.apis.io/runn/eligibility/runn-eligibility.yml
+stated_fields:
+- restricted_uses
+summary_line: 1 quoted statement, read from Runn's own page on 2026-11-10.
+synthetic: false
+tags:
+- Company
+- Resource Management
+- Capacity-Planning
+- Project Management
+---

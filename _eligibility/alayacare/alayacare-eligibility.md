@@ -1,0 +1,702 @@
+---
+api_specs:
+- filename: alayacare-tasks-api-openapi.yml
+  format: yaml
+  label: AlayaCare Tasks API
+  slug: alayacare-tasks-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/alayacare/openapi/alayacare-tasks-api-openapi.yml
+- filename: alayacare-forms-api-openapi.yml
+  format: yaml
+  label: AlayaCare Forms API
+  slug: alayacare-forms-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/alayacare/openapi/alayacare-forms-api-openapi.yml
+- filename: alayacare-medication-api-openapi.yml
+  format: yaml
+  label: AlayaCare Medication API
+  slug: alayacare-medication-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/alayacare/openapi/alayacare-medication-api-openapi.yml
+- filename: alayacare-accounts-api-openapi.yml
+  format: yaml
+  label: AlayaCare Accounts API
+  slug: alayacare-accounts-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/alayacare/openapi/alayacare-accounts-api-openapi.yml
+- filename: alayacare-activities-of-daily-living-adl-api-openapi.yml
+  format: yaml
+  label: AlayaCare Activities of Daily Living (ADL) API
+  slug: alayacare-activities-of-daily-living-adl-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/alayacare/openapi/alayacare-activities-of-daily-living-adl-api-openapi.yml
+- filename: alayacare-activity-codes-api-openapi.yml
+  format: yaml
+  label: AlayaCare Activity Codes API
+  slug: alayacare-activity-codes-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/alayacare/openapi/alayacare-activity-codes-api-openapi.yml
+- filename: alayacare-attachment-directory-api-openapi.yml
+  format: yaml
+  label: AlayaCare Attachment Directory API
+  slug: alayacare-attachment-directory-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/alayacare/openapi/alayacare-attachment-directory-api-openapi.yml
+- filename: alayacare-attachment-file-api-openapi.yml
+  format: yaml
+  label: AlayaCare Attachment File API
+  slug: alayacare-attachment-file-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/alayacare/openapi/alayacare-attachment-file-api-openapi.yml
+- filename: alayacare-bill-code-rate-rrules-api-openapi.yml
+  format: yaml
+  label: AlayaCare Bill Code Rate RRules API
+  slug: alayacare-bill-code-rate-rrules-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/alayacare/openapi/alayacare-bill-code-rate-rrules-api-openapi.yml
+- filename: alayacare-bill-code-rates-api-openapi.yml
+  format: yaml
+  label: AlayaCare Bill Code Rates API
+  slug: alayacare-bill-code-rates-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/alayacare/openapi/alayacare-bill-code-rates-api-openapi.yml
+- filename: alayacare-bill-codes-api-openapi.yml
+  format: yaml
+  label: AlayaCare Bill Codes API
+  slug: alayacare-bill-codes-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/alayacare/openapi/alayacare-bill-codes-api-openapi.yml
+- filename: alayacare-billing-cycles-api-openapi.yml
+  format: yaml
+  label: AlayaCare Billing Cycles API
+  slug: alayacare-billing-cycles-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/alayacare/openapi/alayacare-billing-cycles-api-openapi.yml
+- filename: alayacare-billing-periods-api-openapi.yml
+  format: yaml
+  label: AlayaCare Billing Periods API
+  slug: alayacare-billing-periods-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/alayacare/openapi/alayacare-billing-periods-api-openapi.yml
+- filename: alayacare-branches-api-openapi.yml
+  format: yaml
+  label: AlayaCare Branches API
+  slug: alayacare-branches-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/alayacare/openapi/alayacare-branches-api-openapi.yml
+- filename: alayacare-bulk-actions-api-openapi.yml
+  format: yaml
+  label: AlayaCare Bulk Actions API
+  slug: alayacare-bulk-actions-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/alayacare/openapi/alayacare-bulk-actions-api-openapi.yml
+- filename: alayacare-care-plan-api-openapi.yml
+  format: yaml
+  label: AlayaCare Care plan API
+  slug: alayacare-care-plan-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/alayacare/openapi/alayacare-care-plan-api-openapi.yml
+- filename: alayacare-care-plan-interventions-api-openapi.yml
+  format: yaml
+  label: AlayaCare Care Plan Interventions API
+  slug: alayacare-care-plan-interventions-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/alayacare/openapi/alayacare-care-plan-interventions-api-openapi.yml
+- filename: alayacare-care-provider-notes-api-openapi.yml
+  format: yaml
+  label: AlayaCare Care Provider Notes API
+  slug: alayacare-care-provider-notes-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/alayacare/openapi/alayacare-care-provider-notes-api-openapi.yml
+- filename: alayacare-client-contacts-api-openapi.yml
+  format: yaml
+  label: AlayaCare Client Contacts API
+  slug: alayacare-client-contacts-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/alayacare/openapi/alayacare-client-contacts-api-openapi.yml
+- filename: alayacare-client-cost-centres-api-openapi.yml
+  format: yaml
+  label: AlayaCare Client Cost Centres API
+  slug: alayacare-client-cost-centres-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/alayacare/openapi/alayacare-client-cost-centres-api-openapi.yml
+- filename: alayacare-client-risks-api-openapi.yml
+  format: yaml
+  label: AlayaCare Client Risks API
+  slug: alayacare-client-risks-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/alayacare/openapi/alayacare-client-risks-api-openapi.yml
+- filename: alayacare-client-status-api-openapi.yml
+  format: yaml
+  label: AlayaCare Client Status API
+  slug: alayacare-client-status-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/alayacare/openapi/alayacare-client-status-api-openapi.yml
+- filename: alayacare-clients-api-openapi.yml
+  format: yaml
+  label: AlayaCare Clients API
+  slug: alayacare-clients-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/alayacare/openapi/alayacare-clients-api-openapi.yml
+- filename: alayacare-comments-api-openapi.yml
+  format: yaml
+  label: AlayaCare Comments API
+  slug: alayacare-comments-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/alayacare/openapi/alayacare-comments-api-openapi.yml
+- filename: alayacare-configured-vitals-api-openapi.yml
+  format: yaml
+  label: AlayaCare Configured Vitals API
+  slug: alayacare-configured-vitals-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/alayacare/openapi/alayacare-configured-vitals-api-openapi.yml
+- filename: alayacare-cost-centres-api-openapi.yml
+  format: yaml
+  label: AlayaCare Cost Centres API
+  slug: alayacare-cost-centres-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/alayacare/openapi/alayacare-cost-centres-api-openapi.yml
+- filename: alayacare-departments-api-openapi.yml
+  format: yaml
+  label: AlayaCare Departments API
+  slug: alayacare-departments-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/alayacare/openapi/alayacare-departments-api-openapi.yml
+- filename: alayacare-designations-api-openapi.yml
+  format: yaml
+  label: AlayaCare Designations API
+  slug: alayacare-designations-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/alayacare/openapi/alayacare-designations-api-openapi.yml
+- filename: alayacare-diagnoses-api-openapi.yml
+  format: yaml
+  label: AlayaCare Diagnoses API
+  slug: alayacare-diagnoses-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/alayacare/openapi/alayacare-diagnoses-api-openapi.yml
+- filename: alayacare-directory-api-openapi.yml
+  format: yaml
+  label: AlayaCare Directory API
+  slug: alayacare-directory-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/alayacare/openapi/alayacare-directory-api-openapi.yml
+- filename: alayacare-employee-contacts-api-openapi.yml
+  format: yaml
+  label: AlayaCare Employee Contacts API
+  slug: alayacare-employee-contacts-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/alayacare/openapi/alayacare-employee-contacts-api-openapi.yml
+- filename: alayacare-employee-cost-centres-api-openapi.yml
+  format: yaml
+  label: AlayaCare Employee Cost Centres API
+  slug: alayacare-employee-cost-centres-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/alayacare/openapi/alayacare-employee-cost-centres-api-openapi.yml
+- filename: alayacare-employee-notes-api-openapi.yml
+  format: yaml
+  label: AlayaCare Employee Notes API
+  slug: alayacare-employee-notes-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/alayacare/openapi/alayacare-employee-notes-api-openapi.yml
+- filename: alayacare-employee-skills-api-openapi.yml
+  format: yaml
+  label: AlayaCare Employee Skills API
+  slug: alayacare-employee-skills-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/alayacare/openapi/alayacare-employee-skills-api-openapi.yml
+- filename: alayacare-employee-unavailabilities-api-openapi.yml
+  format: yaml
+  label: AlayaCare Employee Unavailabilities API
+  slug: alayacare-employee-unavailabilities-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/alayacare/openapi/alayacare-employee-unavailabilities-api-openapi.yml
+- filename: alayacare-employees-api-openapi.yml
+  format: yaml
+  label: AlayaCare Employees API
+  slug: alayacare-employees-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/alayacare/openapi/alayacare-employees-api-openapi.yml
+- filename: alayacare-employment-types-api-openapi.yml
+  format: yaml
+  label: AlayaCare Employment Types API
+  slug: alayacare-employment-types-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/alayacare/openapi/alayacare-employment-types-api-openapi.yml
+- filename: alayacare-evv-api-openapi.yml
+  format: yaml
+  label: AlayaCare EVV API
+  slug: alayacare-evv-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/alayacare/openapi/alayacare-evv-api-openapi.yml
+- filename: alayacare-evv-export-api-openapi.yml
+  format: yaml
+  label: AlayaCare EVV Export API
+  slug: alayacare-evv-export-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/alayacare/openapi/alayacare-evv-export-api-openapi.yml
+- filename: alayacare-facilities-api-openapi.yml
+  format: yaml
+  label: AlayaCare Facilities API
+  slug: alayacare-facilities-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/alayacare/openapi/alayacare-facilities-api-openapi.yml
+- filename: alayacare-file-api-openapi.yml
+  format: yaml
+  label: AlayaCare File API
+  slug: alayacare-file-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/alayacare/openapi/alayacare-file-api-openapi.yml
+- filename: alayacare-form-submission-inbox-api-openapi.yml
+  format: yaml
+  label: AlayaCare form submission inbox API
+  slug: alayacare-form-submission-inbox-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/alayacare/openapi/alayacare-form-submission-inbox-api-openapi.yml
+- filename: alayacare-form-submission-outbox-api-openapi.yml
+  format: yaml
+  label: AlayaCare form submission outbox API
+  slug: alayacare-form-submission-outbox-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/alayacare/openapi/alayacare-form-submission-outbox-api-openapi.yml
+- filename: alayacare-form-submissions-api-openapi.yml
+  format: yaml
+  label: AlayaCare Form Submissions API
+  slug: alayacare-form-submissions-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/alayacare/openapi/alayacare-form-submissions-api-openapi.yml
+- filename: alayacare-form-template-inbox-api-openapi.yml
+  format: yaml
+  label: AlayaCare form template inbox API
+  slug: alayacare-form-template-inbox-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/alayacare/openapi/alayacare-form-template-inbox-api-openapi.yml
+- filename: alayacare-forms-api-openapi.yml
+  format: yaml
+  label: AlayaCare Forms API
+  slug: alayacare-forms-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/alayacare/openapi/alayacare-forms-api-openapi.yml
+- filename: alayacare-funders-api-openapi.yml
+  format: yaml
+  label: AlayaCare Funders API
+  slug: alayacare-funders-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/alayacare/openapi/alayacare-funders-api-openapi.yml
+- filename: alayacare-goals-api-openapi.yml
+  format: yaml
+  label: AlayaCare Goals API
+  slug: alayacare-goals-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/alayacare/openapi/alayacare-goals-api-openapi.yml
+- filename: alayacare-groups-api-openapi.yml
+  format: yaml
+  label: AlayaCare Groups API
+  slug: alayacare-groups-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/alayacare/openapi/alayacare-groups-api-openapi.yml
+- filename: alayacare-interventions-api-openapi.yml
+  format: yaml
+  label: AlayaCare Interventions API
+  slug: alayacare-interventions-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/alayacare/openapi/alayacare-interventions-api-openapi.yml
+- filename: alayacare-invoice-items-api-openapi.yml
+  format: yaml
+  label: AlayaCare Invoice Items API
+  slug: alayacare-invoice-items-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/alayacare/openapi/alayacare-invoice-items-api-openapi.yml
+- filename: alayacare-invoices-api-openapi.yml
+  format: yaml
+  label: AlayaCare Invoices API
+  slug: alayacare-invoices-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/alayacare/openapi/alayacare-invoices-api-openapi.yml
+- filename: alayacare-latest-vitals-api-openapi.yml
+  format: yaml
+  label: AlayaCare Latest Vitals API
+  slug: alayacare-latest-vitals-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/alayacare/openapi/alayacare-latest-vitals-api-openapi.yml
+- filename: alayacare-medication-administration-api-openapi.yml
+  format: yaml
+  label: AlayaCare Medication Administration API
+  slug: alayacare-medication-administration-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/alayacare/openapi/alayacare-medication-administration-api-openapi.yml
+- filename: alayacare-medication-api-openapi.yml
+  format: yaml
+  label: AlayaCare Medication API
+  slug: alayacare-medication-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/alayacare/openapi/alayacare-medication-api-openapi.yml
+- filename: alayacare-medication-settings-api-openapi.yml
+  format: yaml
+  label: AlayaCare Medication settings API
+  slug: alayacare-medication-settings-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/alayacare/openapi/alayacare-medication-settings-api-openapi.yml
+- filename: alayacare-message-inbox-api-openapi.yml
+  format: yaml
+  label: AlayaCare message inbox API
+  slug: alayacare-message-inbox-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/alayacare/openapi/alayacare-message-inbox-api-openapi.yml
+- filename: alayacare-message-outbox-api-openapi.yml
+  format: yaml
+  label: AlayaCare message outbox API
+  slug: alayacare-message-outbox-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/alayacare/openapi/alayacare-message-outbox-api-openapi.yml
+- filename: alayacare-message-sys-admin-api-openapi.yml
+  format: yaml
+  label: AlayaCare message sys_admin API
+  slug: alayacare-message-sys-admin-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/alayacare/openapi/alayacare-message-sys-admin-api-openapi.yml
+- filename: alayacare-note-types-api-openapi.yml
+  format: yaml
+  label: AlayaCare Note Types API
+  slug: alayacare-note-types-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/alayacare/openapi/alayacare-note-types-api-openapi.yml
+- filename: alayacare-offer-inbox-api-openapi.yml
+  format: yaml
+  label: AlayaCare offer inbox API
+  slug: alayacare-offer-inbox-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/alayacare/openapi/alayacare-offer-inbox-api-openapi.yml
+- filename: alayacare-offer-outbox-api-openapi.yml
+  format: yaml
+  label: AlayaCare offer outbox API
+  slug: alayacare-offer-outbox-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/alayacare/openapi/alayacare-offer-outbox-api-openapi.yml
+- filename: alayacare-offer-outbox-bundle-api-openapi.yml
+  format: yaml
+  label: AlayaCare offer outbox bundle API
+  slug: alayacare-offer-outbox-bundle-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/alayacare/openapi/alayacare-offer-outbox-bundle-api-openapi.yml
+- filename: alayacare-offer-status-api-openapi.yml
+  format: yaml
+  label: AlayaCare offer status API
+  slug: alayacare-offer-status-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/alayacare/openapi/alayacare-offer-status-api-openapi.yml
+- filename: alayacare-offer-sys-admin-api-openapi.yml
+  format: yaml
+  label: AlayaCare offer sys_admin API
+  slug: alayacare-offer-sys-admin-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/alayacare/openapi/alayacare-offer-sys-admin-api-openapi.yml
+- filename: alayacare-organization-settings-api-openapi.yml
+  format: yaml
+  label: AlayaCare organization settings API
+  slug: alayacare-organization-settings-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/alayacare/openapi/alayacare-organization-settings-api-openapi.yml
+- filename: alayacare-organization-settings-sys-admin-api-openapi.yml
+  format: yaml
+  label: AlayaCare organization settings sys_admin API
+  slug: alayacare-organization-settings-sys-admin-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/alayacare/openapi/alayacare-organization-settings-sys-admin-api-openapi.yml
+- filename: alayacare-premium-bill-codes-api-openapi.yml
+  format: yaml
+  label: AlayaCare Premium Bill Codes API
+  slug: alayacare-premium-bill-codes-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/alayacare/openapi/alayacare-premium-bill-codes-api-openapi.yml
+- filename: alayacare-premiums-api-openapi.yml
+  format: yaml
+  label: AlayaCare Premiums API
+  slug: alayacare-premiums-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/alayacare/openapi/alayacare-premiums-api-openapi.yml
+- filename: alayacare-profile-api-openapi.yml
+  format: yaml
+  label: AlayaCare Profile API
+  slug: alayacare-profile-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/alayacare/openapi/alayacare-profile-api-openapi.yml
+- filename: alayacare-progress-notes-api-openapi.yml
+  format: yaml
+  label: AlayaCare Progress Notes API
+  slug: alayacare-progress-notes-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/alayacare/openapi/alayacare-progress-notes-api-openapi.yml
+- filename: alayacare-referral-inbox-api-openapi.yml
+  format: yaml
+  label: AlayaCare referral inbox API
+  slug: alayacare-referral-inbox-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/alayacare/openapi/alayacare-referral-inbox-api-openapi.yml
+- filename: alayacare-referral-outbox-api-openapi.yml
+  format: yaml
+  label: AlayaCare referral outbox API
+  slug: alayacare-referral-outbox-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/alayacare/openapi/alayacare-referral-outbox-api-openapi.yml
+- filename: alayacare-referral-sys-admin-api-openapi.yml
+  format: yaml
+  label: AlayaCare referral sys_admin API
+  slug: alayacare-referral-sys-admin-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/alayacare/openapi/alayacare-referral-sys-admin-api-openapi.yml
+- filename: alayacare-roles-api-openapi.yml
+  format: yaml
+  label: AlayaCare Roles API
+  slug: alayacare-roles-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/alayacare/openapi/alayacare-roles-api-openapi.yml
+- filename: alayacare-sequence-inbox-api-openapi.yml
+  format: yaml
+  label: AlayaCare sequence inbox API
+  slug: alayacare-sequence-inbox-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/alayacare/openapi/alayacare-sequence-inbox-api-openapi.yml
+- filename: alayacare-sequence-outbox-api-openapi.yml
+  format: yaml
+  label: AlayaCare sequence outbox API
+  slug: alayacare-sequence-outbox-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/alayacare/openapi/alayacare-sequence-outbox-api-openapi.yml
+- filename: alayacare-sequence-sys-admin-api-openapi.yml
+  format: yaml
+  label: AlayaCare sequence sys_admin API
+  slug: alayacare-sequence-sys-admin-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/alayacare/openapi/alayacare-sequence-sys-admin-api-openapi.yml
+- filename: alayacare-service-codes-api-openapi.yml
+  format: yaml
+  label: AlayaCare Service Codes API
+  slug: alayacare-service-codes-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/alayacare/openapi/alayacare-service-codes-api-openapi.yml
+- filename: alayacare-service-forms-api-openapi.yml
+  format: yaml
+  label: AlayaCare Service Forms API
+  slug: alayacare-service-forms-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/alayacare/openapi/alayacare-service-forms-api-openapi.yml
+- filename: alayacare-service-status-api-openapi.yml
+  format: yaml
+  label: AlayaCare Service Status API
+  slug: alayacare-service-status-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/alayacare/openapi/alayacare-service-status-api-openapi.yml
+- filename: alayacare-service-tags-api-openapi.yml
+  format: yaml
+  label: AlayaCare Service Tags API
+  slug: alayacare-service-tags-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/alayacare/openapi/alayacare-service-tags-api-openapi.yml
+- filename: alayacare-services-api-openapi.yml
+  format: yaml
+  label: AlayaCare Services API
+  slug: alayacare-services-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/alayacare/openapi/alayacare-services-api-openapi.yml
+- filename: alayacare-skill-categories-api-openapi.yml
+  format: yaml
+  label: AlayaCare Skill Categories API
+  slug: alayacare-skill-categories-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/alayacare/openapi/alayacare-skill-categories-api-openapi.yml
+- filename: alayacare-skills-api-openapi.yml
+  format: yaml
+  label: AlayaCare Skills API
+  slug: alayacare-skills-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/alayacare/openapi/alayacare-skills-api-openapi.yml
+- filename: alayacare-status-reasons-api-openapi.yml
+  format: yaml
+  label: AlayaCare Status Reasons API
+  slug: alayacare-status-reasons-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/alayacare/openapi/alayacare-status-reasons-api-openapi.yml
+- filename: alayacare-subtasks-api-openapi.yml
+  format: yaml
+  label: AlayaCare Subtasks API
+  slug: alayacare-subtasks-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/alayacare/openapi/alayacare-subtasks-api-openapi.yml
+- filename: alayacare-tags-api-openapi.yml
+  format: yaml
+  label: AlayaCare Tags API
+  slug: alayacare-tags-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/alayacare/openapi/alayacare-tags-api-openapi.yml
+- filename: alayacare-take-rates-api-openapi.yml
+  format: yaml
+  label: AlayaCare take rates API
+  slug: alayacare-take-rates-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/alayacare/openapi/alayacare-take-rates-api-openapi.yml
+- filename: alayacare-tasks-api-openapi.yml
+  format: yaml
+  label: AlayaCare Tasks API
+  slug: alayacare-tasks-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/alayacare/openapi/alayacare-tasks-api-openapi.yml
+- filename: alayacare-time-off-types-api-openapi.yml
+  format: yaml
+  label: AlayaCare Time Off Types API
+  slug: alayacare-time-off-types-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/alayacare/openapi/alayacare-time-off-types-api-openapi.yml
+- filename: alayacare-transactions-api-openapi.yml
+  format: yaml
+  label: AlayaCare Transactions API
+  slug: alayacare-transactions-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/alayacare/openapi/alayacare-transactions-api-openapi.yml
+- filename: alayacare-unavailabilities-api-openapi.yml
+  format: yaml
+  label: AlayaCare Unavailabilities API
+  slug: alayacare-unavailabilities-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/alayacare/openapi/alayacare-unavailabilities-api-openapi.yml
+- filename: alayacare-visit-accounting-api-openapi.yml
+  format: yaml
+  label: AlayaCare Visit accounting API
+  slug: alayacare-visit-accounting-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/alayacare/openapi/alayacare-visit-accounting-api-openapi.yml
+- filename: alayacare-visit-inbox-api-openapi.yml
+  format: yaml
+  label: AlayaCare visit inbox API
+  slug: alayacare-visit-inbox-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/alayacare/openapi/alayacare-visit-inbox-api-openapi.yml
+- filename: alayacare-visit-interventions-api-openapi.yml
+  format: yaml
+  label: AlayaCare Visit interventions API
+  slug: alayacare-visit-interventions-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/alayacare/openapi/alayacare-visit-interventions-api-openapi.yml
+- filename: alayacare-visit-notes-api-openapi.yml
+  format: yaml
+  label: AlayaCare Visit notes API
+  slug: alayacare-visit-notes-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/alayacare/openapi/alayacare-visit-notes-api-openapi.yml
+- filename: alayacare-visit-outbox-api-openapi.yml
+  format: yaml
+  label: AlayaCare visit outbox API
+  slug: alayacare-visit-outbox-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/alayacare/openapi/alayacare-visit-outbox-api-openapi.yml
+- filename: alayacare-visit-premiums-api-openapi.yml
+  format: yaml
+  label: AlayaCare Visit Premiums API
+  slug: alayacare-visit-premiums-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/alayacare/openapi/alayacare-visit-premiums-api-openapi.yml
+- filename: alayacare-visit-sys-admin-api-openapi.yml
+  format: yaml
+  label: AlayaCare visit sys_admin API
+  slug: alayacare-visit-sys-admin-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/alayacare/openapi/alayacare-visit-sys-admin-api-openapi.yml
+- filename: alayacare-visit-tags-api-openapi.yml
+  format: yaml
+  label: AlayaCare Visit tags API
+  slug: alayacare-visit-tags-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/alayacare/openapi/alayacare-visit-tags-api-openapi.yml
+- filename: alayacare-visit-verification-api-openapi.yml
+  format: yaml
+  label: AlayaCare Visit Verification API
+  slug: alayacare-visit-verification-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/alayacare/openapi/alayacare-visit-verification-api-openapi.yml
+- filename: alayacare-visits-api-openapi.yml
+  format: yaml
+  label: AlayaCare Visits API
+  slug: alayacare-visits-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/alayacare/openapi/alayacare-visits-api-openapi.yml
+- filename: alayacare-vital-metadata-api-openapi.yml
+  format: yaml
+  label: AlayaCare Vital Metadata API
+  slug: alayacare-vital-metadata-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/alayacare/openapi/alayacare-vital-metadata-api-openapi.yml
+- filename: alayacare-vitals-api-openapi.yml
+  format: yaml
+  label: AlayaCare Vitals API
+  slug: alayacare-vitals-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/alayacare/openapi/alayacare-vitals-api-openapi.yml
+- filename: alayacare-work-session-inbox-api-openapi.yml
+  format: yaml
+  label: AlayaCare work session inbox API
+  slug: alayacare-work-session-inbox-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/alayacare/openapi/alayacare-work-session-inbox-api-openapi.yml
+- filename: alayacare-work-session-outbox-api-openapi.yml
+  format: yaml
+  label: AlayaCare work session outbox API
+  slug: alayacare-work-session-outbox-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/alayacare/openapi/alayacare-work-session-outbox-api-openapi.yml
+claim_count: 4
+description: ''
+doc:
+  countries:
+    excluded: []
+    served: []
+    text: Governing law differs for United States and Canadian developers; no country list stated. Access restricted to countries that are parties to the Berne Convention.
+  minimum_age:
+    text: null
+    value: null
+  restricted_uses:
+  - summary: No submission of protected health information
+    text: Developer shall not submit or make available to AlayaCare any electronic health records or other information which would be considered “Protected Health Information”
+  - summary: No unlawful use
+    text: use any portion of the AlayaCare API or any Developer App for any unlawful or illegal activity
+  - summary: No third-party service bureau use
+    text: use any portion of the Materials to provide, or to assist in or further the provision of, any data processing, outsourcing, time sharing, or service bureau services
+  verification:
+    approval_required: null
+    kyb: null
+    kyc: null
+    text: null
+excluded_countries: []
+layer: eligibility
+layer_version: 0.1.0
+layout: eligibility
+method: harvested
+model: claude-haiku-5-5
+name: AlayaCare
+provenance_date: '2026-11-09'
+provider_name: AlayaCare
+provider_slug: alayacare
+slug: alayacare-eligibility
+source_date: '2026-11-09'
+source_filename: alayacare-eligibility.yml
+source_heading: Eligibility
+source_page: https://alayacare.com/wp-content/uploads/2022/12/AlayaCare-API-Developer-Access-Terms-.pdf
+source_url: ''
+source_yaml: "# Read from the provider's own page by engine/business/harvest-business.py. Every `text` is quoted verbatim from `url` (or the row's `source`); `unstated` means the page did not say.\neligibility: 0.1.0\nprovider: AlayaCare\naid: alayacare\nurl: https://alayacare.com/wp-content/uploads/2022/12/AlayaCare-API-Developer-Access-Terms-.pdf\nsource_date: '2026-11-09'\nx-apis-io-derivation:\n  synthetic: false\n  method: harvested\n  read: '2026-11-09'\n  tool: engine/business/harvest-business.py\n  model: claude-haiku-5-5\ncountries:\n  served: []\n  excluded: []\n  text: Governing law differs for United States and Canadian developers; no country list stated. Access restricted\n    to countries that are parties to the Berne Convention.\nentity_types: []\nrestricted_uses:\n- summary: No submission of protected health information\n  text: Developer shall not submit or make available to AlayaCare any electronic health records or other information\n    which would be considered “Protected\
+  \ Health Information”\n- summary: No unlawful use\n  text: use any portion of the AlayaCare API or any Developer App for any unlawful or illegal activity\n- summary: No third-party service bureau use\n  text: use any portion of the Materials to provide, or to assist in or further the provision of, any data processing,\n    outsourcing, time sharing, or service bureau services\nverification:\n  kyc: null\n  kyb: null\n  approval_required: null\n  text: null\nminimum_age:\n  value: null\n  text: null\n"
+source_yaml_url: https://artifacts.apis.io/alayacare/eligibility/alayacare-eligibility.yml
+stated_fields:
+- countries
+- restricted_uses
+summary_line: 4 quoted statements, read from AlayaCare's own page on 2026-11-09.
+synthetic: false
+tags:
+- Home Care
+- Community Care
+- Healthcare
+- Scheduling
+- Clinical
+- Billing
+- Client Management
+- Care Management
+- Aged Care
+- Workforce Management
+---

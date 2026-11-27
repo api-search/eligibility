@@ -53,6 +53,6 @@ tags:
 - Artificial Intelligence
 - AI Agents
 - MCP
-- Webhooks
+- Webhook
 - Communications
 ---

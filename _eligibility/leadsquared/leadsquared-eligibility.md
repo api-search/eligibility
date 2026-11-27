@@ -1,0 +1,68 @@
+---
+api_specs:
+- filename: postman.yaml
+  format: yaml
+  label: LeadSquared REST API
+  slug: rest-api
+  spec_type: Postman
+  url: https://apidocs.leadsquared.com/leadsquared-run-in-postman/
+- filename: leadsquared-activities-api-openapi.yml
+  format: yaml
+  label: LeadSquared Activities API
+  slug: leadsquared-activities-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/leadsquared/openapi/leadsquared-activities-api-openapi.yml
+- filename: leadsquared-leads-api-openapi.yml
+  format: yaml
+  label: LeadSquared Leads API
+  slug: leadsquared-leads-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/leadsquared/openapi/leadsquared-leads-api-openapi.yml
+claim_count: 1
+description: ''
+doc:
+  countries:
+    excluded: []
+    served: []
+    text: null
+  minimum_age:
+    text: null
+    value: null
+  restricted_uses:
+  - summary: Unlawful use or infringing material
+    text: use the Subscription Services for any purpose or in any manner that is unlawful under applicable laws
+  verification:
+    approval_required: null
+    kyb: null
+    kyc: null
+    text: null
+excluded_countries: []
+layer: eligibility
+layer_version: 0.1.0
+layout: eligibility
+method: harvested
+model: claude-haiku-5-5
+name: LeadSquared
+provenance_date: '2026-11-09'
+provider_name: LeadSquared
+provider_slug: leadsquared
+slug: leadsquared-eligibility
+source_date: '2026-11-09'
+source_filename: leadsquared-eligibility.yml
+source_heading: Eligibility
+source_page: https://www.leadsquared.com/leadsquared-terms-of-service/
+source_url: ''
+source_yaml: "# Read from the provider's own page by engine/business/harvest-business.py. Every `text` is quoted verbatim from `url` (or the row's `source`); `unstated` means the page did not say.\neligibility: 0.1.0\nprovider: LeadSquared\naid: leadsquared\nurl: https://www.leadsquared.com/leadsquared-terms-of-service/\nsource_date: '2026-11-09'\nx-apis-io-derivation:\n  synthetic: false\n  method: harvested\n  read: '2026-11-09'\n  tool: engine/business/harvest-business.py\n  model: claude-haiku-5-5\ncountries:\n  served: []\n  excluded: []\n  text: null\nentity_types: []\nrestricted_uses:\n- summary: Unlawful use or infringing material\n  text: use the Subscription Services for any purpose or in any manner that is unlawful under applicable laws\nverification:\n  kyc: null\n  kyb: null\n  approval_required: null\n  text: null\nminimum_age:\n  value: null\n  text: null\n"
+source_yaml_url: https://artifacts.apis.io/leadsquared/eligibility/leadsquared-eligibility.yml
+stated_fields:
+- restricted_uses
+summary_line: 1 quoted statement, read from LeadSquared's own page on 2026-11-09.
+synthetic: false
+tags:
+- Marketing Automation
+- CRM
+- Sales Automation
+- Lead Management
+- Customer Engagement
+- Field Force Automation
+---

@@ -191,7 +191,7 @@ tags:
 - Personal Knowledge Management
 - Memory
 - Semantic Search
-- AI Assistants
+- AI Assistant
 - MCP
 - Productivity
 - Storage

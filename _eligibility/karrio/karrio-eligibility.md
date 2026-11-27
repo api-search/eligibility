@@ -1,0 +1,155 @@
+---
+api_specs:
+- filename: karrio-addresses-api-openapi.yml
+  format: yaml
+  label: Karrio Addresses API
+  slug: karrio-addresses-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/karrio/openapi/karrio-addresses-api-openapi.yml
+- filename: karrio-auth-api-openapi.yml
+  format: yaml
+  label: Karrio Auth API
+  slug: karrio-auth-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/karrio/openapi/karrio-auth-api-openapi.yml
+- filename: karrio-batches-api-openapi.yml
+  format: yaml
+  label: Karrio Batches API
+  slug: karrio-batches-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/karrio/openapi/karrio-batches-api-openapi.yml
+- filename: karrio-carriers-api-openapi.yml
+  format: yaml
+  label: Karrio Carriers API
+  slug: karrio-carriers-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/karrio/openapi/karrio-carriers-api-openapi.yml
+- filename: karrio-connections-api-openapi.yml
+  format: yaml
+  label: Karrio Connections API
+  slug: karrio-connections-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/karrio/openapi/karrio-connections-api-openapi.yml
+- filename: karrio-documents-api-openapi.yml
+  format: yaml
+  label: Karrio Documents API
+  slug: karrio-documents-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/karrio/openapi/karrio-documents-api-openapi.yml
+- filename: karrio-manifests-api-openapi.yml
+  format: yaml
+  label: Karrio Manifests API
+  slug: karrio-manifests-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/karrio/openapi/karrio-manifests-api-openapi.yml
+- filename: karrio-orders-api-openapi.yml
+  format: yaml
+  label: Karrio Orders API
+  slug: karrio-orders-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/karrio/openapi/karrio-orders-api-openapi.yml
+- filename: karrio-parcels-api-openapi.yml
+  format: yaml
+  label: Karrio Parcels API
+  slug: karrio-parcels-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/karrio/openapi/karrio-parcels-api-openapi.yml
+- filename: karrio-pickups-api-openapi.yml
+  format: yaml
+  label: Karrio Pickups API
+  slug: karrio-pickups-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/karrio/openapi/karrio-pickups-api-openapi.yml
+- filename: karrio-proxy-api-openapi.yml
+  format: yaml
+  label: Karrio Proxy API
+  slug: karrio-proxy-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/karrio/openapi/karrio-proxy-api-openapi.yml
+- filename: karrio-shipments-api-openapi.yml
+  format: yaml
+  label: Karrio Shipments API
+  slug: karrio-shipments-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/karrio/openapi/karrio-shipments-api-openapi.yml
+- filename: karrio-trackers-api-openapi.yml
+  format: yaml
+  label: Karrio Trackers API
+  slug: karrio-trackers-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/karrio/openapi/karrio-trackers-api-openapi.yml
+- filename: karrio-webhooks-api-openapi.yml
+  format: yaml
+  label: Karrio Webhooks API
+  slug: karrio-webhooks-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/karrio/openapi/karrio-webhooks-api-openapi.yml
+- filename: karrio-karrio-api-api-openapi.yml
+  format: yaml
+  label: Karrio Karrio API
+  slug: karrio-karrio-api-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/karrio/openapi/karrio-karrio-api-api-openapi.yml
+- filename: karrio-references-api-openapi.yml
+  format: yaml
+  label: Karrio References API
+  slug: karrio-references-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/karrio/openapi/karrio-references-api-openapi.yml
+claim_count: 3
+description: ''
+doc:
+  countries:
+    excluded: []
+    served: []
+    text: null
+  minimum_age:
+    text: null
+    value: null
+  restricted_uses:
+  - summary: No PHI without BAA
+    text: Customer may not store or process protected health information (as defined in HIPAA) using the Services unless Customer signs a Business Associate Agreement with Karrio.
+  - summary: No payment cardholder data
+    text: Customer may not store any payment cardholder information using the Services without Karrio’s prior written approval.
+  - summary: Export restrictions
+    text: Customer shall not, directly or indirectly, export, re-export, or release the Services or the underlying software or technology to, or make the Services or the underlying software or technology accessible from, any jurisdiction or country to which export, re-export, or release is prohibited by law, rule, or regulation.
+  verification:
+    approval_required: null
+    kyb: null
+    kyc: null
+    text: null
+excluded_countries: []
+layer: eligibility
+layer_version: 0.1.0
+layout: eligibility
+method: harvested
+model: claude-haiku-5-5
+name: Karrio
+provenance_date: '2026-11-09'
+provider_name: Karrio
+provider_slug: karrio
+slug: karrio-eligibility
+source_date: '2026-11-09'
+source_filename: karrio-eligibility.yml
+source_heading: Eligibility
+source_page: https://www.karrio.io/terms-of-service
+source_url: ''
+source_yaml: "# Read from the provider's own page by engine/business/harvest-business.py. Every `text` is quoted verbatim from `url` (or the row's `source`); `unstated` means the page did not say.\neligibility: 0.1.0\nprovider: Karrio\naid: karrio\nurl: https://www.karrio.io/terms-of-service\nsource_date: '2026-11-09'\nx-apis-io-derivation:\n  synthetic: false\n  method: harvested\n  read: '2026-11-09'\n  tool: engine/business/harvest-business.py\n  model: claude-haiku-5-5\ncountries:\n  served: []\n  excluded: []\n  text: null\nentity_types: []\nrestricted_uses:\n- summary: No PHI without BAA\n  text: Customer may not store or process protected health information (as defined in HIPAA) using the Services\n    unless Customer signs a Business Associate Agreement with Karrio.\n- summary: No payment cardholder data\n  text: Customer may not store any payment cardholder information using the Services without Karrio’s prior written\n    approval.\n- summary: Export restrictions\n  text: Customer\
+  \ shall not, directly or indirectly, export, re-export, or release the Services or the underlying\n    software or technology to, or make the Services or the underlying software or technology accessible from, any\n    jurisdiction or country to which export, re-export, or release is prohibited by law, rule, or regulation.\nverification:\n  kyc: null\n  kyb: null\n  approval_required: null\n  text: null\nminimum_age:\n  value: null\n  text: null\n"
+source_yaml_url: https://artifacts.apis.io/karrio/eligibility/karrio-eligibility.yml
+stated_fields:
+- restricted_uses
+summary_line: 3 quoted statements, read from Karrio's own page on 2026-11-09.
+synthetic: false
+tags:
+- Shipping
+- Logistics
+- Label Generation
+- Package Tracking
+- Carrier
+- Fulfillment
+- Open Source
+- Multi-Carrier
+- Ratings
+- Webhook
+---

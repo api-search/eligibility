@@ -1,0 +1,88 @@
+---
+api_specs:
+- filename: machinesignal-it-health-api-openapi.yml
+  format: yaml
+  label: machinesignal-it Health API
+  slug: machinesignal-it-health-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/machinesignal-it/openapi/machinesignal-it-health-api-openapi.yml
+- filename: machinesignal-it-lead-opportunity-score-api-openapi.yml
+  format: yaml
+  label: machinesignal-it Lead Opportunity Score API
+  slug: machinesignal-it-lead-opportunity-score-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/machinesignal-it/openapi/machinesignal-it-lead-opportunity-score-api-openapi.yml
+- filename: machinesignal-it-order-intents-api-openapi.yml
+  format: yaml
+  label: machinesignal-it Order Intents API
+  slug: machinesignal-it-order-intents-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/machinesignal-it/openapi/machinesignal-it-order-intents-api-openapi.yml
+- filename: machinesignal-it-previews-api-openapi.yml
+  format: yaml
+  label: machinesignal-it Previews API
+  slug: machinesignal-it-previews-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/machinesignal-it/openapi/machinesignal-it-previews-api-openapi.yml
+- filename: machinesignal-it-usage-api-openapi.yml
+  format: yaml
+  label: machinesignal-it Usage API
+  slug: machinesignal-it-usage-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/machinesignal-it/openapi/machinesignal-it-usage-api-openapi.yml
+claim_count: 4
+description: ''
+doc:
+  countries:
+    excluded: []
+    served:
+    - IT
+    text: Services are intended exclusively for businesses and professionals with Italian billing details. B2C, EU B2B outside Italy and extra-EU B2B purchases are not enabled.
+  entity_types:
+  - text: The customer must be a business or professional eligible for the B2B Italy scope and must provide accurate business and billing details.
+    type: business
+  minimum_age:
+    text: null
+    value: null
+  restricted_uses:
+  - summary: No sole basis for automated decisions
+    text: Outputs must not be the sole basis for automated decisions producing legal or similarly significant effects on natural persons.
+  - summary: No special-category or minors data
+    text: Customers must not send special-category data, health data, criminal-offence data, data about minors, passwords, tokens, secrets or full payment-card data.
+  verification:
+    approval_required: null
+    kyb: null
+    kyc: null
+    text: null
+excluded_countries: []
+layer: eligibility
+layer_version: 0.1.0
+layout: eligibility
+method: harvested
+model: claude-haiku-5-5
+name: machinesignal-it
+provenance_date: '2026-11-10'
+provider_name: machinesignal-it
+provider_slug: machinesignal-it
+slug: machinesignal-it-eligibility
+source_date: '2026-11-10'
+source_filename: machinesignal-it-eligibility.yml
+source_heading: Eligibility
+source_page: https://machinesignal.it/terms.html
+source_url: ''
+source_yaml: "# Read from the provider's own page by engine/business/harvest-business.py. Every `text` is quoted verbatim from `url` (or the row's `source`); `unstated` means the page did not say.\neligibility: 0.1.0\nprovider: machinesignal-it\naid: machinesignal-it\nurl: https://machinesignal.it/terms.html\nsource_date: '2026-11-10'\nx-apis-io-derivation:\n  synthetic: false\n  method: harvested\n  read: '2026-11-10'\n  tool: engine/business/harvest-business.py\n  model: claude-haiku-5-5\ncountries:\n  served:\n  - IT\n  excluded: []\n  text: Services are intended exclusively for businesses and professionals with Italian billing details. B2C, EU\n    B2B outside Italy and extra-EU B2B purchases are not enabled.\nentity_types:\n- type: business\n  text: The customer must be a business or professional eligible for the B2B Italy scope and must provide accurate\n    business and billing details.\nrestricted_uses:\n- summary: No sole basis for automated decisions\n  text: Outputs must not be\
+  \ the sole basis for automated decisions producing legal or similarly significant effects\n    on natural persons.\n- summary: No special-category or minors data\n  text: Customers must not send special-category data, health data, criminal-offence data, data about minors, passwords,\n    tokens, secrets or full payment-card data.\nverification:\n  kyc: null\n  kyb: null\n  approval_required: null\n  text: null\nminimum_age:\n  value: null\n  text: null\n"
+source_yaml_url: https://artifacts.apis.io/machinesignal-it/eligibility/machinesignal-it-eligibility.yml
+stated_fields:
+- countries
+- entity_types
+- restricted_uses
+summary_line: 4 quoted statements, read from machinesignal-it's own page on 2026-11-10.
+synthetic: false
+tags:
+- Company
+- B2B
+- Automation
+- Data
+- Italy
+---

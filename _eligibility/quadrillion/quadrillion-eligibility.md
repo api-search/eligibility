@@ -1,0 +1,367 @@
+---
+api_specs:
+- filename: quadrillion-account-api-openapi.yml
+  format: yaml
+  label: Quadrillion Account API
+  slug: quadrillion-account-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/quadrillion/openapi/quadrillion-account-api-openapi.yml
+- filename: quadrillion-admin-api-openapi.yml
+  format: yaml
+  label: Quadrillion Admin API
+  slug: quadrillion-admin-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/quadrillion/openapi/quadrillion-admin-api-openapi.yml
+- filename: quadrillion-api-keys-api-openapi.yml
+  format: yaml
+  label: Quadrillion API Keys API
+  slug: quadrillion-api-keys-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/quadrillion/openapi/quadrillion-api-keys-api-openapi.yml
+- filename: quadrillion-auth-api-openapi.yml
+  format: yaml
+  label: Quadrillion Auth API
+  slug: quadrillion-auth-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/quadrillion/openapi/quadrillion-auth-api-openapi.yml
+- filename: quadrillion-autocomplete-api-openapi.yml
+  format: yaml
+  label: Quadrillion Autocomplete API
+  slug: quadrillion-autocomplete-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/quadrillion/openapi/quadrillion-autocomplete-api-openapi.yml
+- filename: quadrillion-blobs-api-openapi.yml
+  format: yaml
+  label: Quadrillion Blobs API
+  slug: quadrillion-blobs-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/quadrillion/openapi/quadrillion-blobs-api-openapi.yml
+- filename: quadrillion-cerebras-api-openapi.yml
+  format: yaml
+  label: Quadrillion Cerebras API
+  slug: quadrillion-cerebras-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/quadrillion/openapi/quadrillion-cerebras-api-openapi.yml
+- filename: quadrillion-ckg-api-openapi.yml
+  format: yaml
+  label: Quadrillion Ckg API
+  slug: quadrillion-ckg-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/quadrillion/openapi/quadrillion-ckg-api-openapi.yml
+- filename: quadrillion-compute-api-openapi.yml
+  format: yaml
+  label: Quadrillion Compute API
+  slug: quadrillion-compute-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/quadrillion/openapi/quadrillion-compute-api-openapi.yml
+- filename: quadrillion-credentials-api-openapi.yml
+  format: yaml
+  label: Quadrillion Credentials API
+  slug: quadrillion-credentials-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/quadrillion/openapi/quadrillion-credentials-api-openapi.yml
+- filename: quadrillion-execution-api-openapi.yml
+  format: yaml
+  label: Quadrillion Execution API
+  slug: quadrillion-execution-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/quadrillion/openapi/quadrillion-execution-api-openapi.yml
+- filename: quadrillion-files-api-openapi.yml
+  format: yaml
+  label: Quadrillion Files API
+  slug: quadrillion-files-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/quadrillion/openapi/quadrillion-files-api-openapi.yml
+- filename: quadrillion-filesystems-api-openapi.yml
+  format: yaml
+  label: Quadrillion Filesystems API
+  slug: quadrillion-filesystems-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/quadrillion/openapi/quadrillion-filesystems-api-openapi.yml
+- filename: quadrillion-fireworks-api-openapi.yml
+  format: yaml
+  label: Quadrillion Fireworks API
+  slug: quadrillion-fireworks-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/quadrillion/openapi/quadrillion-fireworks-api-openapi.yml
+- filename: quadrillion-health-api-openapi.yml
+  format: yaml
+  label: Quadrillion Health API
+  slug: quadrillion-health-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/quadrillion/openapi/quadrillion-health-api-openapi.yml
+- filename: quadrillion-integration-relay-api-openapi.yml
+  format: yaml
+  label: Quadrillion Integration Relay API
+  slug: quadrillion-integration-relay-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/quadrillion/openapi/quadrillion-integration-relay-api-openapi.yml
+- filename: quadrillion-kernel-api-openapi.yml
+  format: yaml
+  label: Quadrillion Kernel API
+  slug: quadrillion-kernel-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/quadrillion/openapi/quadrillion-kernel-api-openapi.yml
+- filename: quadrillion-latency-distribution-api-openapi.yml
+  format: yaml
+  label: Quadrillion Latency Distribution API
+  slug: quadrillion-latency-distribution-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/quadrillion/openapi/quadrillion-latency-distribution-api-openapi.yml
+- filename: quadrillion-linear-api-openapi.yml
+  format: yaml
+  label: Quadrillion Linear API
+  slug: quadrillion-linear-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/quadrillion/openapi/quadrillion-linear-api-openapi.yml
+- filename: quadrillion-messages-api-openapi.yml
+  format: yaml
+  label: Quadrillion Messages API
+  slug: quadrillion-messages-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/quadrillion/openapi/quadrillion-messages-api-openapi.yml
+- filename: quadrillion-modal-files-api-openapi.yml
+  format: yaml
+  label: Quadrillion Modal Files API
+  slug: quadrillion-modal-files-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/quadrillion/openapi/quadrillion-modal-files-api-openapi.yml
+- filename: quadrillion-modal-filewatcher-api-openapi.yml
+  format: yaml
+  label: Quadrillion Modal Filewatcher API
+  slug: quadrillion-modal-filewatcher-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/quadrillion/openapi/quadrillion-modal-filewatcher-api-openapi.yml
+- filename: quadrillion-modal-terminal-api-openapi.yml
+  format: yaml
+  label: Quadrillion Modal Terminal API
+  slug: quadrillion-modal-terminal-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/quadrillion/openapi/quadrillion-modal-terminal-api-openapi.yml
+- filename: quadrillion-notebook-api-openapi.yml
+  format: yaml
+  label: Quadrillion Notebook API
+  slug: quadrillion-notebook-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/quadrillion/openapi/quadrillion-notebook-api-openapi.yml
+- filename: quadrillion-onboarding-api-openapi.yml
+  format: yaml
+  label: Quadrillion Onboarding API
+  slug: quadrillion-onboarding-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/quadrillion/openapi/quadrillion-onboarding-api-openapi.yml
+- filename: quadrillion-org-api-openapi.yml
+  format: yaml
+  label: Quadrillion Org API
+  slug: quadrillion-org-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/quadrillion/openapi/quadrillion-org-api-openapi.yml
+- filename: quadrillion-project-api-openapi.yml
+  format: yaml
+  label: Quadrillion Project API
+  slug: quadrillion-project-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/quadrillion/openapi/quadrillion-project-api-openapi.yml
+- filename: quadrillion-quadrillion-cloud-api-api-openapi.yml
+  format: yaml
+  label: Quadrillion Cloud API
+  slug: quadrillion-quadrillion-cloud-api-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/quadrillion/openapi/quadrillion-quadrillion-cloud-api-api-openapi.yml
+- filename: quadrillion-releases-api-openapi.yml
+  format: yaml
+  label: Quadrillion Releases API
+  slug: quadrillion-releases-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/quadrillion/openapi/quadrillion-releases-api-openapi.yml
+- filename: quadrillion-responses-api-openapi.yml
+  format: yaml
+  label: Quadrillion Responses API
+  slug: quadrillion-responses-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/quadrillion/openapi/quadrillion-responses-api-openapi.yml
+- filename: quadrillion-rules-api-openapi.yml
+  format: yaml
+  label: Quadrillion Rules API
+  slug: quadrillion-rules-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/quadrillion/openapi/quadrillion-rules-api-openapi.yml
+- filename: quadrillion-runtime-mutations-api-openapi.yml
+  format: yaml
+  label: Quadrillion Runtime Mutations API
+  slug: quadrillion-runtime-mutations-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/quadrillion/openapi/quadrillion-runtime-mutations-api-openapi.yml
+- filename: quadrillion-runtime-session-api-openapi.yml
+  format: yaml
+  label: Quadrillion Runtime Session API
+  slug: quadrillion-runtime-session-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/quadrillion/openapi/quadrillion-runtime-session-api-openapi.yml
+- filename: quadrillion-settings-api-openapi.yml
+  format: yaml
+  label: Quadrillion Settings API
+  slug: quadrillion-settings-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/quadrillion/openapi/quadrillion-settings-api-openapi.yml
+- filename: quadrillion-slack-api-openapi.yml
+  format: yaml
+  label: Quadrillion Slack API
+  slug: quadrillion-slack-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/quadrillion/openapi/quadrillion-slack-api-openapi.yml
+- filename: quadrillion-slack-webhooks-api-openapi.yml
+  format: yaml
+  label: Quadrillion Slack Webhooks API
+  slug: quadrillion-slack-webhooks-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/quadrillion/openapi/quadrillion-slack-webhooks-api-openapi.yml
+- filename: quadrillion-store-api-openapi.yml
+  format: yaml
+  label: Quadrillion Store API
+  slug: quadrillion-store-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/quadrillion/openapi/quadrillion-store-api-openapi.yml
+- filename: quadrillion-stripe-api-openapi.yml
+  format: yaml
+  label: Quadrillion Stripe API
+  slug: quadrillion-stripe-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/quadrillion/openapi/quadrillion-stripe-api-openapi.yml
+- filename: quadrillion-tags-api-openapi.yml
+  format: yaml
+  label: Quadrillion Tags API
+  slug: quadrillion-tags-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/quadrillion/openapi/quadrillion-tags-api-openapi.yml
+- filename: quadrillion-task-dag-mutations-api-openapi.yml
+  format: yaml
+  label: Quadrillion Task Dag Mutations API
+  slug: quadrillion-task-dag-mutations-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/quadrillion/openapi/quadrillion-task-dag-mutations-api-openapi.yml
+- filename: quadrillion-task-dag-reads-api-openapi.yml
+  format: yaml
+  label: Quadrillion Task Dag Reads API
+  slug: quadrillion-task-dag-reads-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/quadrillion/openapi/quadrillion-task-dag-reads-api-openapi.yml
+- filename: quadrillion-terminal-api-openapi.yml
+  format: yaml
+  label: Quadrillion Terminal API
+  slug: quadrillion-terminal-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/quadrillion/openapi/quadrillion-terminal-api-openapi.yml
+- filename: quadrillion-token-usage-api-openapi.yml
+  format: yaml
+  label: Quadrillion Token Usage API
+  slug: quadrillion-token-usage-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/quadrillion/openapi/quadrillion-token-usage-api-openapi.yml
+- filename: quadrillion-tool-results-api-openapi.yml
+  format: yaml
+  label: Quadrillion Tool Results API
+  slug: quadrillion-tool-results-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/quadrillion/openapi/quadrillion-tool-results-api-openapi.yml
+- filename: quadrillion-user-api-openapi.yml
+  format: yaml
+  label: Quadrillion User API
+  slug: quadrillion-user-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/quadrillion/openapi/quadrillion-user-api-openapi.yml
+- filename: quadrillion-v1beta-api-openapi.yml
+  format: yaml
+  label: Quadrillion V1beta API
+  slug: quadrillion-v1beta-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/quadrillion/openapi/quadrillion-v1beta-api-openapi.yml
+- filename: quadrillion-workos-api-openapi.yml
+  format: yaml
+  label: Quadrillion Workos API
+  slug: quadrillion-workos-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/quadrillion/openapi/quadrillion-workos-api-openapi.yml
+- filename: quadrillion-workspace-credentials-api-openapi.yml
+  format: yaml
+  label: Quadrillion Workspace Credentials API
+  slug: quadrillion-workspace-credentials-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/quadrillion/openapi/quadrillion-workspace-credentials-api-openapi.yml
+- filename: quadrillion-writeup-api-openapi.yml
+  format: yaml
+  label: Quadrillion Writeup API
+  slug: quadrillion-writeup-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/quadrillion/openapi/quadrillion-writeup-api-openapi.yml
+- filename: quadrillion-you-api-openapi.yml
+  format: yaml
+  label: Quadrillion You API
+  slug: quadrillion-you-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/quadrillion/openapi/quadrillion-you-api-openapi.yml
+- filename: quadrillion-open-router-api-openapi.yml
+  format: yaml
+  label: Quadrillion Open Router API
+  slug: quadrillion-open-router-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/quadrillion/openapi/quadrillion-open-router-api-openapi.yml
+claim_count: 4
+description: ''
+doc:
+  countries:
+    excluded: []
+    served: []
+    text: null
+  entity_types:
+  - text: The Service is intended for users who are at least 18 years of age.
+    type: individual
+  - text: If you are using the Service on behalf of an organization, you represent and warrant that you have the authority to bind that organization to these Terms
+    type: business
+  minimum_age:
+    text: The Service is intended for users who are at least 18 years of age.
+    value: '18'
+  restricted_uses:
+  - summary: Fraudulent or illegal activity
+    text: Use the Service to engage in any fraudulent, abusive, or otherwise illegal activity;
+  verification:
+    approval_required: null
+    kyb: null
+    kyc: null
+    text: null
+excluded_countries: []
+layer: eligibility
+layer_version: 0.1.0
+layout: eligibility
+method: harvested
+model: claude-haiku-5-5
+name: Quadrillion
+provenance_date: '2026-11-10'
+provider_name: Quadrillion
+provider_slug: quadrillion
+slug: quadrillion-eligibility
+source_date: '2026-11-10'
+source_filename: quadrillion-eligibility.yml
+source_heading: Eligibility
+source_page: https://quadrillion.ai/terms
+source_url: ''
+source_yaml: "# Read from the provider's own page by engine/business/harvest-business.py. Every `text` is quoted verbatim from `url` (or the row's `source`); `unstated` means the page did not say.\neligibility: 0.1.0\nprovider: Quadrillion\naid: quadrillion\nurl: https://quadrillion.ai/terms\nsource_date: '2026-11-10'\nx-apis-io-derivation:\n  synthetic: false\n  method: harvested\n  read: '2026-11-10'\n  tool: engine/business/harvest-business.py\n  model: claude-haiku-5-5\ncountries:\n  served: []\n  excluded: []\n  text: null\nentity_types:\n- type: individual\n  text: The Service is intended for users who are at least 18 years of age.\n- type: business\n  text: If you are using the Service on behalf of an organization, you represent and warrant that you have the authority\n    to bind that organization to these Terms\nrestricted_uses:\n- summary: Fraudulent or illegal activity\n  text: Use the Service to engage in any fraudulent, abusive, or otherwise illegal activity;\nverification:\n\
+  \  kyc: null\n  kyb: null\n  approval_required: null\n  text: null\nminimum_age:\n  value: '18'\n  text: The Service is intended for users who are at least 18 years of age.\n"
+source_yaml_url: https://artifacts.apis.io/quadrillion/eligibility/quadrillion-eligibility.yml
+stated_fields:
+- entity_types
+- restricted_uses
+- minimum_age
+summary_line: 4 quoted statements, read from Quadrillion's own page on 2026-11-10.
+synthetic: false
+tags:
+- Company
+- Artificial Intelligence
+- AI Agents
+- Research
+- Data Science
+- Notebooks
+- LLM
+- Developer Tools
+- Machine Learning
+---

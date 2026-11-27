@@ -51,5 +51,5 @@ tags:
 - Product Teardown
 - Artificial Intelligence
 - MCP
-- SaaS
+- Software-as-a-Service
 ---

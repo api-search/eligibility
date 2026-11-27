@@ -46,7 +46,7 @@ tags:
 - Company
 - Cocktails
 - Recipes
-- Food and Drink
+- Food and Beverage
 - MCP
 - AI Agents
 - Open Data

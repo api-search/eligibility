@@ -229,7 +229,7 @@ tags:
 - Company
 - WhatsApp
 - Messaging
-- Model Context Protocol
+- MCP
 - AI Agents
 - Connectors
 - OAuth

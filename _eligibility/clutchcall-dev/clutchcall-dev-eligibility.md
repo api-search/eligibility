@@ -51,12 +51,12 @@ synthetic: false
 tags:
 - Company
 - Voice AI
-- Real-Time Communications
+- Real-Time Communication
 - QUIC
 - Telephony
 - SIP
 - Live Streaming
 - Robotics
-- AI Inference
+- Inference
 - WebTransport
 ---

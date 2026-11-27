@@ -51,9 +51,9 @@ tags:
 - Company
 - Artificial Intelligence
 - MCP
-- AI Apps
+- Ai Apps
 - Governance
-- Low Code
+- Low-Code
 - Internal Tools
 - Agents
 ---

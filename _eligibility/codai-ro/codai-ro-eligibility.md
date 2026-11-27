@@ -265,7 +265,7 @@ tags:
 - Code Generation
 - Developer Tools
 - LLM Gateway
-- OpenAI Compatible
+- OpenAI-Compatible
 - Model Routing
 - Romania
 ---

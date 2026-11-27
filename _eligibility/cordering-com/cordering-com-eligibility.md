@@ -45,11 +45,11 @@ synthetic: false
 tags:
 - Company
 - Food Ordering
-- Restaurants
+- Restaurant
 - Catering
 - Corporate Meals
 - Food Delivery
-- Mobile Apps
+- Mobile App
 - MCP
 - Serbia
 ---

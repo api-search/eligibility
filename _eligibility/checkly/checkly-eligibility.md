@@ -1,0 +1,305 @@
+---
+api_specs:
+- filename: checkly-accounts-api-openapi.yml
+  format: yaml
+  label: Checkly Accounts API
+  slug: checkly-accounts-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/checkly/openapi/checkly-accounts-api-openapi.yml
+- filename: checkly-alert-channels-api-openapi.yml
+  format: yaml
+  label: Checkly Alert Channels API
+  slug: checkly-alert-channels-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/checkly/openapi/checkly-alert-channels-api-openapi.yml
+- filename: checkly-analytics-api-openapi.yml
+  format: yaml
+  label: Checkly Analytics API
+  slug: checkly-analytics-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/checkly/openapi/checkly-analytics-api-openapi.yml
+- filename: checkly-check-alerts-api-openapi.yml
+  format: yaml
+  label: Checkly Check Alerts API
+  slug: checkly-check-alerts-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/checkly/openapi/checkly-check-alerts-api-openapi.yml
+- filename: checkly-check-groups-api-openapi.yml
+  format: yaml
+  label: Checkly Check Groups API
+  slug: checkly-check-groups-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/checkly/openapi/checkly-check-groups-api-openapi.yml
+- filename: checkly-check-results-api-openapi.yml
+  format: yaml
+  label: Checkly Check Results API
+  slug: checkly-check-results-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/checkly/openapi/checkly-check-results-api-openapi.yml
+- filename: checkly-checks-api-openapi.yml
+  format: yaml
+  label: Checkly Checks API
+  slug: checkly-checks-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/checkly/openapi/checkly-checks-api-openapi.yml
+- filename: checkly-dashboards-api-openapi.yml
+  format: yaml
+  label: Checkly Dashboards API
+  slug: checkly-dashboards-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/checkly/openapi/checkly-dashboards-api-openapi.yml
+- filename: checkly-heartbeats-api-openapi.yml
+  format: yaml
+  label: Checkly Heartbeats API
+  slug: checkly-heartbeats-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/checkly/openapi/checkly-heartbeats-api-openapi.yml
+- filename: checkly-incidents-api-openapi.yml
+  format: yaml
+  label: Checkly Incidents API
+  slug: checkly-incidents-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/checkly/openapi/checkly-incidents-api-openapi.yml
+- filename: checkly-maintenance-windows-api-openapi.yml
+  format: yaml
+  label: Checkly Maintenance Windows API
+  slug: checkly-maintenance-windows-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/checkly/openapi/checkly-maintenance-windows-api-openapi.yml
+- filename: checkly-private-locations-api-openapi.yml
+  format: yaml
+  label: Checkly Private Locations API
+  slug: checkly-private-locations-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/checkly/openapi/checkly-private-locations-api-openapi.yml
+- filename: checkly-alert-notifications-api-openapi.yml
+  format: yaml
+  label: Checkly Alert notifications API
+  slug: checkly-alert-notifications-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/checkly/openapi/checkly-alert-notifications-api-openapi.yml
+- filename: checkly-badges-api-openapi.yml
+  format: yaml
+  label: Checkly Badges API
+  slug: checkly-badges-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/checkly/openapi/checkly-badges-api-openapi.yml
+- filename: checkly-check-sessions-api-openapi.yml
+  format: yaml
+  label: Checkly Check sessions API
+  slug: checkly-check-sessions-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/checkly/openapi/checkly-check-sessions-api-openapi.yml
+- filename: checkly-check-status-api-openapi.yml
+  format: yaml
+  label: Checkly Check status API
+  slug: checkly-check-status-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/checkly/openapi/checkly-check-status-api-openapi.yml
+- filename: checkly-deployment-triggers-api-openapi.yml
+  format: yaml
+  label: Checkly Deployment Triggers API
+  slug: checkly-deployment-triggers-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/checkly/openapi/checkly-deployment-triggers-api-openapi.yml
+- filename: checkly-environment-variables-api-openapi.yml
+  format: yaml
+  label: Checkly Environment variables API
+  slug: checkly-environment-variables-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/checkly/openapi/checkly-environment-variables-api-openapi.yml
+- filename: checkly-error-groups-api-openapi.yml
+  format: yaml
+  label: Checkly Error Groups API
+  slug: checkly-error-groups-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/checkly/openapi/checkly-error-groups-api-openapi.yml
+- filename: checkly-incident-updates-api-openapi.yml
+  format: yaml
+  label: Checkly Incident Updates API
+  slug: checkly-incident-updates-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/checkly/openapi/checkly-incident-updates-api-openapi.yml
+- filename: checkly-location-api-openapi.yml
+  format: yaml
+  label: Checkly Location API
+  slug: checkly-location-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/checkly/openapi/checkly-location-api-openapi.yml
+- filename: checkly-monitors-api-openapi.yml
+  format: yaml
+  label: Checkly Monitors API
+  slug: checkly-monitors-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/checkly/openapi/checkly-monitors-api-openapi.yml
+- filename: checkly-reporting-api-openapi.yml
+  format: yaml
+  label: Checkly Reporting API
+  slug: checkly-reporting-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/checkly/openapi/checkly-reporting-api-openapi.yml
+- filename: checkly-rocky-ai-api-openapi.yml
+  format: yaml
+  label: Checkly Rocky AI API
+  slug: checkly-rocky-ai-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/checkly/openapi/checkly-rocky-ai-api-openapi.yml
+- filename: checkly-runtimes-api-openapi.yml
+  format: yaml
+  label: Checkly Runtimes API
+  slug: checkly-runtimes-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/checkly/openapi/checkly-runtimes-api-openapi.yml
+- filename: checkly-secret-scans-api-openapi.yml
+  format: yaml
+  label: Checkly Secret scans API
+  slug: checkly-secret-scans-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/checkly/openapi/checkly-secret-scans-api-openapi.yml
+- filename: checkly-snippets-api-openapi.yml
+  format: yaml
+  label: Checkly Snippets API
+  slug: checkly-snippets-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/checkly/openapi/checkly-snippets-api-openapi.yml
+- filename: checkly-static-ips-api-openapi.yml
+  format: yaml
+  label: Checkly Static IPs API
+  slug: checkly-static-ips-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/checkly/openapi/checkly-static-ips-api-openapi.yml
+- filename: checkly-status-page-incidents-api-openapi.yml
+  format: yaml
+  label: Checkly Status Page Incidents API
+  slug: checkly-status-page-incidents-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/checkly/openapi/checkly-status-page-incidents-api-openapi.yml
+- filename: checkly-status-page-services-api-openapi.yml
+  format: yaml
+  label: Checkly Status Page Services API
+  slug: checkly-status-page-services-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/checkly/openapi/checkly-status-page-services-api-openapi.yml
+- filename: checkly-status-pages-api-openapi.yml
+  format: yaml
+  label: Checkly Status Pages API
+  slug: checkly-status-pages-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/checkly/openapi/checkly-status-pages-api-openapi.yml
+- filename: checkly-status-pages-v3-api-openapi.yml
+  format: yaml
+  label: Checkly Status Pages V3 API
+  slug: checkly-status-pages-v3-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/checkly/openapi/checkly-status-pages-v3-api-openapi.yml
+- filename: checkly-status-pages-v3-automation-rules-api-openapi.yml
+  format: yaml
+  label: Checkly Status Pages V3 Automation Rules API
+  slug: checkly-status-pages-v3-automation-rules-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/checkly/openapi/checkly-status-pages-v3-automation-rules-api-openapi.yml
+- filename: checkly-status-pages-v3-components-api-openapi.yml
+  format: yaml
+  label: Checkly Status Pages V3 Components API
+  slug: checkly-status-pages-v3-components-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/checkly/openapi/checkly-status-pages-v3-components-api-openapi.yml
+- filename: checkly-status-pages-v3-incidents-api-openapi.yml
+  format: yaml
+  label: Checkly Status Pages V3 Incidents API
+  slug: checkly-status-pages-v3-incidents-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/checkly/openapi/checkly-status-pages-v3-incidents-api-openapi.yml
+- filename: checkly-status-pages-v3-subscribers-api-openapi.yml
+  format: yaml
+  label: Checkly Status Pages V3 Subscribers API
+  slug: checkly-status-pages-v3-subscribers-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/checkly/openapi/checkly-status-pages-v3-subscribers-api-openapi.yml
+- filename: checkly-subscriptions-api-openapi.yml
+  format: yaml
+  label: Checkly Subscriptions API
+  slug: checkly-subscriptions-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/checkly/openapi/checkly-subscriptions-api-openapi.yml
+- filename: checkly-test-session-error-groups-api-openapi.yml
+  format: yaml
+  label: Checkly Test Session Error Groups API
+  slug: checkly-test-session-error-groups-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/checkly/openapi/checkly-test-session-error-groups-api-openapi.yml
+- filename: checkly-test-sessions-api-openapi.yml
+  format: yaml
+  label: Checkly Test sessions API
+  slug: checkly-test-sessions-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/checkly/openapi/checkly-test-sessions-api-openapi.yml
+- filename: checkly-triggers-api-openapi.yml
+  format: yaml
+  label: Checkly Triggers API
+  slug: checkly-triggers-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/checkly/openapi/checkly-triggers-api-openapi.yml
+- filename: checkly-clientcertificates-api-openapi.yml
+  format: yaml
+  label: Checkly Clientcertificates API
+  slug: checkly-clientcertificates-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/checkly/openapi/checkly-clientcertificates-api-openapi.yml
+claim_count: 2
+description: ''
+doc:
+  countries:
+    excluded: []
+    served: []
+    text: null
+  entity_types:
+  - text: If you are entering into these Terms on behalf of a company or other legal entity, you represent that you have the authority to bind such entity to these Terms.
+    type: business
+  minimum_age:
+    text: null
+    value: null
+  restricted_uses:
+  - summary: No sensitive personal data
+    text: send, store or process in the Service any personal health data, credit card data, personal financial data or other such sensitive or personal data
+  verification:
+    approval_required: null
+    kyb: null
+    kyc: null
+    text: null
+excluded_countries: []
+layer: eligibility
+layer_version: 0.1.0
+layout: eligibility
+method: harvested
+model: claude-haiku-5-5
+name: Checkly
+provenance_date: '2026-11-09'
+provider_name: Checkly
+provider_slug: checkly
+slug: checkly-eligibility
+source_date: '2026-11-09'
+source_filename: checkly-eligibility.yml
+source_heading: Eligibility
+source_page: https://www.checklyhq.com/terms/
+source_url: ''
+source_yaml: "# Read from the provider's own page by engine/business/harvest-business.py. Every `text` is quoted verbatim from `url` (or the row's `source`); `unstated` means the page did not say.\neligibility: 0.1.0\nprovider: Checkly\naid: checkly\nurl: https://www.checklyhq.com/terms/\nsource_date: '2026-11-09'\nx-apis-io-derivation:\n  synthetic: false\n  method: harvested\n  read: '2026-11-09'\n  tool: engine/business/harvest-business.py\n  model: claude-haiku-5-5\ncountries:\n  served: []\n  excluded: []\n  text: null\nentity_types:\n- type: business\n  text: If you are entering into these Terms on behalf of a company or other legal entity, you represent that you\n    have the authority to bind such entity to these Terms.\nrestricted_uses:\n- summary: No sensitive personal data\n  text: send, store or process in the Service any personal health data, credit card data, personal financial data\n    or other such sensitive or personal data\nverification:\n  kyc: null\n  kyb: null\n  approval_required:\
+  \ null\n  text: null\nminimum_age:\n  value: null\n  text: null\n"
+source_yaml_url: https://artifacts.apis.io/checkly/eligibility/checkly-eligibility.yml
+stated_fields:
+- entity_types
+- restricted_uses
+summary_line: 2 quoted statements, read from Checkly's own page on 2026-11-09.
+synthetic: false
+tags:
+- Monitoring
+- Testing
+- Synthetic Monitoring
+- Observability
+- Uptime
+- Alerting
+- Status Pages
+- Monitoring as Code
+- Playwright
+- DevOps
+---

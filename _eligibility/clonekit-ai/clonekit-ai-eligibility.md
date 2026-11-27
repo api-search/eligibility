@@ -53,7 +53,7 @@ tags:
 - Company
 - Artificial Intelligence
 - AI Agents
-- Model Context Protocol
+- MCP
 - Marketplace
 - Playbooks
 - Automation

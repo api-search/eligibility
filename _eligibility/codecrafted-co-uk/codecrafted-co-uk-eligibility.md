@@ -50,7 +50,7 @@ summary_line: 5 quoted statements, read from CodeCrafted's own page on 2026-11-0
 synthetic: false
 tags:
 - Company
-- Model Context Protocol
+- MCP
 - AI Agents
 - Design Systems
 - Web Development

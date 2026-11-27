@@ -445,8 +445,8 @@ tags:
 - CRM
 - Contacts
 - Small Business
-- Events
+- Event
 - Event Management
 - MCP
-- AI Assistants
+- AI Assistant
 ---

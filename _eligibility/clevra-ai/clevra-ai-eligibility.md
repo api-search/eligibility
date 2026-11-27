@@ -52,5 +52,5 @@ tags:
 - Payments
 - CRM
 - MCP
-- AI Assistants
+- AI Assistant
 ---

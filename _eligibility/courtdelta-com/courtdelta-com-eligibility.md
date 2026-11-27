@@ -125,7 +125,7 @@ tags:
 - Legal
 - Court Records
 - Case Tracking
-- Notifications
+- Notification
 - North Carolina
 - MCP
 ---

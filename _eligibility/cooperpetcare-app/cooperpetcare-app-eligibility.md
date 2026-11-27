@@ -56,7 +56,7 @@ tags:
 - Dog Boarding
 - Dog Training
 - Marketplace
-- Mobile Apps
+- Mobile App
 - Argentina
 - Latin America
 - MCP

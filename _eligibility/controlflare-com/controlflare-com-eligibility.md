@@ -47,6 +47,5 @@ tags:
 - Budget Caps
 - FinOps
 - MCP
-- Model Context Protocol
 - Serverless
 ---

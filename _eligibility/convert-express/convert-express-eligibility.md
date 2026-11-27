@@ -42,10 +42,10 @@ synthetic: false
 tags:
 - Company
 - Transcription
-- Speech To Text
+- Speech-to-Text
 - Audio
 - Video
 - Subtitles
-- AI
+- Artificial Intelligence
 - MCP
 ---

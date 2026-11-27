@@ -1,0 +1,344 @@
+---
+api_specs:
+- filename: netcorecloud-contacts-api-openapi.yml
+  format: yaml
+  label: Netcore Cloud Contacts API
+  slug: netcore-cloud-contacts-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/netcorecloud/openapi/netcorecloud-contacts-api-openapi.yml
+- filename: netcorecloud-attributes-api-openapi.yml
+  format: yaml
+  label: Netcore Cloud Attributes API
+  slug: netcore-cloud-attributes-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/netcorecloud/openapi/netcorecloud-attributes-api-openapi.yml
+- filename: netcorecloud-trigger-api-openapi.yml
+  format: yaml
+  label: Netcore Cloud Trigger API
+  slug: netcore-cloud-trigger-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/netcorecloud/openapi/netcorecloud-trigger-api-openapi.yml
+- filename: netcorecloud-api-management-api-openapi.yml
+  format: yaml
+  label: Netcore Cloud API Management API
+  slug: netcorecloud-api-management-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/netcorecloud/openapi/netcorecloud-api-management-api-openapi.yml
+- filename: netcorecloud-apn-template-api-openapi.yml
+  format: yaml
+  label: Netcore Cloud APN Template API
+  slug: netcorecloud-apn-template-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/netcorecloud/openapi/netcorecloud-apn-template-api-openapi.yml
+- filename: netcorecloud-auth-api-openapi.yml
+  format: yaml
+  label: Netcore Cloud Auth API
+  slug: netcorecloud-auth-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/netcorecloud/openapi/netcorecloud-auth-api-openapi.yml
+- filename: netcorecloud-campaign-api-openapi.yml
+  format: yaml
+  label: Netcore Cloud Campaign API
+  slug: netcorecloud-campaign-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/netcorecloud/openapi/netcorecloud-campaign-api-openapi.yml
+- filename: netcorecloud-clients-api-openapi.yml
+  format: yaml
+  label: Netcore Cloud Clients API
+  slug: netcorecloud-clients-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/netcorecloud/openapi/netcorecloud-clients-api-openapi.yml
+- filename: netcorecloud-configuration-api-openapi.yml
+  format: yaml
+  label: Netcore Cloud Configuration API
+  slug: netcorecloud-configuration-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/netcorecloud/openapi/netcorecloud-configuration-api-openapi.yml
+- filename: netcorecloud-consent-management-api-openapi.yml
+  format: yaml
+  label: Netcore Cloud Consent Management API
+  slug: netcorecloud-consent-management-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/netcorecloud/openapi/netcorecloud-consent-management-api-openapi.yml
+- filename: netcorecloud-conversion-tracking-api-openapi.yml
+  format: yaml
+  label: Netcore Cloud Conversion Tracking API
+  slug: netcorecloud-conversion-tracking-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/netcorecloud/openapi/netcorecloud-conversion-tracking-api-openapi.yml
+- filename: netcorecloud-dashboard-audit-api-openapi.yml
+  format: yaml
+  label: Netcore Cloud Dashboard & Audit API
+  slug: netcorecloud-dashboard-audit-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/netcorecloud/openapi/netcorecloud-dashboard-audit-api-openapi.yml
+- filename: netcorecloud-domain-apis-api-openapi.yml
+  format: yaml
+  label: Netcore Cloud Domain APIs API
+  slug: netcorecloud-domain-apis-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/netcorecloud/openapi/netcorecloud-domain-apis-api-openapi.yml
+- filename: netcorecloud-engine-cache-api-openapi.yml
+  format: yaml
+  label: Netcore Cloud Engine — Cache API
+  slug: netcorecloud-engine-cache-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/netcorecloud/openapi/netcorecloud-engine-cache-api-openapi.yml
+- filename: netcorecloud-engine-health-api-openapi.yml
+  format: yaml
+  label: Netcore Cloud Engine — Health API
+  slug: netcorecloud-engine-health-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/netcorecloud/openapi/netcorecloud-engine-health-api-openapi.yml
+- filename: netcorecloud-engine-send-api-openapi.yml
+  format: yaml
+  label: Netcore Cloud Engine — Send API
+  slug: netcorecloud-engine-send-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/netcorecloud/openapi/netcorecloud-engine-send-api-openapi.yml
+- filename: netcorecloud-engine-test-api-openapi.yml
+  format: yaml
+  label: Netcore Cloud Engine — Test API
+  slug: netcorecloud-engine-test-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/netcorecloud/openapi/netcorecloud-engine-test-api-openapi.yml
+- filename: netcorecloud-events-api-api-openapi.yml
+  format: yaml
+  label: Netcore Cloud Events API
+  slug: netcorecloud-events-api-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/netcorecloud/openapi/netcorecloud-events-api-api-openapi.yml
+- filename: netcorecloud-export-report-api-openapi.yml
+  format: yaml
+  label: Netcore Cloud Export Report API
+  slug: netcorecloud-export-report-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/netcorecloud/openapi/netcorecloud-export-report-api-openapi.yml
+- filename: netcorecloud-export-templates-api-openapi.yml
+  format: yaml
+  label: Netcore Cloud Export Templates API
+  slug: netcorecloud-export-templates-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/netcorecloud/openapi/netcorecloud-export-templates-api-openapi.yml
+- filename: netcorecloud-ip-management-api-api-openapi.yml
+  format: yaml
+  label: Netcore Cloud IP Management API
+  slug: netcorecloud-ip-management-api-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/netcorecloud/openapi/netcorecloud-ip-management-api-api-openapi.yml
+- filename: netcorecloud-json-message-api-openapi.yml
+  format: yaml
+  label: Netcore Cloud JSON Message API
+  slug: netcorecloud-json-message-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/netcorecloud/openapi/netcorecloud-json-message-api-openapi.yml
+- filename: netcorecloud-message-samples-api-openapi.yml
+  format: yaml
+  label: Netcore Cloud Message Samples API
+  slug: netcorecloud-message-samples-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/netcorecloud/openapi/netcorecloud-message-samples-api-openapi.yml
+- filename: netcorecloud-message-sending-api-openapi.yml
+  format: yaml
+  label: Netcore Cloud Message Sending API
+  slug: netcorecloud-message-sending-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/netcorecloud/openapi/netcorecloud-message-sending-api-openapi.yml
+- filename: netcorecloud-message-sending-apis-api-openapi.yml
+  format: yaml
+  label: Netcore Cloud Message Sending APIs API
+  slug: netcorecloud-message-sending-apis-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/netcorecloud/openapi/netcorecloud-message-sending-apis-api-openapi.yml
+- filename: netcorecloud-profile-api-api-openapi.yml
+  format: yaml
+  label: Netcore Cloud Profile API
+  slug: netcorecloud-profile-api-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/netcorecloud/openapi/netcorecloud-profile-api-api-openapi.yml
+- filename: netcorecloud-providers-api-openapi.yml
+  format: yaml
+  label: Netcore Cloud Providers API
+  slug: netcorecloud-providers-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/netcorecloud/openapi/netcorecloud-providers-api-openapi.yml
+- filename: netcorecloud-report-api-openapi.yml
+  format: yaml
+  label: Netcore Cloud Report API
+  slug: netcorecloud-report-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/netcorecloud/openapi/netcorecloud-report-api-openapi.yml
+- filename: netcorecloud-routes-api-openapi.yml
+  format: yaml
+  label: Netcore Cloud Routes API
+  slug: netcorecloud-routes-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/netcorecloud/openapi/netcorecloud-routes-api-openapi.yml
+- filename: netcorecloud-rules-api-openapi.yml
+  format: yaml
+  label: Netcore Cloud Rules API
+  slug: netcorecloud-rules-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/netcorecloud/openapi/netcorecloud-rules-api-openapi.yml
+- filename: netcorecloud-scope-api-api-openapi.yml
+  format: yaml
+  label: Netcore Cloud Scope API
+  slug: netcorecloud-scope-api-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/netcorecloud/openapi/netcorecloud-scope-api-api-openapi.yml
+- filename: netcorecloud-send-mail-api-api-openapi.yml
+  format: yaml
+  label: Netcore Cloud Send Mail API
+  slug: netcorecloud-send-mail-api-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/netcorecloud/openapi/netcorecloud-send-mail-api-api-openapi.yml
+- filename: netcorecloud-stats-api-api-openapi.yml
+  format: yaml
+  label: Netcore Cloud Stats API
+  slug: netcorecloud-stats-api-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/netcorecloud/openapi/netcorecloud-stats-api-api-openapi.yml
+- filename: netcorecloud-subaccount-api-api-openapi.yml
+  format: yaml
+  label: Netcore Cloud Subaccount API
+  slug: netcorecloud-subaccount-api-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/netcorecloud/openapi/netcorecloud-subaccount-api-api-openapi.yml
+- filename: netcorecloud-subaccount-apis-api-openapi.yml
+  format: yaml
+  label: Netcore Cloud Subaccount APIs API
+  slug: netcorecloud-subaccount-apis-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/netcorecloud/openapi/netcorecloud-subaccount-apis-api-openapi.yml
+- filename: netcorecloud-suppression-apis-api-openapi.yml
+  format: yaml
+  label: Netcore Cloud Suppression APIs API
+  slug: netcorecloud-suppression-apis-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/netcorecloud/openapi/netcorecloud-suppression-apis-api-openapi.yml
+- filename: netcorecloud-tags-api-api-openapi.yml
+  format: yaml
+  label: Netcore Cloud Tags API
+  slug: netcorecloud-tags-api-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/netcorecloud/openapi/netcorecloud-tags-api-api-openapi.yml
+- filename: netcorecloud-template-api-api-openapi.yml
+  format: yaml
+  label: Netcore Cloud Template API
+  slug: netcorecloud-template-api-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/netcorecloud/openapi/netcorecloud-template-api-api-openapi.yml
+- filename: netcorecloud-template-apis-api-openapi.yml
+  format: yaml
+  label: Netcore Cloud Template APIs API
+  slug: netcorecloud-template-apis-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/netcorecloud/openapi/netcorecloud-template-apis-api-openapi.yml
+- filename: netcorecloud-users-api-openapi.yml
+  format: yaml
+  label: Netcore Cloud Users API
+  slug: netcorecloud-users-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/netcorecloud/openapi/netcorecloud-users-api-openapi.yml
+- filename: netcorecloud-webhook-apis-api-openapi.yml
+  format: yaml
+  label: Netcore Cloud Webhook APIs API
+  slug: netcorecloud-webhook-apis-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/netcorecloud/openapi/netcorecloud-webhook-apis-api-openapi.yml
+- filename: netcorecloud-webhook-management-api-openapi.yml
+  format: yaml
+  label: Netcore Cloud Webhook Management API
+  slug: netcorecloud-webhook-management-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/netcorecloud/openapi/netcorecloud-webhook-management-api-openapi.yml
+- filename: netcorecloud-whatsapp-analytics-api-openapi.yml
+  format: yaml
+  label: Netcore Cloud WhatsApp Analytics API
+  slug: netcorecloud-whatsapp-analytics-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/netcorecloud/openapi/netcorecloud-whatsapp-analytics-api-openapi.yml
+- filename: netcorecloud-whatsapp-flows-api-openapi.yml
+  format: yaml
+  label: Netcore Cloud WhatsApp Flows API
+  slug: netcorecloud-whatsapp-flows-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/netcorecloud/openapi/netcorecloud-whatsapp-flows-api-openapi.yml
+- filename: netcorecloud-whatsapp-payments-api-openapi.yml
+  format: yaml
+  label: Netcore Cloud WhatsApp Payments API
+  slug: netcorecloud-whatsapp-payments-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/netcorecloud/openapi/netcorecloud-whatsapp-payments-api-openapi.yml
+- filename: netcorecloud-whatsapp-reach-estimate-api-openapi.yml
+  format: yaml
+  label: Netcore Cloud WhatsApp Reach Estimate API
+  slug: netcorecloud-whatsapp-reach-estimate-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/netcorecloud/openapi/netcorecloud-whatsapp-reach-estimate-api-openapi.yml
+- filename: netcorecloud-whatsapp-templates-api-openapi.yml
+  format: yaml
+  label: Netcore Cloud WhatsApp Templates API
+  slug: netcorecloud-whatsapp-templates-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/netcorecloud/openapi/netcorecloud-whatsapp-templates-api-openapi.yml
+claim_count: 4
+description: ''
+doc:
+  countries:
+    excluded: []
+    served: []
+    text: null
+  entity_types:
+  - text: “ Customer ” shall mean the entity or person procuring the Services under an Order Form
+    type: business
+  - text: “ Customer ” shall mean the entity or person procuring the Services under an Order Form
+    type: individual
+  minimum_age:
+    text: null
+    value: null
+  restricted_uses:
+  - summary: No unsolicited RCS messages
+    text: Customer will ensure that it does not use the RCS services (a) to send unsolicited communications
+  - summary: Unlawful or objectionable Content
+    text: Customer shall ensure that the Content is not infringing, libellous, defamatory, obscene, pornographic, abusive, harmful, threatening, harassing
+  verification:
+    approval_required: null
+    kyb: null
+    kyc: null
+    text: null
+excluded_countries: []
+layer: eligibility
+layer_version: 0.1.0
+layout: eligibility
+method: harvested
+model: claude-haiku-5-5
+name: Netcore Cloud
+provenance_date: '2026-11-10'
+provider_name: Netcore Cloud
+provider_slug: netcorecloud
+slug: netcorecloud-eligibility
+source_date: '2026-11-10'
+source_filename: netcorecloud-eligibility.yml
+source_heading: Eligibility
+source_page: https://netcore.ai/terms-of-service/
+source_url: ''
+source_yaml: "# Read from the provider's own page by engine/business/harvest-business.py. Every `text` is quoted verbatim from `url` (or the row's `source`); `unstated` means the page did not say.\neligibility: 0.1.0\nprovider: Netcore Cloud\naid: netcorecloud\nurl: https://netcore.ai/terms-of-service/\nsource_date: '2026-11-10'\nx-apis-io-derivation:\n  synthetic: false\n  method: harvested\n  read: '2026-11-10'\n  tool: engine/business/harvest-business.py\n  model: claude-haiku-5-5\ncountries:\n  served: []\n  excluded: []\n  text: null\nentity_types:\n- type: business\n  text: “ Customer ” shall mean the entity or person procuring the Services under an Order Form\n- type: individual\n  text: “ Customer ” shall mean the entity or person procuring the Services under an Order Form\nrestricted_uses:\n- summary: No unsolicited RCS messages\n  text: Customer will ensure that it does not use the RCS services (a) to send unsolicited communications\n- summary: Unlawful or objectionable Content\n\
+  \  text: Customer shall ensure that the Content is not infringing, libellous, defamatory, obscene, pornographic,\n    abusive, harmful, threatening, harassing\nverification:\n  kyc: null\n  kyb: null\n  approval_required: null\n  text: null\nminimum_age:\n  value: null\n  text: null\n"
+source_yaml_url: https://artifacts.apis.io/netcorecloud/eligibility/netcorecloud-eligibility.yml
+stated_fields:
+- entity_types
+- restricted_uses
+summary_line: 4 quoted statements, read from Netcore Cloud's own page on 2026-11-10.
+synthetic: false
+tags:
+- Company
+- Email
+- SMS
+- WhatsApp
+- RCS
+- CPaaS
+- Customer Engagement
+- Marketing Automation
+- Messaging
+---

@@ -60,5 +60,5 @@ tags:
 - Real Estate
 - Accounting
 - MCP
-- Agent Commerce
+- Agentic Commerce
 ---
